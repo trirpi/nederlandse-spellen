@@ -57,18 +57,10 @@ function LandingPage() {
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
-      <header className="flex justify-between items-center p-6">
+      <header className="p-6">
         <div>
           <h1 className="text-3xl font-bold text-orange-500">Nederlandse Spellen</h1>
           <p className="text-gray-500 text-sm mt-1">Learn Dutch through fun games</p>
-        </div>
-        <div className="flex gap-4">
-          <button className="px-4 py-2 text-orange-500 border border-orange-500 rounded-lg hover:bg-orange-50">
-            Word Resources
-          </button>
-          <button className="px-4 py-2 bg-orange-500 text-white rounded-lg hover:bg-orange-600">
-            Login
-          </button>
         </div>
       </header>
 
@@ -79,20 +71,6 @@ function LandingPage() {
           <p className="text-gray-600 text-lg">
             Select a game below and start mastering Dutch in an engaging, interactive way!
           </p>
-        </div>
-
-        {/* Filter Section */}
-        <div className="flex items-center justify-between mb-6">
-          <div className="flex items-center gap-4">
-            <span className="text-gray-500">Filter by:</span>
-            <div className="flex gap-2">
-              <button className="px-4 py-2 bg-gray-200 text-white rounded-lg">Verbs</button>
-              <button className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Nouns</button>
-              <button className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Numbers</button>
-              <button className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">Mobile Friendly</button>
-            </div>
-          </div>
-          <span className="text-gray-500">{games.length} games</span>
         </div>
 
         {/* Game Cards Grid */}
