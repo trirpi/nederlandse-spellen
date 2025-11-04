@@ -9,7 +9,7 @@ function GuessTheWordResults() {
 
   const handlePlayAgain = () => {
     navigate('/guess-the-word/game', {
-      state: location.state?.gameSettings || { category: 'easy', duration: 60 }
+      state: location.state?.gameSettings || { duration: 60 }
     })
   }
 

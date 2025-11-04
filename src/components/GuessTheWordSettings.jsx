@@ -1,27 +1,20 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import easyWords from '../data/easy.json'
-import hardWords from '../data/hard.json'
+import wordlist from '../data/wordlist.json'
 
 function GuessTheWordSettings() {
   const navigate = useNavigate()
-  const [wordCategory, setWordCategory] = useState('easy')
   const [duration, setDuration] = useState(60)
 
   const handleStartGame = () => {
     navigate('/guess-the-word/game', {
       state: {
-        category: wordCategory,
         duration: duration
       }
     })
   }
 
-  const wordLists = {
-    easy: easyWords,
-    hard: hardWords
-  }
-  const wordCount = wordLists[wordCategory]?.length || 0
+  const wordCount = wordlist.length
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -48,19 +41,6 @@ function GuessTheWordSettings() {
         {/* Game Settings Card */}
         <div className="bg-white rounded-lg shadow-md p-8 mb-4">
           <h2 className="text-2xl font-bold mb-6">Game Settings</h2>
-
-          {/* Word Category */}
-          <div className="mb-8">
-            <label className="block text-gray-700 font-medium mb-3">Word Category</label>
-            <select
-              value={wordCategory}
-              onChange={(e) => setWordCategory(e.target.value)}
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent"
-            >
-              <option value="easy">Easy</option>
-              <option value="hard">Hard</option>
-            </select>
-          </div>
 
           {/* Duration Slider */}
           <div className="mb-8">

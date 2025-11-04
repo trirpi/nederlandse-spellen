@@ -91,8 +91,8 @@ for (let i = 1; i < lines.length; i++) {
 // Sort alphabetically by Dutch word for consistency
 words.sort((a, b) => a.dutch.localeCompare(b.dutch));
 
-// Write to hard.json (since this is a comprehensive list)
-const outputPath = path.join(__dirname, '../src/data/hard.json');
+// Write to wordlist.json
+const outputPath = path.join(__dirname, '../src/data/wordlist.json');
 fs.writeFileSync(outputPath, JSON.stringify(words, null, 2), 'utf-8');
 
 console.log(`✅ Converted ${words.length} words from CSV to JSON`);
