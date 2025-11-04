@@ -85,7 +85,12 @@ function LandingPage() {
             >
               <div className="text-6xl mb-4 text-center">{game.image}</div>
               <h3 className="text-xl font-bold mb-2">{game.title}</h3>
-              <p className="text-gray-600 text-sm">{game.description}</p>
+              <p className="text-gray-600 text-sm mb-2">{game.description}</p>
+              {!game.available && (
+                <p className="text-orange-500 text-sm font-semibold italic mt-2">
+                  In Progress - Coming Soon
+                </p>
+              )}
             </div>
           ))}
         </div>
