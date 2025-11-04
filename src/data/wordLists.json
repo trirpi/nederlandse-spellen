@@ -1,0 +1,27 @@
+{
+  "easy": [
+    {
+      "dutch": "het boek",
+      "english": "book",
+      "article": "het"
+    },
+    {
+      "dutch": "de tafel",
+      "english": "table",
+      "article": "de"
+    }
+  ],
+  "hard": [
+    {
+      "dutch": "de bibliotheek",
+      "english": "library",
+      "article": "de"
+    },
+    {
+      "dutch": "het gerecht",
+      "english": "dish",
+      "article": "het"
+    }
+  ]
+}
+
