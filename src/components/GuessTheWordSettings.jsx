@@ -42,7 +42,7 @@ function GuessTheWordSettings() {
       <main className="max-w-4xl mx-auto px-6 py-8">
         <h1 className="text-4xl font-bold text-orange-500 mb-4">Guess the Word</h1>
         <p className="text-gray-600 mb-8">
-          See a Dutch word with its article and type the English translation! Build your Dutch vocabulary through fast-paced practice. Match is case-insensitive.
+          See a Dutch word and type the English translation! Build your Dutch vocabulary through fast-paced practice. Match is case-insensitive.
         </p>
 
         {/* Game Settings Card */}

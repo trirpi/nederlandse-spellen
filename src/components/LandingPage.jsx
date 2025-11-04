@@ -7,7 +7,7 @@ function LandingPage() {
     {
       id: 'guess-the-word',
       title: 'Guess the Word',
-      description: 'Translate Dutch nouns to English - see a Dutch word with its article and type the English meaning.',
+      description: 'Translate Dutch nouns to English - see a Dutch word and type the English meaning.',
       image: '📚',
       available: true
     },
