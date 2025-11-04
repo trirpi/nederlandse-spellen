@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import wordLists from '../data/wordLists.json'
+import easyWords from '../data/easy.json'
+import hardWords from '../data/hard.json'
 
 function GuessTheWordSettings() {
   const navigate = useNavigate()
@@ -16,6 +17,10 @@ function GuessTheWordSettings() {
     })
   }
 
+  const wordLists = {
+    easy: easyWords,
+    hard: hardWords
+  }
   const wordCount = wordLists[wordCategory]?.length || 0
 
   return (
