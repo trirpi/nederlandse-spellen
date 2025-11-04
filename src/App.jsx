@@ -4,9 +4,12 @@ import GuessTheWordSettings from './components/GuessTheWordSettings'
 import GuessTheWordGame from './components/GuessTheWordGame'
 import GuessTheWordResults from './components/GuessTheWordResults'
 
+// Get base path from Vite's base URL or default to '/'
+const basePath = import.meta.env.BASE_URL || '/'
+
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={basePath}>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/guess-the-word/settings" element={<GuessTheWordSettings />} />

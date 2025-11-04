@@ -31,17 +31,54 @@ npm run build
 
 ## Deployment
 
-This project is configured for Netlify deployment. Simply connect your repository to Netlify and it will automatically build and deploy.
+This project is configured for GitHub Pages deployment.
 
-The `netlify.toml` file configures:
-- Build command: `npm run build`
-- Publish directory: `dist`
-- SPA routing redirects
+### Setting up GitHub Pages
+
+1. **Push your code to GitHub** (if you haven't already):
+   ```bash
+   git remote add origin https://github.com/YOUR_USERNAME/nederlandse-spellen.git
+   git push -u origin main
+   ```
+
+2. **Enable GitHub Pages**:
+   - Go to your repository on GitHub
+   - Navigate to **Settings** → **Pages**
+   - Under **Source**, select **GitHub Actions**
+   - Save the settings
+
+3. **Automatic Deployment**:
+   - The GitHub Actions workflow (`.github/workflows/deploy.yml`) will automatically build and deploy your site on every push to the `main` branch
+   - Your site will be available at: `https://YOUR_USERNAME.github.io/nederlandse-spellen/`
+
+### Manual Deployment (Alternative)
+
+If you prefer to deploy manually using the `gh-pages` package:
+
+```bash
+npm install --save-dev gh-pages
+```
+
+Then add to `package.json`:
+```json
+"scripts": {
+  "deploy": "npm run build && gh-pages -d dist"
+}
+```
+
+And run:
+```bash
+npm run deploy
+```
 
 ## Word Lists
 
-Word lists are stored in `src/data/wordLists.json`. You can add more words to the `easy` and `hard` arrays. Each word object should have:
-- `dutch`: The Dutch word with article (e.g., "het boek")
+Word lists are stored in separate JSON files:
+- `src/data/easy.json` - Easy difficulty words
+- `src/data/hard.json` - Hard difficulty words
+
+Each word object should have:
+- `dutch`: The Dutch word (e.g., "boek")
 - `english`: The English translation
 - `article`: The Dutch article ("de" or "het")
 
