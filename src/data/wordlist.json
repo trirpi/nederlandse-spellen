@@ -1,57 +1,13 @@
 [
   {
-    "dutch": "aanbevelingsbrief",
-    "english": "letter of recommendation",
-    "article": "de"
-  },
-  {
     "dutch": "aanbieding",
     "english": "offer",
     "article": "de"
   },
   {
-    "dutch": "aanbieding doen",
-    "english": "to make an offer"
-  },
-  {
     "dutch": "aanbod",
     "english": "offer",
     "article": "het"
-  },
-  {
-    "dutch": "aanbodsoverschot",
-    "english": "supply surplus",
-    "article": "het"
-  },
-  {
-    "dutch": "aandeel",
-    "english": "share/stock",
-    "article": "het"
-  },
-  {
-    "dutch": "aandeelhoudersovereenkomst",
-    "english": "shareholders' agreement",
-    "article": "de"
-  },
-  {
-    "dutch": "aandeleninkoop",
-    "english": "share buyback",
-    "article": "de"
-  },
-  {
-    "dutch": "aandelenmarkt",
-    "english": "stock market",
-    "article": "de"
-  },
-  {
-    "dutch": "aandelenoverdracht",
-    "english": "share transfer",
-    "article": "de"
-  },
-  {
-    "dutch": "aandelenuitgifte",
-    "english": "share issuance",
-    "article": "de"
   },
   {
     "dutch": "aanklacht",
@@ -75,21 +31,6 @@
   {
     "dutch": "aankoop",
     "english": "purchase",
-    "article": "de"
-  },
-  {
-    "dutch": "aansprakelijkheid",
-    "english": "liability",
-    "article": "de"
-  },
-  {
-    "dutch": "aansprakelijkheidsbeperking",
-    "english": "limitation of liability",
-    "article": "de"
-  },
-  {
-    "dutch": "aansprakelijkheidsclausule",
-    "english": "liability clause",
     "article": "de"
   },
   {
@@ -136,28 +77,8 @@
     "article": "de"
   },
   {
-    "dutch": "abductieve redenering",
-    "english": "abductive reasoning",
-    "article": "de"
-  },
-  {
-    "dutch": "abductieve verklaring",
-    "english": "abductive explanation",
-    "article": "de"
-  },
-  {
     "dutch": "absolutisme",
     "english": "absolutism",
-    "article": "het"
-  },
-  {
-    "dutch": "abstracte kunst",
-    "english": "abstract art",
-    "article": "de"
-  },
-  {
-    "dutch": "abstractieniveau",
-    "english": "level of abstraction",
     "article": "het"
   },
   {
@@ -183,11 +104,6 @@
   {
     "dutch": "acteur",
     "english": "actor",
-    "article": "de"
-  },
-  {
-    "dutch": "activatiefunctie",
-    "english": "activation function",
     "article": "de"
   },
   {
@@ -219,11 +135,6 @@
     "article": "de"
   },
   {
-    "dutch": "adoptieprocedure",
-    "english": "adoption procedure",
-    "article": "de"
-  },
-  {
     "dutch": "advocaat",
     "english": "lawyer",
     "article": "de"
@@ -239,16 +150,6 @@
     "article": "de"
   },
   {
-    "dutch": "afgeleide",
-    "english": "derivative",
-    "article": "de"
-  },
-  {
-    "dutch": "afgeleide tweede orde",
-    "english": "second-order derivative",
-    "article": "de"
-  },
-  {
     "dutch": "afgeprijsd",
     "english": "discounted",
     "article": "de"
@@ -260,16 +161,6 @@
   {
     "dutch": "afkoelen",
     "english": "cool down",
-    "article": "de"
-  },
-  {
-    "dutch": "aflossing",
-    "english": "repayment",
-    "article": "de"
-  },
-  {
-    "dutch": "aflossingsschema",
-    "english": "repayment schedule",
     "article": "de"
   },
   {
@@ -296,11 +187,6 @@
     "article": "de"
   },
   {
-    "dutch": "afstandsbediening",
-    "english": "remote control",
-    "article": "de"
-  },
-  {
     "dutch": "aftrekken",
     "english": "to subtract"
   },
@@ -315,18 +201,9 @@
     "article": "de"
   },
   {
-    "dutch": "afvalverwerkingsinstallatie",
-    "english": "waste treatment facility",
-    "article": "de"
-  },
-  {
     "dutch": "afwasmachine",
     "english": "dishwasher",
     "article": "de"
-  },
-  {
-    "dutch": "afwassen",
-    "english": "to do the dishes"
   },
   {
     "dutch": "afwijzing",
@@ -354,16 +231,6 @@
     "article": "de"
   },
   {
-    "dutch": "algebra",
-    "english": "algebra",
-    "article": "de"
-  },
-  {
-    "dutch": "algebraïsche structuur",
-    "english": "algebraic structure",
-    "article": "de"
-  },
-  {
     "dutch": "alliantie",
     "english": "alliance",
     "article": "de"
@@ -371,16 +238,6 @@
   {
     "dutch": "alligator",
     "english": "alligator",
-    "article": "de"
-  },
-  {
-    "dutch": "alpha-generatie",
-    "english": "alpha generation",
-    "article": "de"
-  },
-  {
-    "dutch": "alternatieve hypothese",
-    "english": "alternative hypothesis",
     "article": "de"
   },
   {
@@ -394,68 +251,8 @@
     "article": "de"
   },
   {
-    "dutch": "ambassadeur",
-    "english": "ambassador",
-    "article": "de"
-  },
-  {
-    "dutch": "ambtenaar",
-    "english": "civil servant",
-    "article": "de"
-  },
-  {
-    "dutch": "ambtenarenrecht",
-    "english": "civil service law",
-    "article": "het"
-  },
-  {
     "dutch": "ambulance",
     "english": "ambulance",
-    "article": "de"
-  },
-  {
-    "dutch": "amendering",
-    "english": "amendment",
-    "article": "de"
-  },
-  {
-    "dutch": "anachronisme",
-    "english": "anachronism",
-    "article": "de"
-  },
-  {
-    "dutch": "analist",
-    "english": "analyst",
-    "article": "de"
-  },
-  {
-    "dutch": "analyse",
-    "english": "analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "analytische benadering",
-    "english": "analytical approach",
-    "article": "de"
-  },
-  {
-    "dutch": "analytische filosofie",
-    "english": "analytic philosophy",
-    "article": "de"
-  },
-  {
-    "dutch": "analytische methode",
-    "english": "analytical method",
-    "article": "de"
-  },
-  {
-    "dutch": "analytische strengheid",
-    "english": "analytical rigor",
-    "article": "de"
-  },
-  {
-    "dutch": "analytische traditie",
-    "english": "analytical tradition",
     "article": "de"
   },
   {
@@ -480,21 +277,6 @@
   {
     "dutch": "annulering",
     "english": "cancellation",
-    "article": "de"
-  },
-  {
-    "dutch": "antirealisme",
-    "english": "anti-realism",
-    "article": "de"
-  },
-  {
-    "dutch": "antivirusprogramma",
-    "english": "antivirus software",
-    "article": "het"
-  },
-  {
-    "dutch": "antropocentrisme",
-    "english": "anthropocentrism",
     "article": "de"
   },
   {
@@ -532,11 +314,6 @@
     "article": "het"
   },
   {
-    "dutch": "appartementsrecht",
-    "english": "condominium law",
-    "article": "het"
-  },
-  {
     "dutch": "appel",
     "english": "apple",
     "article": "de"
@@ -550,81 +327,6 @@
     "dutch": "Arabisch",
     "english": "Arabic",
     "article": "het"
-  },
-  {
-    "dutch": "arbeidersbeweging",
-    "english": "labor movement",
-    "article": "de"
-  },
-  {
-    "dutch": "arbeidsmarkt",
-    "english": "labor market",
-    "article": "de"
-  },
-  {
-    "dutch": "arbeidsomstandigheden",
-    "english": "work environment",
-    "article": "de"
-  },
-  {
-    "dutch": "arbeidsongevallenverzekering",
-    "english": "work accident insurance",
-    "article": "de"
-  },
-  {
-    "dutch": "arbeidsovereenkomst",
-    "english": "employment contract",
-    "article": "de"
-  },
-  {
-    "dutch": "arbeidsrecht",
-    "english": "labor law",
-    "article": "de"
-  },
-  {
-    "dutch": "arbeidsrecht",
-    "english": "labor law",
-    "article": "het"
-  },
-  {
-    "dutch": "arbeidsvoorwaarden",
-    "english": "working conditions",
-    "article": "de"
-  },
-  {
-    "dutch": "arbitrage",
-    "english": "arbitration",
-    "article": "de"
-  },
-  {
-    "dutch": "arbitrageclausule",
-    "english": "arbitration clause",
-    "article": "de"
-  },
-  {
-    "dutch": "arbitragecommissie",
-    "english": "arbitration committee",
-    "article": "de"
-  },
-  {
-    "dutch": "arbitragehandel",
-    "english": "arbitrage trading",
-    "article": "de"
-  },
-  {
-    "dutch": "arbitragehof",
-    "english": "arbitration court",
-    "article": "het"
-  },
-  {
-    "dutch": "arbitrageprocedure",
-    "english": "arbitration procedure",
-    "article": "de"
-  },
-  {
-    "dutch": "arbitragestrategie",
-    "english": "arbitrage strategy",
-    "article": "de"
   },
   {
     "dutch": "archeologie",
@@ -657,28 +359,13 @@
     "article": "de"
   },
   {
-    "dutch": "arrest",
-    "english": "court ruling",
-    "article": "het"
-  },
-  {
     "dutch": "artiest",
     "english": "artist",
     "article": "de"
   },
   {
-    "dutch": "artistieke expressie",
-    "english": "artistic expression",
-    "article": "de"
-  },
-  {
     "dutch": "as",
     "english": "axis",
-    "article": "de"
-  },
-  {
-    "dutch": "asielprocedure",
-    "english": "asylum procedure",
     "article": "de"
   },
   {
@@ -733,11 +420,6 @@
   {
     "dutch": "autogarage",
     "english": "car garage",
-    "article": "de"
-  },
-  {
-    "dutch": "automatiseringsproces",
-    "english": "automation process",
     "article": "de"
   },
   {
@@ -850,16 +532,6 @@
     "article": "de"
   },
   {
-    "dutch": "balans",
-    "english": "balance sheet",
-    "article": "de"
-  },
-  {
-    "dutch": "balanspositie",
-    "english": "balance sheet position",
-    "article": "de"
-  },
-  {
     "dutch": "balkon",
     "english": "balcony",
     "article": "het"
@@ -867,11 +539,6 @@
   {
     "dutch": "banaan",
     "english": "banana",
-    "article": "de"
-  },
-  {
-    "dutch": "banachruimte",
-    "english": "Banach space",
     "article": "de"
   },
   {
@@ -890,26 +557,6 @@
     "article": "de"
   },
   {
-    "dutch": "barokstijl",
-    "english": "baroque style",
-    "article": "de"
-  },
-  {
-    "dutch": "barometer",
-    "english": "barometer",
-    "article": "de"
-  },
-  {
-    "dutch": "basis",
-    "english": "basis (math)",
-    "article": "de"
-  },
-  {
-    "dutch": "basisvector",
-    "english": "basis vector",
-    "article": "de"
-  },
-  {
     "dutch": "basketbal",
     "english": "basketball",
     "article": "de"
@@ -917,11 +564,6 @@
   {
     "dutch": "batterij",
     "english": "battery",
-    "article": "de"
-  },
-  {
-    "dutch": "Bayesiaanse statistiek",
-    "english": "Bayesian statistics",
     "article": "de"
   },
   {
@@ -938,21 +580,6 @@
     "dutch": "beddengoed",
     "english": "bedding",
     "article": "het"
-  },
-  {
-    "dutch": "bedrijfsgeheimen",
-    "english": "trade secrets",
-    "article": "de"
-  },
-  {
-    "dutch": "beëdigde getuige",
-    "english": "sworn witness",
-    "article": "de"
-  },
-  {
-    "dutch": "beëdigde vertaler",
-    "english": "sworn translator",
-    "article": "de"
   },
   {
     "dutch": "beëdiging",
@@ -998,26 +625,6 @@
     "english": "to understand"
   },
   {
-    "dutch": "begroting",
-    "english": "budget",
-    "article": "de"
-  },
-  {
-    "dutch": "begrotingsbeleid",
-    "english": "fiscal policy",
-    "article": "het"
-  },
-  {
-    "dutch": "begrotingsreserve",
-    "english": "budget reserve",
-    "article": "de"
-  },
-  {
-    "dutch": "begrotingstekort",
-    "english": "budget deficit",
-    "article": "het"
-  },
-  {
     "dutch": "behandeling",
     "english": "treatment",
     "article": "de"
@@ -1048,38 +655,8 @@
     "article": "de"
   },
   {
-    "dutch": "belangenafweging",
-    "english": "balancing of interests",
-    "article": "de"
-  },
-  {
-    "dutch": "belasting",
-    "english": "tax",
-    "article": "de"
-  },
-  {
-    "dutch": "belastingontduiking",
-    "english": "tax evasion",
-    "article": "de"
-  },
-  {
-    "dutch": "belastingrecht",
-    "english": "tax law",
-    "article": "het"
-  },
-  {
-    "dutch": "belastingvermijding",
-    "english": "tax avoidance",
-    "article": "de"
-  },
-  {
     "dutch": "belegering",
     "english": "siege",
-    "article": "de"
-  },
-  {
-    "dutch": "belegging",
-    "english": "investment asset",
     "article": "de"
   },
   {
@@ -1088,24 +665,9 @@
     "article": "de"
   },
   {
-    "dutch": "beleggingsportefeuille",
-    "english": "investment portfolio",
-    "article": "de"
-  },
-  {
     "dutch": "beleid",
     "english": "policy",
     "article": "het"
-  },
-  {
-    "dutch": "bemiddeling",
-    "english": "mediation",
-    "article": "de"
-  },
-  {
-    "dutch": "bemiddelingsprocedure",
-    "english": "mediation procedure",
-    "article": "de"
   },
   {
     "dutch": "benaderen",
@@ -1162,11 +724,6 @@
     "article": "het"
   },
   {
-    "dutch": "beroepsopleiding",
-    "english": "vocational training",
-    "article": "de"
-  },
-  {
     "dutch": "beslaglegging",
     "english": "seizure",
     "article": "de"
@@ -1175,11 +732,6 @@
     "dutch": "beslisboom",
     "english": "decision tree",
     "article": "de"
-  },
-  {
-    "dutch": "beslissingsmodel",
-    "english": "decision model",
-    "article": "het"
   },
   {
     "dutch": "bestand",
@@ -1201,47 +753,13 @@
     "article": "de"
   },
   {
-    "dutch": "bestelling plaatsen",
-    "english": "to place an order"
-  },
-  {
     "dutch": "bestemming",
     "english": "destination",
     "article": "de"
   },
   {
-    "dutch": "besturingssysteem",
-    "english": "operating system",
-    "article": "het"
-  },
-  {
-    "dutch": "bestuurdersaansprakelijkheid",
-    "english": "director liability",
-    "article": "de"
-  },
-  {
-    "dutch": "bestuurlijke sanctie",
-    "english": "administrative sanction",
-    "article": "de"
-  },
-  {
     "dutch": "bestuursorgaan",
     "english": "administrative body",
-    "article": "het"
-  },
-  {
-    "dutch": "bestuursprocesrecht",
-    "english": "administrative procedural law",
-    "article": "het"
-  },
-  {
-    "dutch": "bestuursrecht",
-    "english": "administrative law",
-    "article": "de"
-  },
-  {
-    "dutch": "bestuursrecht",
-    "english": "administrative law",
     "article": "het"
   },
   {
@@ -1274,46 +792,6 @@
     "article": "de"
   },
   {
-    "dutch": "betekenishorizon",
-    "english": "horizon of meaning",
-    "article": "de"
-  },
-  {
-    "dutch": "betrouwbaarheidsinterval",
-    "english": "confidence interval",
-    "article": "de"
-  },
-  {
-    "dutch": "betrouwbaarheidsniveau",
-    "english": "confidence level",
-    "article": "de"
-  },
-  {
-    "dutch": "beurs",
-    "english": "stock exchange",
-    "article": "de"
-  },
-  {
-    "dutch": "beursindex",
-    "english": "stock index",
-    "article": "de"
-  },
-  {
-    "dutch": "beurswaarde",
-    "english": "market value",
-    "article": "de"
-  },
-  {
-    "dutch": "beveiligingsbeambte",
-    "english": "security guard",
-    "article": "de"
-  },
-  {
-    "dutch": "beveiligingslek",
-    "english": "security vulnerability",
-    "article": "de"
-  },
-  {
     "dutch": "bevestigen",
     "english": "to confirm"
   },
@@ -1342,19 +820,9 @@
     "article": "de"
   },
   {
-    "dutch": "bewijsrecht",
-    "english": "law of evidence",
-    "article": "het"
-  },
-  {
     "dutch": "bewijsstuk",
     "english": "piece of evidence",
     "article": "het"
-  },
-  {
-    "dutch": "bewijsvoering",
-    "english": "presentation of evidence",
-    "article": "de"
   },
   {
     "dutch": "bewolkt",
@@ -1365,11 +833,6 @@
     "dutch": "bewustzijn",
     "english": "consciousness",
     "article": "het"
-  },
-  {
-    "dutch": "bewustzijnsfilosofie",
-    "english": "philosophy of consciousness",
-    "article": "de"
   },
   {
     "dutch": "bezem",
@@ -1410,11 +873,6 @@
     "article": "de"
   },
   {
-    "dutch": "bid-ask spread",
-    "english": "bid-ask spread",
-    "article": "de"
-  },
-  {
     "dutch": "biefstuk",
     "english": "steak",
     "article": "de"
@@ -1428,11 +886,6 @@
     "dutch": "bierglas",
     "english": "beer glass",
     "article": "het"
-  },
-  {
-    "dutch": "bifurcatietheorie",
-    "english": "bifurcation theory",
-    "article": "de"
   },
   {
     "dutch": "bij",
@@ -1468,11 +921,6 @@
     "article": "de"
   },
   {
-    "dutch": "binomiale verdeling",
-    "english": "binomial distribution",
-    "article": "de"
-  },
-  {
     "dutch": "biobrandstof",
     "english": "biofuel",
     "article": "de"
@@ -1485,11 +933,6 @@
   {
     "dutch": "biologie",
     "english": "biology",
-    "article": "de"
-  },
-  {
-    "dutch": "biologische landbouw",
-    "english": "organic farming",
     "article": "de"
   },
   {
@@ -1532,11 +975,6 @@
     "article": "de"
   },
   {
-    "dutch": "blockchain-technologie",
-    "english": "blockchain technology",
-    "article": "de"
-  },
-  {
     "dutch": "bloed",
     "english": "blood",
     "article": "het"
@@ -1567,21 +1005,6 @@
     "article": "de"
   },
   {
-    "dutch": "bodembescherming",
-    "english": "soil protection",
-    "article": "de"
-  },
-  {
-    "dutch": "bodemvruchtbaarheid",
-    "english": "soil fertility",
-    "article": "de"
-  },
-  {
-    "dutch": "boedelbeschrijving",
-    "english": "inventory of assets",
-    "article": "de"
-  },
-  {
     "dutch": "boek",
     "english": "book",
     "article": "het"
@@ -1589,11 +1012,6 @@
   {
     "dutch": "boekhouding",
     "english": "accounting",
-    "article": "de"
-  },
-  {
-    "dutch": "boekhoudkundige controle",
-    "english": "accounting audit",
     "article": "de"
   },
   {
@@ -1654,10 +1072,6 @@
     "dutch": "bonus",
     "english": "bonus",
     "article": "de"
-  },
-  {
-    "dutch": "boodschappen doen",
-    "english": "to do groceries"
   },
   {
     "dutch": "boog",
@@ -1739,11 +1153,6 @@
     "article": "de"
   },
   {
-    "dutch": "bouwrecht",
-    "english": "construction law",
-    "article": "het"
-  },
-  {
     "dutch": "bouwvakker",
     "english": "construction worker",
     "article": "de"
@@ -1794,11 +1203,6 @@
     "article": "de"
   },
   {
-    "dutch": "break-even analyse",
-    "english": "break-even analysis",
-    "article": "de"
-  },
-  {
     "dutch": "breedte",
     "english": "width",
     "article": "de"
@@ -1837,11 +1241,6 @@
     "article": "de"
   },
   {
-    "dutch": "broeikasgasuitstoot",
-    "english": "greenhouse gas emissions",
-    "article": "de"
-  },
-  {
     "dutch": "broek",
     "english": "pants",
     "article": "de"
@@ -1860,11 +1259,6 @@
     "dutch": "broodje",
     "english": "sandwich",
     "article": "het"
-  },
-  {
-    "dutch": "Brownse beweging",
-    "english": "Brownian motion",
-    "article": "de"
   },
   {
     "dutch": "brug",
@@ -1887,24 +1281,9 @@
     "article": "het"
   },
   {
-    "dutch": "bruto binnenlands product",
-    "english": "gross domestic product",
-    "article": "het"
-  },
-  {
-    "dutch": "bruto nationaal product",
-    "english": "gross national product",
-    "article": "het"
-  },
-  {
     "dutch": "btw",
     "english": "VAT",
     "article": "de"
-  },
-  {
-    "dutch": "budget",
-    "english": "budget",
-    "article": "het"
   },
   {
     "dutch": "budgettering",
@@ -1931,11 +1310,6 @@
     "article": "het"
   },
   {
-    "dutch": "burenrecht",
-    "english": "neighbor law",
-    "article": "het"
-  },
-  {
     "dutch": "burgemeester",
     "english": "mayor",
     "article": "de"
@@ -1943,21 +1317,6 @@
   {
     "dutch": "burger",
     "english": "citizen",
-    "article": "de"
-  },
-  {
-    "dutch": "burgerinitiatief",
-    "english": "citizens' initiative",
-    "article": "het"
-  },
-  {
-    "dutch": "burgerlijk wetboek",
-    "english": "civil code",
-    "article": "het"
-  },
-  {
-    "dutch": "burgerrechtenbeweging",
-    "english": "civil rights movement",
     "article": "de"
   },
   {
@@ -1977,12 +1336,12 @@
   },
   {
     "dutch": "buurman",
-    "english": "neighbor (male)",
+    "english": "neighbor",
     "article": "de"
   },
   {
     "dutch": "buurvrouw",
-    "english": "neighbor (female)",
+    "english": "neighbor",
     "article": "de"
   },
   {
@@ -2016,11 +1375,6 @@
     "article": "het"
   },
   {
-    "dutch": "cash conversion cycle",
-    "english": "cash conversion cycle",
-    "article": "de"
-  },
-  {
     "dutch": "cassatie",
     "english": "cassation",
     "article": "de"
@@ -2031,33 +1385,13 @@
     "article": "de"
   },
   {
-    "dutch": "categorische imperatief",
-    "english": "categorical imperative",
-    "article": "de"
-  },
-  {
     "dutch": "categorisering",
     "english": "categorization",
     "article": "de"
   },
   {
-    "dutch": "censuurverbod",
-    "english": "prohibition of censorship",
-    "article": "de"
-  },
-  {
     "dutch": "centrale bank",
     "english": "central bank",
-    "article": "de"
-  },
-  {
-    "dutch": "centrale bank digitale valuta",
-    "english": "central bank digital currency",
-    "article": "de"
-  },
-  {
-    "dutch": "centrale limietstelling",
-    "english": "central limit theorem",
     "article": "de"
   },
   {
@@ -2086,16 +1420,6 @@
     "article": "de"
   },
   {
-    "dutch": "chaostheorie",
-    "english": "chaos theory",
-    "article": "de"
-  },
-  {
-    "dutch": "charterovereenkomst",
-    "english": "charter agreement",
-    "article": "de"
-  },
-  {
     "dutch": "chauffeur",
     "english": "driver",
     "article": "de"
@@ -2113,11 +1437,6 @@
   {
     "dutch": "cheque",
     "english": "check",
-    "article": "de"
-  },
-  {
-    "dutch": "chi-kwadraatverdeling",
-    "english": "chi-squared distribution",
     "article": "de"
   },
   {
@@ -2161,16 +1480,6 @@
     "article": "de"
   },
   {
-    "dutch": "circulaire economie",
-    "english": "circular economy",
-    "article": "de"
-  },
-  {
-    "dutch": "circulaire productieketen",
-    "english": "circular production chain",
-    "article": "de"
-  },
-  {
     "dutch": "cirkel",
     "english": "circle",
     "article": "de"
@@ -2178,21 +1487,6 @@
   {
     "dutch": "citroen",
     "english": "lemon",
-    "article": "de"
-  },
-  {
-    "dutch": "civiel recht",
-    "english": "civil law",
-    "article": "de"
-  },
-  {
-    "dutch": "civiel recht",
-    "english": "civil law",
-    "article": "het"
-  },
-  {
-    "dutch": "civiele bescherming",
-    "english": "civil protection",
     "article": "de"
   },
   {
@@ -2256,16 +1550,6 @@
     "article": "de"
   },
   {
-    "dutch": "cognitieve dissonantie",
-    "english": "cognitive dissonance",
-    "article": "de"
-  },
-  {
-    "dutch": "coherentietheorie",
-    "english": "coherence theory",
-    "article": "de"
-  },
-  {
     "dutch": "cola",
     "english": "cola",
     "article": "de"
@@ -2276,28 +1560,18 @@
     "article": "het"
   },
   {
-    "dutch": "collectieve arbeidsovereenkomst",
-    "english": "collective labor agreement",
-    "article": "het"
-  },
-  {
     "dutch": "collega",
     "english": "colleague",
     "article": "de"
   },
   {
     "dutch": "college",
-    "english": "lecture (university)",
+    "english": "lecture",
     "article": "het"
   },
   {
     "dutch": "combinatoriek",
     "english": "combinatorics",
-    "article": "de"
-  },
-  {
-    "dutch": "combinatorische optimalisatie",
-    "english": "combinatorial optimization",
     "article": "de"
   },
   {
@@ -2311,18 +1585,8 @@
     "article": "de"
   },
   {
-    "dutch": "comparitie",
-    "english": "court appearance",
-    "article": "de"
-  },
-  {
     "dutch": "compatibilisme",
     "english": "compatibilism",
-    "article": "de"
-  },
-  {
-    "dutch": "complexe analyse",
-    "english": "complex analysis",
     "article": "de"
   },
   {
@@ -2333,31 +1597,6 @@
   {
     "dutch": "computer",
     "english": "computer",
-    "article": "de"
-  },
-  {
-    "dutch": "conceptuele analyse",
-    "english": "conceptual analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "conceptuele helderheid",
-    "english": "conceptual clarity",
-    "article": "de"
-  },
-  {
-    "dutch": "conceptuele herziening",
-    "english": "conceptual revision",
-    "article": "de"
-  },
-  {
-    "dutch": "conceptuele kaders",
-    "english": "conceptual frameworks",
-    "article": "de"
-  },
-  {
-    "dutch": "conceptuele kunst",
-    "english": "conceptual art",
     "article": "de"
   },
   {
@@ -2376,28 +1615,8 @@
     "article": "de"
   },
   {
-    "dutch": "conclusie van antwoord",
-    "english": "statement of defense",
-    "article": "de"
-  },
-  {
-    "dutch": "concurrente schuldeiser",
-    "english": "unsecured creditor",
-    "article": "de"
-  },
-  {
     "dutch": "concurrentie",
     "english": "competition",
-    "article": "de"
-  },
-  {
-    "dutch": "conditietraining",
-    "english": "cardio training",
-    "article": "de"
-  },
-  {
-    "dutch": "conditionele kans",
-    "english": "conditional probability",
     "article": "de"
   },
   {
@@ -2406,39 +1625,9 @@
     "article": "de"
   },
   {
-    "dutch": "conflict",
-    "english": "conflict",
-    "article": "het"
-  },
-  {
-    "dutch": "conflictbemiddeling",
-    "english": "conflict mediation",
-    "article": "de"
-  },
-  {
-    "dutch": "conjunctuur",
-    "english": "economic cycle",
-    "article": "de"
-  },
-  {
-    "dutch": "conjunctuurcyclus",
-    "english": "business cycle",
-    "article": "de"
-  },
-  {
-    "dutch": "consequentialisme",
-    "english": "consequentialism",
-    "article": "het"
-  },
-  {
     "dutch": "constante",
     "english": "constant",
     "article": "de"
-  },
-  {
-    "dutch": "constitutioneel recht",
-    "english": "constitutional law",
-    "article": "het"
   },
   {
     "dutch": "constructivisme",
@@ -2456,21 +1645,6 @@
     "article": "het"
   },
   {
-    "dutch": "consulaire bijstand",
-    "english": "consular assistance",
-    "article": "de"
-  },
-  {
-    "dutch": "consumentenrecht",
-    "english": "consumer law",
-    "article": "de"
-  },
-  {
-    "dutch": "consumentenvertrouwen",
-    "english": "consumer confidence",
-    "article": "het"
-  },
-  {
     "dutch": "contactlens",
     "english": "contact lens",
     "article": "de"
@@ -2485,48 +1659,13 @@
     "article": "het"
   },
   {
-    "dutch": "continentale filosofie",
-    "english": "continental philosophy",
-    "article": "de"
-  },
-  {
-    "dutch": "continentale traditie",
-    "english": "continental tradition",
-    "article": "de"
-  },
-  {
     "dutch": "continuïteit",
     "english": "continuity",
     "article": "de"
   },
   {
-    "dutch": "contract",
-    "english": "contract",
-    "article": "het"
-  },
-  {
-    "dutch": "contractbreuk",
-    "english": "breach of contract",
-    "article": "de"
-  },
-  {
-    "dutch": "contractbreuk",
-    "english": "breach of contract",
-    "article": "het"
-  },
-  {
     "dutch": "convergentie",
     "english": "convergence",
-    "article": "de"
-  },
-  {
-    "dutch": "converteerbare obligatie",
-    "english": "convertible bond",
-    "article": "de"
-  },
-  {
-    "dutch": "convex optimalisatie",
-    "english": "convex optimization",
     "article": "de"
   },
   {
@@ -2545,16 +1684,6 @@
     "article": "de"
   },
   {
-    "dutch": "correlatie",
-    "english": "correlation",
-    "article": "de"
-  },
-  {
-    "dutch": "correlatiecoëfficiënt",
-    "english": "correlation coefficient",
-    "article": "de"
-  },
-  {
     "dutch": "couponrente",
     "english": "coupon rate",
     "article": "de"
@@ -2570,23 +1699,8 @@
     "article": "de"
   },
   {
-    "dutch": "creditcard",
-    "english": "credit card",
-    "article": "de"
-  },
-  {
     "dutch": "cricket",
     "english": "cricket",
-    "article": "de"
-  },
-  {
-    "dutch": "crisisbeheersing",
-    "english": "crisis management",
-    "article": "de"
-  },
-  {
-    "dutch": "crisiscommunicatie",
-    "english": "crisis communication",
     "article": "de"
   },
   {
@@ -2595,18 +1709,8 @@
     "article": "de"
   },
   {
-    "dutch": "cryptografische sleutel",
-    "english": "cryptographic key",
-    "article": "de"
-  },
-  {
     "dutch": "cultuur",
     "english": "culture",
-    "article": "de"
-  },
-  {
-    "dutch": "curatele",
-    "english": "guardianship (legal incapacity)",
     "article": "de"
   },
   {
@@ -2630,11 +1734,6 @@
     "article": "de"
   },
   {
-    "dutch": "cyberbeveiliging",
-    "english": "cybersecurity",
-    "article": "de"
-  },
-  {
     "dutch": "cyberveiligheid",
     "english": "cybersecurity",
     "article": "de"
@@ -2647,11 +1746,6 @@
   {
     "dutch": "dagelijks",
     "english": "daily",
-    "article": "de"
-  },
-  {
-    "dutch": "dagschotel",
-    "english": "dish of the day",
     "article": "de"
   },
   {
@@ -2675,12 +1769,12 @@
   },
   {
     "dutch": "danser",
-    "english": "dancer (male)",
+    "english": "dancer",
     "article": "de"
   },
   {
     "dutch": "danseres",
-    "english": "dancer (female)",
+    "english": "dancer",
     "article": "de"
   },
   {
@@ -2734,19 +1828,9 @@
     "article": "het"
   },
   {
-    "dutch": "debiteurenbeheer",
-    "english": "accounts receivable management",
-    "article": "de"
-  },
-  {
     "dutch": "decennium",
     "english": "decade",
     "article": "het"
-  },
-  {
-    "dutch": "decentrale financiën",
-    "english": "decentralized finance",
-    "article": "de"
   },
   {
     "dutch": "decimaal",
@@ -2762,16 +1846,6 @@
     "dutch": "decreet",
     "english": "decree",
     "article": "het"
-  },
-  {
-    "dutch": "deductieve redenering",
-    "english": "deductive reasoning",
-    "article": "de"
-  },
-  {
-    "dutch": "deductieve sluiting",
-    "english": "deductive closure",
-    "article": "de"
   },
   {
     "dutch": "deelauto",
@@ -2799,32 +1873,9 @@
     "article": "de"
   },
   {
-    "dutch": "delen",
-    "english": "to share"
-  },
-  {
-    "dutch": "deliberatieve democratie",
-    "english": "deliberative democracy",
-    "article": "de"
-  },
-  {
     "dutch": "deling",
     "english": "division",
     "article": "de"
-  },
-  {
-    "dutch": "demilitarisering",
-    "english": "demilitarization",
-    "article": "de"
-  },
-  {
-    "dutch": "democratische rechtsorde",
-    "english": "democratic legal order",
-    "article": "de"
-  },
-  {
-    "dutch": "demonstratierecht",
-    "english": "right to protest"
   },
   {
     "dutch": "demotie",
@@ -2841,23 +1892,8 @@
     "article": "het"
   },
   {
-    "dutch": "depressie",
-    "english": "depression (economic)",
-    "article": "de"
-  },
-  {
-    "dutch": "derivaat",
-    "english": "derivative",
-    "article": "het"
-  },
-  {
     "dutch": "derivatenhandel",
     "english": "derivatives trading",
-    "article": "de"
-  },
-  {
-    "dutch": "deskundigenbericht",
-    "english": "expert report",
     "article": "de"
   },
   {
@@ -2871,21 +1907,6 @@
     "article": "de"
   },
   {
-    "dutch": "determinisme",
-    "english": "determinism",
-    "article": "het"
-  },
-  {
-    "dutch": "determinisme",
-    "english": "determinism",
-    "article": "de"
-  },
-  {
-    "dutch": "deterministisch model",
-    "english": "deterministic model",
-    "article": "het"
-  },
-  {
     "dutch": "deugd",
     "english": "virtue",
     "article": "de"
@@ -2893,11 +1914,6 @@
   {
     "dutch": "deugdethiek",
     "english": "virtue ethics",
-    "article": "de"
-  },
-  {
-    "dutch": "deugdzaam handelen",
-    "english": "virtuous action",
     "article": "de"
   },
   {
@@ -2913,11 +1929,6 @@
   {
     "dutch": "dialectiek",
     "english": "dialectics",
-    "article": "de"
-  },
-  {
-    "dutch": "dialectische methode",
-    "english": "dialectical method",
     "article": "de"
   },
   {
@@ -2956,48 +1967,8 @@
     "article": "de"
   },
   {
-    "dutch": "diersoortenbescherming",
-    "english": "species protection",
-    "article": "de"
-  },
-  {
     "dutch": "diesel",
     "english": "diesel",
-    "article": "de"
-  },
-  {
-    "dutch": "differentiaalmeetkunde",
-    "english": "differential geometry",
-    "article": "de"
-  },
-  {
-    "dutch": "differentiaaloperator",
-    "english": "differential operator",
-    "article": "de"
-  },
-  {
-    "dutch": "differentiaalrekening",
-    "english": "differential calculus",
-    "article": "de"
-  },
-  {
-    "dutch": "differentiaalvergelijking",
-    "english": "differential equation",
-    "article": "de"
-  },
-  {
-    "dutch": "differentiequotiënt",
-    "english": "difference quotient",
-    "article": "de"
-  },
-  {
-    "dutch": "digitale dienstverlening",
-    "english": "digital services",
-    "article": "de"
-  },
-  {
-    "dutch": "digitale identiteit",
-    "english": "digital identity",
     "article": "de"
   },
   {
@@ -3006,18 +1977,8 @@
     "article": "de"
   },
   {
-    "dutch": "digitale transformatie",
-    "english": "digital transformation",
-    "article": "de"
-  },
-  {
     "dutch": "digitale valuta",
     "english": "digital currency",
-    "article": "de"
-  },
-  {
-    "dutch": "digitale veiligheid",
-    "english": "digital security",
     "article": "de"
   },
   {
@@ -3051,43 +2012,8 @@
     "article": "de"
   },
   {
-    "dutch": "diplomatieke betrekkingen",
-    "english": "diplomatic relations",
-    "article": "de"
-  },
-  {
-    "dutch": "diplomatieke immuniteit",
-    "english": "diplomatic immunity",
-    "article": "de"
-  },
-  {
     "dutch": "directeur",
     "english": "director",
-    "article": "de"
-  },
-  {
-    "dutch": "discrete wiskunde",
-    "english": "discrete mathematics",
-    "article": "de"
-  },
-  {
-    "dutch": "discriminatieverbod",
-    "english": "prohibition of discrimination",
-    "article": "de"
-  },
-  {
-    "dutch": "discursieve ethiek",
-    "english": "discourse ethics",
-    "article": "de"
-  },
-  {
-    "dutch": "discursieve logica",
-    "english": "discursive logic",
-    "article": "de"
-  },
-  {
-    "dutch": "discursieve praktijk",
-    "english": "discursive practice",
     "article": "de"
   },
   {
@@ -3096,43 +2022,8 @@
     "article": "de"
   },
   {
-    "dutch": "dissipatieve systemen",
-    "english": "dissipative systems",
-    "article": "de"
-  },
-  {
-    "dutch": "distributiecentrum",
-    "english": "distribution center",
-    "article": "de"
-  },
-  {
-    "dutch": "distributienetwerk",
-    "english": "distribution network",
-    "article": "de"
-  },
-  {
-    "dutch": "distributietheorie",
-    "english": "distribution theory",
-    "article": "de"
-  },
-  {
     "dutch": "divergentie",
     "english": "divergence",
-    "article": "de"
-  },
-  {
-    "dutch": "divergentie-operator",
-    "english": "divergence operator",
-    "article": "de"
-  },
-  {
-    "dutch": "dividend",
-    "english": "dividend",
-    "article": "het"
-  },
-  {
-    "dutch": "dividenduitkering",
-    "english": "dividend distribution",
     "article": "de"
   },
   {
@@ -3257,11 +2148,6 @@
     "english": "to drink"
   },
   {
-    "dutch": "drinkwatervoorziening",
-    "english": "drinking water supply",
-    "article": "de"
-  },
-  {
     "dutch": "drogen",
     "english": "to dry"
   },
@@ -3319,18 +2205,8 @@
     "article": "de"
   },
   {
-    "dutch": "dubbele nationaliteit",
-    "english": "dual nationality",
-    "article": "de"
-  },
-  {
     "dutch": "due diligence",
     "english": "due diligence",
-    "article": "de"
-  },
-  {
-    "dutch": "due diligence onderzoek",
-    "english": "due diligence investigation",
     "article": "de"
   },
   {
@@ -3383,16 +2259,6 @@
     "article": "de"
   },
   {
-    "dutch": "duurzame energiebron",
-    "english": "sustainable energy source",
-    "article": "de"
-  },
-  {
-    "dutch": "duurzame mobiliteit",
-    "english": "sustainable mobility",
-    "article": "de"
-  },
-  {
     "dutch": "dwangbevel",
     "english": "writ of execution",
     "article": "de"
@@ -3410,11 +2276,6 @@
   {
     "dutch": "dweilen",
     "english": "to mop"
-  },
-  {
-    "dutch": "dynamisch programmeren",
-    "english": "dynamic programming",
-    "article": "de"
   },
   {
     "dutch": "dynastie",
@@ -3449,36 +2310,6 @@
   {
     "dutch": "ecologie",
     "english": "ecology",
-    "article": "de"
-  },
-  {
-    "dutch": "ecologische voetafdruk",
-    "english": "ecological footprint",
-    "article": "de"
-  },
-  {
-    "dutch": "economie",
-    "english": "economy",
-    "article": "de"
-  },
-  {
-    "dutch": "economische groei",
-    "english": "economic growth",
-    "article": "de"
-  },
-  {
-    "dutch": "economische indicator",
-    "english": "economic indicator",
-    "article": "de"
-  },
-  {
-    "dutch": "economische toegevoegde waarde",
-    "english": "economic value added",
-    "article": "de"
-  },
-  {
-    "dutch": "economische waarde",
-    "english": "economic value",
     "article": "de"
   },
   {
@@ -3532,16 +2363,6 @@
     "article": "de"
   },
   {
-    "dutch": "eigendomsrecht",
-    "english": "property law",
-    "article": "het"
-  },
-  {
-    "dutch": "eigenschapwaarde",
-    "english": "eigenvalue",
-    "article": "de"
-  },
-  {
     "dutch": "eigenvector",
     "english": "eigenvector",
     "article": "de"
@@ -3549,11 +2370,6 @@
   {
     "dutch": "eigenwaarde",
     "english": "eigenvalue",
-    "article": "de"
-  },
-  {
-    "dutch": "eigenwaardeprobleem",
-    "english": "eigenvalue problem",
     "article": "de"
   },
   {
@@ -3569,21 +2385,6 @@
   {
     "dutch": "elektricien",
     "english": "electrician",
-    "article": "de"
-  },
-  {
-    "dutch": "elektrische auto",
-    "english": "electric car",
-    "article": "de"
-  },
-  {
-    "dutch": "elektrische laadpaal",
-    "english": "electric charging station",
-    "article": "de"
-  },
-  {
-    "dutch": "elektronicawinkel",
-    "english": "electronics store",
     "article": "de"
   },
   {
@@ -3617,11 +2418,6 @@
     "article": "de"
   },
   {
-    "dutch": "emissieprospectus",
-    "english": "issue prospectus",
-    "article": "de"
-  },
-  {
     "dutch": "emissiereductie",
     "english": "emission reduction",
     "article": "de"
@@ -3632,21 +2428,6 @@
     "article": "de"
   },
   {
-    "dutch": "empirische evidentie",
-    "english": "empirical evidence",
-    "article": "de"
-  },
-  {
-    "dutch": "empirische verificatie",
-    "english": "empirical verification",
-    "article": "de"
-  },
-  {
-    "dutch": "empirisme",
-    "english": "empiricism",
-    "article": "het"
-  },
-  {
     "dutch": "encyclopedie",
     "english": "encyclopedia",
     "article": "de"
@@ -3654,11 +2435,6 @@
   {
     "dutch": "energie",
     "english": "energy",
-    "article": "de"
-  },
-  {
-    "dutch": "energie-efficiëntie",
-    "english": "energy efficiency",
     "article": "de"
   },
   {
@@ -3682,16 +2458,6 @@
     "article": "de"
   },
   {
-    "dutch": "energietransitie",
-    "english": "energy transition",
-    "article": "de"
-  },
-  {
-    "dutch": "energievoorziening",
-    "english": "energy supply",
-    "article": "de"
-  },
-  {
     "dutch": "Engels",
     "english": "English",
     "article": "het"
@@ -3707,59 +2473,9 @@
     "article": "de"
   },
   {
-    "dutch": "epistemisch relativisme",
-    "english": "epistemic relativism",
-    "article": "het"
-  },
-  {
-    "dutch": "epistemische beperkingen",
-    "english": "epistemic limitations",
-    "article": "de"
-  },
-  {
-    "dutch": "epistemische deugd",
-    "english": "epistemic virtue",
-    "article": "de"
-  },
-  {
-    "dutch": "epistemische gemeenschap",
-    "english": "epistemic community",
-    "article": "de"
-  },
-  {
-    "dutch": "epistemische rechtvaardiging",
-    "english": "epistemic justification",
-    "article": "de"
-  },
-  {
-    "dutch": "epistemische waarde",
-    "english": "epistemic value",
-    "article": "de"
-  },
-  {
     "dutch": "epistemologie",
     "english": "epistemology",
     "article": "de"
-  },
-  {
-    "dutch": "erfdienstbaarheid",
-    "english": "easement",
-    "article": "het"
-  },
-  {
-    "dutch": "erfgoedbescherming",
-    "english": "heritage protection",
-    "article": "de"
-  },
-  {
-    "dutch": "erfrecht",
-    "english": "inheritance law",
-    "article": "de"
-  },
-  {
-    "dutch": "erfrecht",
-    "english": "inheritance law",
-    "article": "het"
   },
   {
     "dutch": "erwt",
@@ -3782,11 +2498,6 @@
     "article": "de"
   },
   {
-    "dutch": "esthetische waarde",
-    "english": "aesthetic value",
-    "article": "de"
-  },
-  {
     "dutch": "eten",
     "english": "food",
     "article": "het"
@@ -3800,11 +2511,6 @@
     "english": "to prepare food"
   },
   {
-    "dutch": "ETF (exchange-traded fund)",
-    "english": "exchange-traded fund",
-    "article": "de"
-  },
-  {
     "dutch": "ethiek",
     "english": "ethics",
     "article": "de"
@@ -3812,16 +2518,6 @@
   {
     "dutch": "ethische norm",
     "english": "ethical norm",
-    "article": "de"
-  },
-  {
-    "dutch": "ethische rechtvaardiging",
-    "english": "ethical justification",
-    "article": "de"
-  },
-  {
-    "dutch": "ethische verantwoording",
-    "english": "ethical justification",
     "article": "de"
   },
   {
@@ -3840,11 +2536,6 @@
     "article": "de"
   },
   {
-    "dutch": "evacuatieoefening",
-    "english": "evacuation drill",
-    "article": "de"
-  },
-  {
     "dutch": "evacuatieplan",
     "english": "evacuation plan",
     "article": "de"
@@ -3858,11 +2549,6 @@
     "dutch": "evenaar",
     "english": "equator",
     "article": "de"
-  },
-  {
-    "dutch": "evenredigheidsbeginsel",
-    "english": "principle of proportionality",
-    "article": "het"
   },
   {
     "dutch": "examen",
@@ -3885,39 +2571,14 @@
     "article": "de"
   },
   {
-    "dutch": "executoriale titel",
-    "english": "enforceable title",
-    "article": "de"
-  },
-  {
     "dutch": "existentialisme",
     "english": "existentialism",
     "article": "het"
   },
   {
-    "dutch": "existentiefilosofie",
-    "english": "existential philosophy",
-    "article": "de"
-  },
-  {
-    "dutch": "existentiële angst",
-    "english": "existential anxiety",
-    "article": "de"
-  },
-  {
-    "dutch": "existentiële authenticiteit",
-    "english": "existential authenticity",
-    "article": "de"
-  },
-  {
     "dutch": "experiment",
     "english": "experiment",
     "article": "het"
-  },
-  {
-    "dutch": "exponentiële functie",
-    "english": "exponential function",
-    "article": "de"
   },
   {
     "dutch": "export",
@@ -3932,11 +2593,6 @@
   {
     "dutch": "expressionisme",
     "english": "expressionism",
-    "article": "de"
-  },
-  {
-    "dutch": "extraterritoriale bevoegdheid",
-    "english": "extraterritorial jurisdiction",
     "article": "de"
   },
   {
@@ -3955,34 +2611,9 @@
     "article": "de"
   },
   {
-    "dutch": "faillissementsaanvraag",
-    "english": "bankruptcy petition",
-    "article": "de"
-  },
-  {
-    "dutch": "faillissementsverslag",
-    "english": "bankruptcy report",
-    "article": "de"
-  },
-  {
-    "dutch": "falsifieerbaarheid",
-    "english": "falsifiability",
-    "article": "de"
-  },
-  {
     "dutch": "familie",
     "english": "family",
     "article": "de"
-  },
-  {
-    "dutch": "familierecht",
-    "english": "family law",
-    "article": "de"
-  },
-  {
-    "dutch": "familierecht",
-    "english": "family law",
-    "article": "het"
   },
   {
     "dutch": "fan",
@@ -4004,23 +2635,8 @@
     "english": "to congratulate"
   },
   {
-    "dutch": "fenomenale bewustzijn",
-    "english": "phenomenal consciousness",
-    "article": "de"
-  },
-  {
-    "dutch": "fenomenale ervaring",
-    "english": "phenomenal experience",
-    "article": "de"
-  },
-  {
     "dutch": "fenomenologie",
     "english": "phenomenology",
-    "article": "de"
-  },
-  {
-    "dutch": "fenomenologische reductie",
-    "english": "phenomenological reduction",
     "article": "de"
   },
   {
@@ -4053,11 +2669,6 @@
     "article": "de"
   },
   {
-    "dutch": "fietsinfrastructuur",
-    "english": "cycling infrastructure",
-    "article": "de"
-  },
-  {
     "dutch": "fietspad",
     "english": "bike path",
     "article": "het"
@@ -4083,46 +2694,6 @@
     "article": "de"
   },
   {
-    "dutch": "filosofie",
-    "english": "philosophy",
-    "article": "de"
-  },
-  {
-    "dutch": "filosofische grondslag",
-    "english": "philosophical foundation",
-    "article": "de"
-  },
-  {
-    "dutch": "filosofische methode",
-    "english": "philosophical method",
-    "article": "de"
-  },
-  {
-    "dutch": "financieel verslag",
-    "english": "financial report",
-    "article": "het"
-  },
-  {
-    "dutch": "financiële hefboom",
-    "english": "financial leverage",
-    "article": "de"
-  },
-  {
-    "dutch": "financiële projectie",
-    "english": "financial projection",
-    "article": "de"
-  },
-  {
-    "dutch": "financieringsbron",
-    "english": "source of financing",
-    "article": "de"
-  },
-  {
-    "dutch": "financieringsplan",
-    "english": "financing plan",
-    "article": "het"
-  },
-  {
     "dutch": "fintech-sector",
     "english": "fintech sector",
     "article": "de"
@@ -4130,11 +2701,6 @@
   {
     "dutch": "firewall",
     "english": "firewall",
-    "article": "de"
-  },
-  {
-    "dutch": "fiscale wetgeving",
-    "english": "fiscal legislation",
     "article": "de"
   },
   {
@@ -4227,23 +2793,8 @@
     "article": "de"
   },
   {
-    "dutch": "Fourier-transformatie",
-    "english": "Fourier transform",
-    "article": "de"
-  },
-  {
-    "dutch": "fouriertransformatie",
-    "english": "Fourier transform",
-    "article": "de"
-  },
-  {
     "dutch": "fout",
     "english": "error",
-    "article": "de"
-  },
-  {
-    "dutch": "fractale geometrie",
-    "english": "fractal geometry",
     "article": "de"
   },
   {
@@ -4282,36 +2833,6 @@
     "article": "het"
   },
   {
-    "dutch": "functie",
-    "english": "position",
-    "article": "de"
-  },
-  {
-    "dutch": "functietransformatie",
-    "english": "function transformation",
-    "article": "de"
-  },
-  {
-    "dutch": "functionaalanalyse",
-    "english": "functional analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "functionele vergelijking",
-    "english": "functional equation",
-    "article": "de"
-  },
-  {
-    "dutch": "fusie",
-    "english": "merger",
-    "article": "de"
-  },
-  {
-    "dutch": "fusie- en overnamerecht",
-    "english": "mergers and acquisitions law",
-    "article": "het"
-  },
-  {
     "dutch": "gaan",
     "english": "to go"
   },
@@ -4323,11 +2844,6 @@
   {
     "dutch": "galeriehouder",
     "english": "gallery owner",
-    "article": "de"
-  },
-  {
-    "dutch": "game-theorie",
-    "english": "game theory",
     "article": "de"
   },
   {
@@ -4400,18 +2916,8 @@
     "article": "de"
   },
   {
-    "dutch": "gebruiksvoorwerp",
-    "english": "utility item",
-    "article": "het"
-  },
-  {
     "dutch": "geel",
     "english": "yellow",
-    "article": "de"
-  },
-  {
-    "dutch": "geestfilosofie",
-    "english": "philosophy of mind",
     "article": "de"
   },
   {
@@ -4421,21 +2927,6 @@
   {
     "dutch": "gegevensback-up",
     "english": "data backup",
-    "article": "de"
-  },
-  {
-    "dutch": "gegevensbescherming",
-    "english": "data protection",
-    "article": "de"
-  },
-  {
-    "dutch": "gegevensbeschermingsrecht",
-    "english": "data protection law",
-    "article": "het"
-  },
-  {
-    "dutch": "gegevensversleuteling",
-    "english": "data encryption",
     "article": "de"
   },
   {
@@ -4449,34 +2940,14 @@
     "article": "het"
   },
   {
-    "dutch": "geheimhoudingsverklaring",
-    "english": "non-disclosure agreement",
-    "article": "de"
-  },
-  {
     "dutch": "geit",
     "english": "goat",
-    "article": "de"
-  },
-  {
-    "dutch": "geldmarkt",
-    "english": "money market",
     "article": "de"
   },
   {
     "dutch": "gelijk aan",
     "english": "equal to",
     "article": "de"
-  },
-  {
-    "dutch": "gelijke behandelingswet",
-    "english": "equal treatment law",
-    "article": "de"
-  },
-  {
-    "dutch": "gelijkheidsbeginsel",
-    "english": "principle of equality",
-    "article": "het"
   },
   {
     "dutch": "gelijkspelen",
@@ -4527,29 +2998,14 @@
     "article": "de"
   },
   {
-    "dutch": "geodesische lijn",
-    "english": "geodesic",
-    "article": "de"
-  },
-  {
     "dutch": "geodriehoek",
     "english": "set square",
-    "article": "de"
-  },
-  {
-    "dutch": "geothermische energie",
-    "english": "geothermal energy",
     "article": "de"
   },
   {
     "dutch": "gerecht",
     "english": "dish",
     "article": "het"
-  },
-  {
-    "dutch": "gerechtelijke uitspraak",
-    "english": "court ruling",
-    "article": "de"
   },
   {
     "dutch": "gescheiden",
@@ -4564,26 +3020,6 @@
   {
     "dutch": "geschiktheid",
     "english": "suitability",
-    "article": "de"
-  },
-  {
-    "dutch": "geschil",
-    "english": "dispute",
-    "article": "het"
-  },
-  {
-    "dutch": "geschillenbeslechting",
-    "english": "dispute resolution",
-    "article": "de"
-  },
-  {
-    "dutch": "geschillencommissie",
-    "english": "disputes committee",
-    "article": "de"
-  },
-  {
-    "dutch": "geschillenregeling",
-    "english": "dispute settlement",
     "article": "de"
   },
   {
@@ -4632,11 +3068,6 @@
     "article": "de"
   },
   {
-    "dutch": "getuigenverklaring",
-    "english": "witness statement",
-    "article": "de"
-  },
-  {
     "dutch": "geur",
     "english": "smell",
     "article": "de"
@@ -4649,11 +3080,6 @@
   {
     "dutch": "geven",
     "english": "to give"
-  },
-  {
-    "dutch": "gevorderdenniveau",
-    "english": "advanced level",
-    "article": "het"
   },
   {
     "dutch": "gewasrotatie",
@@ -4673,21 +3099,6 @@
   {
     "dutch": "gewichtheffen",
     "english": "to lift weights"
-  },
-  {
-    "dutch": "gewogen gemiddelde kapitaalkosten",
-    "english": "weighted average cost of capital",
-    "article": "de"
-  },
-  {
-    "dutch": "gewone aandeel",
-    "english": "common share",
-    "article": "de"
-  },
-  {
-    "dutch": "gewone differentiaalvergelijking",
-    "english": "ordinary differential equation",
-    "article": "de"
   },
   {
     "dutch": "gewoonte",
@@ -4722,11 +3133,6 @@
   {
     "dutch": "gezondheidszorg",
     "english": "healthcare",
-    "article": "de"
-  },
-  {
-    "dutch": "gezondheidszorgsysteem",
-    "english": "healthcare system",
     "article": "de"
   },
   {
@@ -4803,18 +3209,8 @@
     "article": "het"
   },
   {
-    "dutch": "governance token",
-    "english": "governance token",
-    "article": "de"
-  },
-  {
     "dutch": "graad",
     "english": "degree",
-    "article": "de"
-  },
-  {
-    "dutch": "graad van een polynoom",
-    "english": "degree of a polynomial",
     "article": "de"
   },
   {
@@ -4825,11 +3221,6 @@
   {
     "dutch": "grafiek",
     "english": "chart",
-    "article": "de"
-  },
-  {
-    "dutch": "grafische vormgeving",
-    "english": "graphic design",
     "article": "de"
   },
   {
@@ -4853,23 +3244,8 @@
     "article": "de"
   },
   {
-    "dutch": "grenswaardeprobleem",
-    "english": "boundary value problem",
-    "article": "de"
-  },
-  {
     "dutch": "griep",
     "english": "flu",
-    "article": "de"
-  },
-  {
-    "dutch": "griffier",
-    "english": "court clerk",
-    "article": "de"
-  },
-  {
-    "dutch": "griffierecht",
-    "english": "court registry fee",
     "article": "de"
   },
   {
@@ -4913,11 +3289,6 @@
     "article": "de"
   },
   {
-    "dutch": "groepentheorie",
-    "english": "group theory",
-    "article": "de"
-  },
-  {
     "dutch": "groeten",
     "english": "to greet"
   },
@@ -4934,11 +3305,6 @@
   {
     "dutch": "grondwet",
     "english": "constitution",
-    "article": "de"
-  },
-  {
-    "dutch": "grondwetgevende vergadering",
-    "english": "constitutional assembly",
     "article": "de"
   },
   {
@@ -4959,11 +3325,6 @@
   {
     "dutch": "grot",
     "english": "cave",
-    "article": "de"
-  },
-  {
-    "dutch": "grote-getallenwet",
-    "english": "law of large numbers",
     "article": "de"
   },
   {
@@ -5022,11 +3383,6 @@
     "article": "de"
   },
   {
-    "dutch": "hamiltoniaanse mechanica",
-    "english": "Hamiltonian mechanics",
-    "article": "de"
-  },
-  {
     "dutch": "hand",
     "english": "hand",
     "article": "de"
@@ -5062,43 +3418,13 @@
     "article": "de"
   },
   {
-    "dutch": "handelsakkoord",
-    "english": "trade agreement",
-    "article": "het"
-  },
-  {
     "dutch": "handelsbalans",
     "english": "trade balance",
     "article": "de"
   },
   {
-    "dutch": "handelsbelemmering",
-    "english": "trade barrier",
-    "article": "de"
-  },
-  {
     "dutch": "handelsnaam",
     "english": "trade name",
-    "article": "de"
-  },
-  {
-    "dutch": "handelsnaamrecht",
-    "english": "trade name law",
-    "article": "het"
-  },
-  {
-    "dutch": "handelsrecht",
-    "english": "commercial law",
-    "article": "de"
-  },
-  {
-    "dutch": "handelsrecht",
-    "english": "commercial law",
-    "article": "het"
-  },
-  {
-    "dutch": "handhavingsmaatregel",
-    "english": "enforcement measure",
     "article": "de"
   },
   {
@@ -5155,23 +3481,8 @@
     "article": "de"
   },
   {
-    "dutch": "havenstaatcontrole",
-    "english": "port state control",
-    "article": "de"
-  },
-  {
     "dutch": "havik",
     "english": "hawk",
-    "article": "de"
-  },
-  {
-    "dutch": "hedgefonds",
-    "english": "hedge fund",
-    "article": "het"
-  },
-  {
-    "dutch": "hedgefonds",
-    "english": "hedge fund",
     "article": "de"
   },
   {
@@ -5190,18 +3501,8 @@
     "article": "de"
   },
   {
-    "dutch": "hefboomwerking",
-    "english": "leverage",
-    "article": "de"
-  },
-  {
     "dutch": "heffing",
     "english": "levy",
-    "article": "de"
-  },
-  {
-    "dutch": "heisenbergformulering",
-    "english": "Heisenberg formulation",
     "article": "de"
   },
   {
@@ -5273,21 +3574,6 @@
     "article": "de"
   },
   {
-    "dutch": "hermeneutische benadering",
-    "english": "hermeneutic approach",
-    "article": "de"
-  },
-  {
-    "dutch": "hermeneutische cirkel",
-    "english": "hermeneutic circle",
-    "article": "de"
-  },
-  {
-    "dutch": "hernieuwbare energie",
-    "english": "renewable energy",
-    "article": "de"
-  },
-  {
     "dutch": "hersenen",
     "english": "brain",
     "article": "de"
@@ -5295,16 +3581,6 @@
   {
     "dutch": "herstarten",
     "english": "to restart"
-  },
-  {
-    "dutch": "herstructurering",
-    "english": "restructuring",
-    "article": "de"
-  },
-  {
-    "dutch": "herstructureringsplan",
-    "english": "restructuring plan",
-    "article": "het"
   },
   {
     "dutch": "hert",
@@ -5322,11 +3598,6 @@
     "article": "de"
   },
   {
-    "dutch": "herzieningsprocedure",
-    "english": "review procedure",
-    "article": "de"
-  },
-  {
     "dutch": "heup",
     "english": "hip",
     "article": "de"
@@ -5334,16 +3605,6 @@
   {
     "dutch": "heuvel",
     "english": "hill",
-    "article": "de"
-  },
-  {
-    "dutch": "hilbertruimte",
-    "english": "Hilbert space",
-    "article": "de"
-  },
-  {
-    "dutch": "Hilbertruimte",
-    "english": "Hilbert space",
     "article": "de"
   },
   {
@@ -5357,18 +3618,8 @@
     "article": "de"
   },
   {
-    "dutch": "historische volatiliteit",
-    "english": "historical volatility",
-    "article": "de"
-  },
-  {
     "dutch": "hitte",
     "english": "heat",
-    "article": "de"
-  },
-  {
-    "dutch": "hitte-eiland effect",
-    "english": "urban heat island effect",
     "article": "de"
   },
   {
@@ -5441,11 +3692,6 @@
     "article": "het"
   },
   {
-    "dutch": "hoofdstad",
-    "english": "capital city",
-    "article": "de"
-  },
-  {
     "dutch": "hoogte",
     "english": "height",
     "article": "de"
@@ -5453,11 +3699,6 @@
   {
     "dutch": "horen",
     "english": "to hear"
-  },
-  {
-    "dutch": "horizon van ervaring",
-    "english": "horizon of experience",
-    "article": "de"
   },
   {
     "dutch": "horloge",
@@ -5478,11 +3719,6 @@
     "dutch": "hotel",
     "english": "hotel",
     "article": "het"
-  },
-  {
-    "dutch": "houdbaarheidsdatum",
-    "english": "expiration date",
-    "article": "de"
   },
   {
     "dutch": "houden",
@@ -5512,24 +3748,9 @@
     "article": "het"
   },
   {
-    "dutch": "humanisme",
-    "english": "humanism",
-    "article": "het"
-  },
-  {
-    "dutch": "humanitaire hulp",
-    "english": "humanitarian aid",
-    "article": "de"
-  },
-  {
     "dutch": "hut",
     "english": "hut",
     "article": "de"
-  },
-  {
-    "dutch": "huurcontract",
-    "english": "rental agreement",
-    "article": "het"
   },
   {
     "dutch": "huurprijs",
@@ -5537,54 +3758,9 @@
     "article": "de"
   },
   {
-    "dutch": "huurprijsregulering",
-    "english": "rent control",
-    "article": "de"
-  },
-  {
-    "dutch": "huurrecht",
-    "english": "tenancy law",
-    "article": "de"
-  },
-  {
-    "dutch": "huurrecht",
-    "english": "tenancy law",
-    "article": "het"
-  },
-  {
     "dutch": "huwelijk",
     "english": "marriage",
     "article": "het"
-  },
-  {
-    "dutch": "huwelijksgoederenrecht",
-    "english": "matrimonial property law",
-    "article": "het"
-  },
-  {
-    "dutch": "hypotheek",
-    "english": "mortgage",
-    "article": "de"
-  },
-  {
-    "dutch": "hypothese",
-    "english": "hypothesis",
-    "article": "de"
-  },
-  {
-    "dutch": "hypothesetest",
-    "english": "hypothesis test",
-    "article": "de"
-  },
-  {
-    "dutch": "hypothesetoetsing",
-    "english": "hypothesis testing",
-    "article": "de"
-  },
-  {
-    "dutch": "hypothetico-deductieve methode",
-    "english": "hypothetico-deductive method",
-    "article": "de"
   },
   {
     "dutch": "iconografie",
@@ -5600,16 +3776,6 @@
     "dutch": "idealisme",
     "english": "idealism",
     "article": "het"
-  },
-  {
-    "dutch": "identiteitsdiefstal",
-    "english": "identity theft",
-    "article": "de"
-  },
-  {
-    "dutch": "ideologiekritiek",
-    "english": "critique of ideology",
-    "article": "de"
   },
   {
     "dutch": "idool",
@@ -5647,28 +3813,13 @@
     "article": "de"
   },
   {
-    "dutch": "illocutionaire daad",
-    "english": "illocutionary act",
-    "article": "de"
-  },
-  {
     "dutch": "illustratie",
     "english": "illustration",
     "article": "de"
   },
   {
-    "dutch": "immigratiewet",
-    "english": "immigration law",
-    "article": "de"
-  },
-  {
     "dutch": "implementatie",
     "english": "implementation",
-    "article": "de"
-  },
-  {
-    "dutch": "implied volatility",
-    "english": "implied volatility",
     "article": "de"
   },
   {
@@ -5692,11 +3843,6 @@
     "article": "de"
   },
   {
-    "dutch": "incompatibilisme",
-    "english": "incompatibilism",
-    "article": "de"
-  },
-  {
     "dutch": "indexcijfer",
     "english": "index",
     "article": "het"
@@ -5704,26 +3850,6 @@
   {
     "dutch": "indexfonds",
     "english": "index fund",
-    "article": "de"
-  },
-  {
-    "dutch": "inductieve kracht",
-    "english": "inductive strength",
-    "article": "de"
-  },
-  {
-    "dutch": "inductieve redenering",
-    "english": "inductive reasoning",
-    "article": "de"
-  },
-  {
-    "dutch": "industriële revolutie",
-    "english": "industrial revolution",
-    "article": "de"
-  },
-  {
-    "dutch": "infectiepreventie",
-    "english": "infection prevention",
     "article": "de"
   },
   {
@@ -5737,23 +3863,8 @@
     "article": "de"
   },
   {
-    "dutch": "informatie-ratio",
-    "english": "information ratio",
-    "article": "de"
-  },
-  {
     "dutch": "infrastructuur",
     "english": "infrastructure",
-    "article": "de"
-  },
-  {
-    "dutch": "infrastructuurontwikkeling",
-    "english": "infrastructure development",
-    "article": "de"
-  },
-  {
-    "dutch": "infrastructuurproject",
-    "english": "infrastructure project",
     "article": "de"
   },
   {
@@ -5762,43 +3873,13 @@
     "article": "de"
   },
   {
-    "dutch": "initial coin offering",
-    "english": "initial coin offering",
-    "article": "de"
-  },
-  {
     "dutch": "injectie",
     "english": "injection",
     "article": "de"
   },
   {
-    "dutch": "inkomen",
-    "english": "income",
-    "article": "het"
-  },
-  {
-    "dutch": "inkomstenbelasting",
-    "english": "income tax",
-    "article": "de"
-  },
-  {
-    "dutch": "inkomstenstroom",
-    "english": "income stream",
-    "article": "de"
-  },
-  {
-    "dutch": "inlichtingendienst",
-    "english": "intelligence service",
-    "article": "de"
-  },
-  {
     "dutch": "inloggen",
     "english": "to log in"
-  },
-  {
-    "dutch": "inschrijfformulier",
-    "english": "registration form",
-    "article": "het"
   },
   {
     "dutch": "inschrijving",
@@ -5809,16 +3890,6 @@
     "dutch": "insect",
     "english": "insect",
     "article": "het"
-  },
-  {
-    "dutch": "insolventie",
-    "english": "insolvency",
-    "article": "de"
-  },
-  {
-    "dutch": "insolventiewet",
-    "english": "insolvency law",
-    "article": "de"
   },
   {
     "dutch": "installeren",
@@ -5845,73 +3916,8 @@
     "article": "de"
   },
   {
-    "dutch": "integer programmeren",
-    "english": "integer programming",
-    "article": "de"
-  },
-  {
-    "dutch": "integraal",
-    "english": "integral",
-    "article": "de"
-  },
-  {
-    "dutch": "integraalrekening",
-    "english": "integral calculus",
-    "article": "de"
-  },
-  {
-    "dutch": "integraalvergelijking",
-    "english": "integral equation",
-    "article": "de"
-  },
-  {
     "dutch": "integrabiliteit",
     "english": "integrability",
-    "article": "de"
-  },
-  {
-    "dutch": "intellectuele eigendomsrecht",
-    "english": "intellectual property law",
-    "article": "de"
-  },
-  {
-    "dutch": "intellectuele integriteit",
-    "english": "intellectual integrity",
-    "article": "de"
-  },
-  {
-    "dutch": "intellectuele moed",
-    "english": "intellectual courage",
-    "article": "de"
-  },
-  {
-    "dutch": "intellectuele nederigheid",
-    "english": "intellectual humility",
-    "article": "de"
-  },
-  {
-    "dutch": "intentionaliteit",
-    "english": "intentionality",
-    "article": "de"
-  },
-  {
-    "dutch": "intentionaliteitsanalyse",
-    "english": "analysis of intentionality",
-    "article": "de"
-  },
-  {
-    "dutch": "intentionaliteitsleer",
-    "english": "theory of intentionality",
-    "article": "de"
-  },
-  {
-    "dutch": "intentionaliteitsstructuur",
-    "english": "structure of intentionality",
-    "article": "de"
-  },
-  {
-    "dutch": "intentionele houding",
-    "english": "intentional stance",
     "article": "de"
   },
   {
@@ -5920,44 +3926,9 @@
     "article": "de"
   },
   {
-    "dutch": "internationaal privaatrecht",
-    "english": "private international law",
-    "article": "het"
-  },
-  {
-    "dutch": "internationaal publiekrecht",
-    "english": "public international law",
-    "article": "het"
-  },
-  {
-    "dutch": "internationaal recht",
-    "english": "international law",
-    "article": "het"
-  },
-  {
-    "dutch": "internationale bescherming",
-    "english": "international protection",
-    "article": "de"
-  },
-  {
-    "dutch": "internationale verdragen",
-    "english": "international treaties",
-    "article": "de"
-  },
-  {
-    "dutch": "interne rentabiliteit",
-    "english": "internal rate of return",
-    "article": "de"
-  },
-  {
     "dutch": "internet",
     "english": "internet",
     "article": "het"
-  },
-  {
-    "dutch": "intersubjectiviteit",
-    "english": "intersubjectivity",
-    "article": "de"
   },
   {
     "dutch": "interview",
@@ -5965,38 +3936,8 @@
     "article": "het"
   },
   {
-    "dutch": "inverse matrix",
-    "english": "inverse matrix",
-    "article": "de"
-  },
-  {
-    "dutch": "investering",
-    "english": "investment",
-    "article": "de"
-  },
-  {
-    "dutch": "investeringsbeleid",
-    "english": "investment policy",
-    "article": "het"
-  },
-  {
-    "dutch": "investeringsfonds",
-    "english": "investment fund",
-    "article": "het"
-  },
-  {
-    "dutch": "investeringsrendement",
-    "english": "return on investment",
-    "article": "de"
-  },
-  {
     "dutch": "inwoner",
     "english": "inhabitant",
-    "article": "de"
-  },
-  {
-    "dutch": "irrigatiesysteem",
-    "english": "irrigation system",
     "article": "de"
   },
   {
@@ -6005,19 +3946,9 @@
     "article": "de"
   },
   {
-    "dutch": "IT-infrastructuur",
-    "english": "IT infrastructure",
-    "article": "de"
-  },
-  {
     "dutch": "Italiaans",
     "english": "Italian",
     "article": "het"
-  },
-  {
-    "dutch": "Ito-calculus",
-    "english": "Ito calculus",
-    "article": "de"
   },
   {
     "dutch": "jaar",
@@ -6032,11 +3963,6 @@
   {
     "dutch": "jaarrekening",
     "english": "annual accounts",
-    "article": "de"
-  },
-  {
-    "dutch": "jaarvergadering",
-    "english": "annual general meeting",
     "article": "de"
   },
   {
@@ -6070,16 +3996,6 @@
     "article": "het"
   },
   {
-    "dutch": "jeugdrecht",
-    "english": "juvenile law",
-    "article": "de"
-  },
-  {
-    "dutch": "jeugdrecht",
-    "english": "juvenile law",
-    "article": "het"
-  },
-  {
     "dutch": "joint venture",
     "english": "joint venture",
     "article": "de"
@@ -6107,11 +4023,6 @@
   {
     "dutch": "jungle",
     "english": "jungle",
-    "article": "de"
-  },
-  {
-    "dutch": "jurisprudentie",
-    "english": "case law",
     "article": "de"
   },
   {
@@ -6222,41 +4133,6 @@
     "english": "to canoe"
   },
   {
-    "dutch": "kanonieke transformatie",
-    "english": "canonical transformation",
-    "article": "de"
-  },
-  {
-    "dutch": "kans",
-    "english": "probability",
-    "article": "de"
-  },
-  {
-    "dutch": "kansboom",
-    "english": "probability tree",
-    "article": "de"
-  },
-  {
-    "dutch": "kansfunctie",
-    "english": "probability function",
-    "article": "de"
-  },
-  {
-    "dutch": "kansmaat",
-    "english": "probability measure",
-    "article": "de"
-  },
-  {
-    "dutch": "kansruimte",
-    "english": "probability space",
-    "article": "de"
-  },
-  {
-    "dutch": "kansverdeling",
-    "english": "probability distribution",
-    "article": "de"
-  },
-  {
     "dutch": "kantine",
     "english": "canteen",
     "article": "de"
@@ -6265,46 +4141,6 @@
     "dutch": "kantoor",
     "english": "office",
     "article": "het"
-  },
-  {
-    "dutch": "kapitaal",
-    "english": "capital",
-    "article": "het"
-  },
-  {
-    "dutch": "kapitaalinjectie",
-    "english": "capital injection",
-    "article": "de"
-  },
-  {
-    "dutch": "kapitaalkosten",
-    "english": "cost of capital",
-    "article": "de"
-  },
-  {
-    "dutch": "kapitaalmarkt",
-    "english": "capital market",
-    "article": "de"
-  },
-  {
-    "dutch": "kapitaalmarkttransactie",
-    "english": "capital market transaction",
-    "article": "de"
-  },
-  {
-    "dutch": "kapitaalstroom",
-    "english": "capital flow",
-    "article": "de"
-  },
-  {
-    "dutch": "kapitaalstructuur",
-    "english": "capital structure",
-    "article": "de"
-  },
-  {
-    "dutch": "kapitaalverhoging",
-    "english": "capital increase",
-    "article": "de"
   },
   {
     "dutch": "kapitein",
@@ -6349,21 +4185,6 @@
   {
     "dutch": "kassier",
     "english": "cashier",
-    "article": "de"
-  },
-  {
-    "dutch": "kasstroomoverzicht",
-    "english": "cash flow statement",
-    "article": "het"
-  },
-  {
-    "dutch": "kasstroomoverzicht",
-    "english": "cash flow statement",
-    "article": "de"
-  },
-  {
-    "dutch": "kasstroomprognose",
-    "english": "cash flow forecast",
     "article": "de"
   },
   {
@@ -6431,28 +4252,8 @@
     "article": "de"
   },
   {
-    "dutch": "kennissociologie",
-    "english": "sociology of knowledge",
-    "article": "de"
-  },
-  {
     "dutch": "kennissynthese",
     "english": "knowledge synthesis",
-    "article": "de"
-  },
-  {
-    "dutch": "kennistheoretische vraag",
-    "english": "epistemological question",
-    "article": "de"
-  },
-  {
-    "dutch": "kennistheorie",
-    "english": "theory of knowledge",
-    "article": "de"
-  },
-  {
-    "dutch": "kennisverwerving",
-    "english": "knowledge acquisition",
     "article": "de"
   },
   {
@@ -6570,11 +4371,6 @@
     "article": "het"
   },
   {
-    "dutch": "klassieke architectuur",
-    "english": "classical architecture",
-    "article": "de"
-  },
-  {
     "dutch": "kleding",
     "english": "clothing",
     "article": "de"
@@ -6639,36 +4435,6 @@
     "article": "het"
   },
   {
-    "dutch": "klimaataanpassing",
-    "english": "climate adaptation",
-    "article": "de"
-  },
-  {
-    "dutch": "klimaatadaptatie",
-    "english": "climate adaptation",
-    "article": "de"
-  },
-  {
-    "dutch": "klimaatmitigatie",
-    "english": "climate mitigation",
-    "article": "de"
-  },
-  {
-    "dutch": "klimaatneutraliteit",
-    "english": "climate neutrality",
-    "article": "de"
-  },
-  {
-    "dutch": "klimaatrisicoanalyse",
-    "english": "climate risk analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "klimaatverandering",
-    "english": "climate change",
-    "article": "de"
-  },
-  {
     "dutch": "klimaatzone",
     "english": "climate zone",
     "article": "de"
@@ -6685,11 +4451,6 @@
   {
     "dutch": "klok",
     "english": "clock",
-    "article": "de"
-  },
-  {
-    "dutch": "klokkenluidersbescherming",
-    "english": "whistleblower protection",
     "article": "de"
   },
   {
@@ -6762,11 +4523,6 @@
   {
     "dutch": "koers",
     "english": "exchange rate/price",
-    "article": "de"
-  },
-  {
-    "dutch": "koersschommeling",
-    "english": "price fluctuation",
     "article": "de"
   },
   {
@@ -6848,16 +4604,6 @@
     "article": "de"
   },
   {
-    "dutch": "koolstofcompensatie",
-    "english": "carbon offset",
-    "article": "de"
-  },
-  {
-    "dutch": "koolstofvoetafdruk",
-    "english": "carbon footprint",
-    "article": "de"
-  },
-  {
     "dutch": "koopwoning",
     "english": "owner-occupied house",
     "article": "de"
@@ -6920,16 +4666,6 @@
     "english": "to cost"
   },
   {
-    "dutch": "kostenefficiëntie",
-    "english": "cost efficiency",
-    "article": "de"
-  },
-  {
-    "dutch": "kostprijsberekening",
-    "english": "cost price calculation",
-    "article": "de"
-  },
-  {
     "dutch": "kou",
     "english": "cold",
     "article": "de"
@@ -6952,11 +4688,6 @@
   {
     "dutch": "koudegolf",
     "english": "cold wave",
-    "article": "de"
-  },
-  {
-    "dutch": "koudeoorlogspolitiek",
-    "english": "Cold War politics",
     "article": "de"
   },
   {
@@ -7010,46 +4741,6 @@
     "article": "de"
   },
   {
-    "dutch": "krediet",
-    "english": "credit",
-    "article": "het"
-  },
-  {
-    "dutch": "kredietbeoordeling",
-    "english": "credit rating",
-    "article": "de"
-  },
-  {
-    "dutch": "kredietbeoordelingsbureau",
-    "english": "credit rating agency",
-    "article": "de"
-  },
-  {
-    "dutch": "kredietderivaat",
-    "english": "credit derivative",
-    "article": "de"
-  },
-  {
-    "dutch": "kredietlijn",
-    "english": "line of credit",
-    "article": "de"
-  },
-  {
-    "dutch": "kredietrisico",
-    "english": "credit risk",
-    "article": "het"
-  },
-  {
-    "dutch": "kredietrisico",
-    "english": "credit risk",
-    "article": "de"
-  },
-  {
-    "dutch": "kredietwaardigheid",
-    "english": "creditworthiness",
-    "article": "de"
-  },
-  {
     "dutch": "kreeft",
     "english": "lobster",
     "article": "de"
@@ -7081,21 +4772,6 @@
   {
     "dutch": "kritisch denken",
     "english": "critical thinking",
-    "article": "de"
-  },
-  {
-    "dutch": "kritisch rationalisme",
-    "english": "critical rationalism",
-    "article": "het"
-  },
-  {
-    "dutch": "kritisch-theoretische benadering",
-    "english": "critical-theoretical approach",
-    "article": "de"
-  },
-  {
-    "dutch": "kritische theorie",
-    "english": "critical theory",
     "article": "de"
   },
   {
@@ -7189,18 +4865,8 @@
     "article": "de"
   },
   {
-    "dutch": "kunstgeschiedenis",
-    "english": "art history",
-    "article": "de"
-  },
-  {
     "dutch": "kunsthandelaar",
     "english": "art dealer",
-    "article": "de"
-  },
-  {
-    "dutch": "kunstinstallatie",
-    "english": "art installation",
     "article": "de"
   },
   {
@@ -7214,28 +4880,13 @@
     "article": "de"
   },
   {
-    "dutch": "kunstmatige intelligentie",
-    "english": "artificial intelligence",
-    "article": "de"
-  },
-  {
     "dutch": "kunstprijs",
     "english": "art prize",
     "article": "de"
   },
   {
-    "dutch": "kunstreproductie",
-    "english": "art reproduction",
-    "article": "de"
-  },
-  {
     "dutch": "kunststroming",
     "english": "art movement",
-    "article": "de"
-  },
-  {
-    "dutch": "kunsttentoonstelling",
-    "english": "art exhibition",
     "article": "de"
   },
   {
@@ -7246,11 +4897,6 @@
   {
     "dutch": "kunstveiling",
     "english": "art auction",
-    "article": "de"
-  },
-  {
-    "dutch": "kunstverzamelaar",
-    "english": "art collector",
     "article": "de"
   },
   {
@@ -7294,33 +4940,8 @@
     "article": "de"
   },
   {
-    "dutch": "kwaliteitsborging",
-    "english": "quality assurance",
-    "article": "de"
-  },
-  {
-    "dutch": "kwantitatieve handelsstrategie",
-    "english": "quantitative trading strategy",
-    "article": "de"
-  },
-  {
     "dutch": "kwantiteit",
     "english": "quantity",
-    "article": "de"
-  },
-  {
-    "dutch": "kwantummechanica",
-    "english": "quantum mechanics",
-    "article": "de"
-  },
-  {
-    "dutch": "kwantumveldentheorie",
-    "english": "quantum field theory",
-    "article": "de"
-  },
-  {
-    "dutch": "kwartaalrapport",
-    "english": "quarterly report",
     "article": "de"
   },
   {
@@ -7373,11 +4994,6 @@
     "article": "de"
   },
   {
-    "dutch": "lagrangiaanse mechanica",
-    "english": "Lagrangian mechanics",
-    "article": "de"
-  },
-  {
     "dutch": "laken",
     "english": "sheet",
     "article": "het"
@@ -7403,24 +5019,9 @@
     "article": "de"
   },
   {
-    "dutch": "landbouwinnovatie",
-    "english": "agricultural innovation",
-    "article": "de"
-  },
-  {
     "dutch": "landhuis",
     "english": "country house",
     "article": "het"
-  },
-  {
-    "dutch": "laplace-transformatie",
-    "english": "Laplace transform",
-    "article": "de"
-  },
-  {
-    "dutch": "Laplace-transformatie",
-    "english": "Laplace transform",
-    "article": "de"
   },
   {
     "dutch": "laptop",
@@ -7439,11 +5040,6 @@
   {
     "dutch": "lawine",
     "english": "avalanche",
-    "article": "de"
-  },
-  {
-    "dutch": "Lebesgue-integraal",
-    "english": "Lebesgue integral",
     "article": "de"
   },
   {
@@ -7497,11 +5093,6 @@
     "article": "de"
   },
   {
-    "dutch": "lening",
-    "english": "loan",
-    "article": "de"
-  },
-  {
     "dutch": "lente",
     "english": "spring",
     "article": "de"
@@ -7518,7 +5109,7 @@
   },
   {
     "dutch": "lerares",
-    "english": "teacher (female)",
+    "english": "teacher",
     "article": "de"
   },
   {
@@ -7584,11 +5175,6 @@
     "article": "de"
   },
   {
-    "dutch": "licentieovereenkomst",
-    "english": "licensing agreement",
-    "article": "de"
-  },
-  {
     "dutch": "lichaam",
     "english": "body",
     "article": "het"
@@ -7640,7 +5226,7 @@
   },
   {
     "dutch": "liggen",
-    "english": "to lie (down)"
+    "english": "to lie"
   },
   {
     "dutch": "lijn",
@@ -7660,41 +5246,6 @@
   {
     "dutch": "limonade",
     "english": "lemonade",
-    "article": "de"
-  },
-  {
-    "dutch": "lineair programmeren",
-    "english": "linear programming",
-    "article": "de"
-  },
-  {
-    "dutch": "lineaire algebra",
-    "english": "linear algebra",
-    "article": "de"
-  },
-  {
-    "dutch": "lineaire combinatie",
-    "english": "linear combination",
-    "article": "de"
-  },
-  {
-    "dutch": "lineaire onafhankelijkheid",
-    "english": "linear independence",
-    "article": "de"
-  },
-  {
-    "dutch": "lineaire programmering",
-    "english": "linear programming",
-    "article": "de"
-  },
-  {
-    "dutch": "lineaire transformatie",
-    "english": "linear transformation",
-    "article": "de"
-  },
-  {
-    "dutch": "linguïstische filosofie",
-    "english": "linguistic philosophy",
     "article": "de"
   },
   {
@@ -7723,26 +5274,6 @@
     "article": "de"
   },
   {
-    "dutch": "liquiditeit",
-    "english": "liquidity",
-    "article": "de"
-  },
-  {
-    "dutch": "liquiditeitsprognose",
-    "english": "liquidity forecast",
-    "article": "de"
-  },
-  {
-    "dutch": "liquiditeitsratio",
-    "english": "liquidity ratio",
-    "article": "de"
-  },
-  {
-    "dutch": "liquidity pool",
-    "english": "liquidity pool",
-    "article": "de"
-  },
-  {
     "dutch": "literatuur",
     "english": "literature",
     "article": "de"
@@ -7768,43 +5299,8 @@
     "article": "de"
   },
   {
-    "dutch": "logische consistentie",
-    "english": "logical consistency",
-    "article": "de"
-  },
-  {
-    "dutch": "logische geldigheid",
-    "english": "logical validity",
-    "article": "de"
-  },
-  {
-    "dutch": "logische gevolgtrekking",
-    "english": "logical inference",
-    "article": "de"
-  },
-  {
-    "dutch": "logische noodzaak",
-    "english": "logical necessity",
-    "article": "de"
-  },
-  {
-    "dutch": "logische positivisme",
-    "english": "logical positivism",
-    "article": "de"
-  },
-  {
     "dutch": "logistiek",
     "english": "logistics",
-    "article": "de"
-  },
-  {
-    "dutch": "logistieke keten",
-    "english": "logistics chain",
-    "article": "de"
-  },
-  {
-    "dutch": "logistieke optimalisatie",
-    "english": "logistics optimization",
     "article": "de"
   },
   {
@@ -7820,26 +5316,6 @@
   {
     "dutch": "loodgieter",
     "english": "plumber",
-    "article": "de"
-  },
-  {
-    "dutch": "loon",
-    "english": "wage",
-    "article": "het"
-  },
-  {
-    "dutch": "loonsverhoging",
-    "english": "salary increase",
-    "article": "de"
-  },
-  {
-    "dutch": "loonvordering",
-    "english": "wage claim",
-    "article": "de"
-  },
-  {
-    "dutch": "loopbaanontwikkeling",
-    "english": "career development",
     "article": "de"
   },
   {
@@ -7877,38 +5353,13 @@
     "article": "de"
   },
   {
-    "dutch": "luchtkwaliteitsmonitoring",
-    "english": "air quality monitoring",
-    "article": "de"
-  },
-  {
     "dutch": "luchtmacht",
     "english": "air force",
     "article": "de"
   },
   {
-    "dutch": "luchtvaartmaatschappij",
-    "english": "airline company",
-    "article": "de"
-  },
-  {
-    "dutch": "luchtvaartmaatschappijcertificaat",
-    "english": "airline operating certificate",
-    "article": "de"
-  },
-  {
-    "dutch": "luchtvaartrecht",
-    "english": "aviation law",
-    "article": "het"
-  },
-  {
     "dutch": "luchtvervuiling",
     "english": "air pollution",
-    "article": "de"
-  },
-  {
-    "dutch": "luchtvochtigheid",
-    "english": "humidity",
     "article": "de"
   },
   {
@@ -7961,18 +5412,8 @@
     "article": "de"
   },
   {
-    "dutch": "maatschappelijke verantwoordelijkheid",
-    "english": "social responsibility",
-    "article": "de"
-  },
-  {
     "dutch": "macchiato",
     "english": "macchiato",
-    "article": "de"
-  },
-  {
-    "dutch": "machine learning",
-    "english": "machine learning",
     "article": "de"
   },
   {
@@ -7983,11 +5424,6 @@
   {
     "dutch": "Maclaurinreeks",
     "english": "Maclaurin series",
-    "article": "de"
-  },
-  {
-    "dutch": "macro-economie",
-    "english": "macroeconomics",
     "article": "de"
   },
   {
@@ -8017,11 +5453,6 @@
   {
     "dutch": "malware",
     "english": "malware",
-    "article": "de"
-  },
-  {
-    "dutch": "malwarebescherming",
-    "english": "malware protection",
     "article": "de"
   },
   {
@@ -8075,11 +5506,6 @@
     "article": "de"
   },
   {
-    "dutch": "maritiem recht",
-    "english": "maritime law",
-    "article": "het"
-  },
-  {
     "dutch": "marketing",
     "english": "marketing",
     "article": "de"
@@ -8087,51 +5513,6 @@
   {
     "dutch": "Markov-keten",
     "english": "Markov chain",
-    "article": "de"
-  },
-  {
-    "dutch": "markt",
-    "english": "market",
-    "article": "de"
-  },
-  {
-    "dutch": "marktanalyse",
-    "english": "market analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "marktdiepte",
-    "english": "market depth",
-    "article": "de"
-  },
-  {
-    "dutch": "marktdynamiek",
-    "english": "market dynamics",
-    "article": "de"
-  },
-  {
-    "dutch": "marktimpact",
-    "english": "market impact",
-    "article": "de"
-  },
-  {
-    "dutch": "marktmicrostructuur",
-    "english": "market microstructure",
-    "article": "de"
-  },
-  {
-    "dutch": "marktneutraliteit",
-    "english": "market neutrality",
-    "article": "de"
-  },
-  {
-    "dutch": "marktprijs",
-    "english": "market price",
-    "article": "de"
-  },
-  {
-    "dutch": "marktsegmentatie",
-    "english": "market segmentation",
     "article": "de"
   },
   {
@@ -8150,21 +5531,6 @@
     "article": "het"
   },
   {
-    "dutch": "matrix",
-    "english": "matrix",
-    "article": "de"
-  },
-  {
-    "dutch": "matrixvergelijking",
-    "english": "matrix equation",
-    "article": "de"
-  },
-  {
-    "dutch": "maximum likelihood schatting",
-    "english": "maximum likelihood estimation",
-    "article": "de"
-  },
-  {
     "dutch": "mayonaise",
     "english": "mayonnaise",
     "article": "de"
@@ -8180,16 +5546,6 @@
     "article": "de"
   },
   {
-    "dutch": "mededingingsrecht",
-    "english": "competition law",
-    "article": "de"
-  },
-  {
-    "dutch": "mededingingsrecht",
-    "english": "competition law",
-    "article": "het"
-  },
-  {
     "dutch": "media",
     "english": "media",
     "article": "de"
@@ -8197,21 +5553,6 @@
   {
     "dutch": "mediakunst",
     "english": "media art",
-    "article": "de"
-  },
-  {
-    "dutch": "mediarecht",
-    "english": "media law",
-    "article": "het"
-  },
-  {
-    "dutch": "mediation",
-    "english": "mediation",
-    "article": "de"
-  },
-  {
-    "dutch": "mediationovereenkomst",
-    "english": "mediation agreement",
     "article": "de"
   },
   {
@@ -8223,11 +5564,6 @@
     "dutch": "meer",
     "english": "lake",
     "article": "het"
-  },
-  {
-    "dutch": "meetbare ruimte",
-    "english": "measurable space",
-    "article": "de"
   },
   {
     "dutch": "meetkunde",
@@ -8279,11 +5615,6 @@
     "article": "het"
   },
   {
-    "dutch": "mensenrechtenverdrag",
-    "english": "human rights treaty",
-    "article": "de"
-  },
-  {
     "dutch": "mentor",
     "english": "mentor",
     "article": "de"
@@ -8304,11 +5635,6 @@
     "article": "het"
   },
   {
-    "dutch": "merkenrecht",
-    "english": "trademark law",
-    "article": "het"
-  },
-  {
     "dutch": "mes",
     "english": "knife",
     "article": "het"
@@ -8319,43 +5645,8 @@
     "article": "de"
   },
   {
-    "dutch": "metaforentheorie",
-    "english": "theory of metaphors",
-    "article": "de"
-  },
-  {
     "dutch": "metafysica",
     "english": "metaphysics",
-    "article": "de"
-  },
-  {
-    "dutch": "metafysisch realisme",
-    "english": "metaphysical realism",
-    "article": "het"
-  },
-  {
-    "dutch": "metafysische noodzaak",
-    "english": "metaphysical necessity",
-    "article": "de"
-  },
-  {
-    "dutch": "metafysische realisme",
-    "english": "metaphysical realism",
-    "article": "de"
-  },
-  {
-    "dutch": "metafysische stelling",
-    "english": "metaphysical proposition",
-    "article": "de"
-  },
-  {
-    "dutch": "metafysische twijfel",
-    "english": "metaphysical doubt",
-    "article": "de"
-  },
-  {
-    "dutch": "metafysische vrijheid",
-    "english": "metaphysical freedom",
     "article": "de"
   },
   {
@@ -8370,21 +5661,6 @@
   {
     "dutch": "methode",
     "english": "method",
-    "article": "de"
-  },
-  {
-    "dutch": "methodologische individualisme",
-    "english": "methodological individualism",
-    "article": "de"
-  },
-  {
-    "dutch": "methodologische skepticisme",
-    "english": "methodological skepticism",
-    "article": "de"
-  },
-  {
-    "dutch": "metrische ruimte",
-    "english": "metric space",
     "article": "de"
   },
   {
@@ -8405,11 +5681,6 @@
   {
     "dutch": "meubelwinkel",
     "english": "furniture store",
-    "article": "de"
-  },
-  {
-    "dutch": "micro-economie",
-    "english": "microeconomics",
     "article": "de"
   },
   {
@@ -8438,54 +5709,9 @@
     "article": "de"
   },
   {
-    "dutch": "migratiewetgeving",
-    "english": "migration law",
-    "article": "de"
-  },
-  {
     "dutch": "milieu",
     "english": "environment",
     "article": "het"
-  },
-  {
-    "dutch": "milieueffectrapportage",
-    "english": "environmental impact assessment",
-    "article": "de"
-  },
-  {
-    "dutch": "milieurecht",
-    "english": "environmental law",
-    "article": "de"
-  },
-  {
-    "dutch": "milieurecht",
-    "english": "environmental law",
-    "article": "het"
-  },
-  {
-    "dutch": "milieustrafrecht",
-    "english": "environmental criminal law",
-    "article": "het"
-  },
-  {
-    "dutch": "milieuvriendelijke oplossingen",
-    "english": "environmentally friendly solutions",
-    "article": "de"
-  },
-  {
-    "dutch": "milieuwetgeving",
-    "english": "environmental legislation",
-    "article": "de"
-  },
-  {
-    "dutch": "militaire alliantie",
-    "english": "military alliance",
-    "article": "de"
-  },
-  {
-    "dutch": "militaire bezetting",
-    "english": "military occupation",
-    "article": "de"
   },
   {
     "dutch": "miljoenpoot",
@@ -8520,11 +5746,6 @@
   {
     "dutch": "minister",
     "english": "minister",
-    "article": "de"
-  },
-  {
-    "dutch": "minister-president",
-    "english": "prime minister",
     "article": "de"
   },
   {
@@ -8588,11 +5809,6 @@
     "article": "de"
   },
   {
-    "dutch": "moderne architectuur",
-    "english": "modern architecture",
-    "article": "de"
-  },
-  {
     "dutch": "moeder",
     "english": "mother",
     "article": "de"
@@ -8613,11 +5829,6 @@
     "article": "de"
   },
   {
-    "dutch": "monetaire beleid",
-    "english": "monetary policy",
-    "article": "het"
-  },
-  {
     "dutch": "monitor",
     "english": "monitor",
     "article": "de"
@@ -8628,23 +5839,8 @@
     "article": "het"
   },
   {
-    "dutch": "Monte Carlo simulatie",
-    "english": "Monte Carlo simulation",
-    "article": "de"
-  },
-  {
-    "dutch": "Monte Carlo-simulatie",
-    "english": "Monte Carlo simulation",
-    "article": "de"
-  },
-  {
     "dutch": "monteur",
     "english": "mechanic",
-    "article": "de"
-  },
-  {
-    "dutch": "moraalfilosofie",
-    "english": "moral philosophy",
     "article": "de"
   },
   {
@@ -8655,16 +5851,6 @@
   {
     "dutch": "morele intuïtie",
     "english": "moral intuition",
-    "article": "de"
-  },
-  {
-    "dutch": "morele verantwoordelijkheid",
-    "english": "moral responsibility",
-    "article": "de"
-  },
-  {
-    "dutch": "morele verplichting",
-    "english": "moral obligation",
     "article": "de"
   },
   {
@@ -8733,11 +5919,6 @@
     "article": "de"
   },
   {
-    "dutch": "multicollineariteit",
-    "english": "multicollinearity",
-    "article": "de"
-  },
-  {
     "dutch": "munt",
     "english": "coin",
     "article": "de"
@@ -8751,11 +5932,6 @@
     "dutch": "museum",
     "english": "museum",
     "article": "het"
-  },
-  {
-    "dutch": "museumconservator",
-    "english": "museum curator",
-    "article": "de"
   },
   {
     "dutch": "muts",
@@ -8832,16 +6008,6 @@
     "article": "de"
   },
   {
-    "dutch": "nalevingsplicht",
-    "english": "compliance obligation",
-    "article": "de"
-  },
-  {
-    "dutch": "nat",
-    "english": "wet",
-    "article": "de"
-  },
-  {
     "dutch": "naturalisatie",
     "english": "naturalization",
     "article": "de"
@@ -8857,11 +6023,6 @@
     "article": "de"
   },
   {
-    "dutch": "natuurbeschermingsgebied",
-    "english": "nature reserve",
-    "article": "de"
-  },
-  {
     "dutch": "natuurkunde",
     "english": "physics",
     "article": "de"
@@ -8870,11 +6031,6 @@
     "dutch": "natuurramp",
     "english": "natural disaster",
     "article": "de"
-  },
-  {
-    "dutch": "natuurverschijnsel",
-    "english": "natural phenomenon",
-    "article": "het"
   },
   {
     "dutch": "NAVO",
@@ -8893,7 +6049,7 @@
   },
   {
     "dutch": "neef",
-    "english": "nephew/cousin (male)",
+    "english": "nephew/cousin",
     "article": "de"
   },
   {
@@ -8931,19 +6087,9 @@
     "article": "het"
   },
   {
-    "dutch": "netto contante waarde",
-    "english": "net present value",
-    "article": "de"
-  },
-  {
     "dutch": "netwerk",
     "english": "network",
     "article": "het"
-  },
-  {
-    "dutch": "netwerkbeveiliging",
-    "english": "network security",
-    "article": "de"
   },
   {
     "dutch": "neurale netwerk",
@@ -8956,11 +6102,6 @@
     "article": "de"
   },
   {
-    "dutch": "nicht",
-    "english": "niece/cousin (female)",
-    "article": "de"
-  },
-  {
     "dutch": "nier",
     "english": "kidney",
     "article": "de"
@@ -8968,16 +6109,6 @@
   {
     "dutch": "nieren",
     "english": "kidneys",
-    "article": "de"
-  },
-  {
-    "dutch": "niet-lineaire dynamica",
-    "english": "nonlinear dynamics",
-    "article": "de"
-  },
-  {
-    "dutch": "niet-lineaire optimalisatie",
-    "english": "nonlinear optimization",
     "article": "de"
   },
   {
@@ -9064,21 +6195,6 @@
     "article": "het"
   },
   {
-    "dutch": "normale verdeling",
-    "english": "normal distribution",
-    "article": "de"
-  },
-  {
-    "dutch": "normatieve analyse",
-    "english": "normative analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "normatieve theorie",
-    "english": "normative theory",
-    "article": "de"
-  },
-  {
     "dutch": "normativiteit",
     "english": "normativity",
     "article": "de"
@@ -9099,16 +6215,6 @@
     "article": "de"
   },
   {
-    "dutch": "nulhypothese",
-    "english": "null hypothesis",
-    "article": "de"
-  },
-  {
-    "dutch": "numerieke analyse",
-    "english": "numerical analysis",
-    "article": "de"
-  },
-  {
     "dutch": "numismatiek",
     "english": "numismatics",
     "article": "de"
@@ -9119,18 +6225,8 @@
     "article": "de"
   },
   {
-    "dutch": "nutsvoorzieningen",
-    "english": "utilities",
-    "article": "de"
-  },
-  {
     "dutch": "ober",
     "english": "waiter",
-    "article": "de"
-  },
-  {
-    "dutch": "objectieve realiteit",
-    "english": "objective reality",
     "article": "de"
   },
   {
@@ -9141,26 +6237,6 @@
   {
     "dutch": "objectiviteit",
     "english": "objectivity",
-    "article": "de"
-  },
-  {
-    "dutch": "obligatie",
-    "english": "bond",
-    "article": "de"
-  },
-  {
-    "dutch": "obligatie-uitgifte",
-    "english": "bond issuance",
-    "article": "de"
-  },
-  {
-    "dutch": "obligatielening",
-    "english": "bond loan",
-    "article": "de"
-  },
-  {
-    "dutch": "obligatiemarkt",
-    "english": "bond market",
     "article": "de"
   },
   {
@@ -9182,11 +6258,6 @@
     "dutch": "octopus",
     "english": "octopus",
     "article": "de"
-  },
-  {
-    "dutch": "octrooirecht",
-    "english": "patent law",
-    "article": "het"
   },
   {
     "dutch": "oefenen",
@@ -9218,18 +6289,8 @@
     "article": "de"
   },
   {
-    "dutch": "officier van justitie",
-    "english": "public prosecutor",
-    "article": "de"
-  },
-  {
     "dutch": "olie",
     "english": "oil",
-    "article": "de"
-  },
-  {
-    "dutch": "olieverfschilderij",
-    "english": "oil painting",
     "article": "de"
   },
   {
@@ -9257,21 +6318,6 @@
     "article": "de"
   },
   {
-    "dutch": "omzet",
-    "english": "turnover",
-    "article": "de"
-  },
-  {
-    "dutch": "omzetgroei",
-    "english": "revenue growth",
-    "article": "de"
-  },
-  {
-    "dutch": "onafhankelijkheidsverklaring",
-    "english": "declaration of independence",
-    "article": "de"
-  },
-  {
     "dutch": "ondergoed",
     "english": "underwear",
     "article": "het"
@@ -9284,16 +6330,6 @@
     "dutch": "onderhoudsplan",
     "english": "maintenance plan",
     "article": "het"
-  },
-  {
-    "dutch": "onderhoudsplanning",
-    "english": "maintenance scheduling",
-    "article": "de"
-  },
-  {
-    "dutch": "onderpand",
-    "english": "collateral",
-    "article": "de"
   },
   {
     "dutch": "ondervraging",
@@ -9377,23 +6413,8 @@
     "article": "de"
   },
   {
-    "dutch": "ontologische afhankelijkheid",
-    "english": "ontological dependence",
-    "article": "de"
-  },
-  {
     "dutch": "ontslag",
     "english": "dismissal",
-    "article": "de"
-  },
-  {
-    "dutch": "ontslagbescherming",
-    "english": "dismissal protection",
-    "article": "de"
-  },
-  {
-    "dutch": "ontslagvergoeding",
-    "english": "severance pay",
     "article": "de"
   },
   {
@@ -9452,23 +6473,8 @@
     "article": "de"
   },
   {
-    "dutch": "oorlogsrecht",
-    "english": "law of war",
-    "article": "het"
-  },
-  {
-    "dutch": "oorlogsverklaring",
-    "english": "declaration of war",
-    "article": "de"
-  },
-  {
     "dutch": "oorsprong",
     "english": "origin",
-    "article": "de"
-  },
-  {
-    "dutch": "op voorraad",
-    "english": "in stock",
     "article": "de"
   },
   {
@@ -9482,28 +6488,8 @@
     "article": "de"
   },
   {
-    "dutch": "openbaar vervoer",
-    "english": "public transport",
-    "article": "het"
-  },
-  {
-    "dutch": "openbaar vervoer",
-    "english": "public transport",
-    "article": "de"
-  },
-  {
-    "dutch": "openbaar vervoer netwerk",
-    "english": "public transport network",
-    "article": "de"
-  },
-  {
     "dutch": "openen",
     "english": "to open"
-  },
-  {
-    "dutch": "openheid van geest",
-    "english": "open-mindedness",
-    "article": "de"
   },
   {
     "dutch": "openingstijd",
@@ -9513,11 +6499,6 @@
   {
     "dutch": "operatie",
     "english": "surgery",
-    "article": "de"
-  },
-  {
-    "dutch": "operatorentheorie",
-    "english": "operator theory",
     "article": "de"
   },
   {
@@ -9536,11 +6517,6 @@
     "article": "de"
   },
   {
-    "dutch": "oppervlakte-integraal",
-    "english": "surface integral",
-    "article": "de"
-  },
-  {
     "dutch": "oprit",
     "english": "on-ramp",
     "article": "de"
@@ -9556,11 +6532,6 @@
   {
     "dutch": "opslag",
     "english": "storage",
-    "article": "de"
-  },
-  {
-    "dutch": "opslagfaciliteit",
-    "english": "storage facility",
     "article": "de"
   },
   {
@@ -9592,23 +6563,8 @@
     "article": "de"
   },
   {
-    "dutch": "optie",
-    "english": "option",
-    "article": "de"
-  },
-  {
-    "dutch": "optiehandel",
-    "english": "options trading",
-    "article": "de"
-  },
-  {
     "dutch": "optimalisatie",
     "english": "optimization",
-    "article": "de"
-  },
-  {
-    "dutch": "optimalisatie-algoritme",
-    "english": "optimization algorithm",
     "article": "de"
   },
   {
@@ -9642,28 +6598,8 @@
     "article": "de"
   },
   {
-    "dutch": "orkaanwaarschuwing",
-    "english": "hurricane warning",
-    "article": "de"
-  },
-  {
-    "dutch": "orthogonale projectie",
-    "english": "orthogonal projection",
-    "article": "de"
-  },
-  {
     "dutch": "orthogonaliteit",
     "english": "orthogonality",
-    "article": "de"
-  },
-  {
-    "dutch": "orthonormaliteit",
-    "english": "orthonormality",
-    "article": "de"
-  },
-  {
-    "dutch": "ouderavond",
-    "english": "parent-teacher meeting",
     "article": "de"
   },
   {
@@ -9697,16 +6633,6 @@
     "article": "de"
   },
   {
-    "dutch": "overeenkomst",
-    "english": "agreement",
-    "article": "de"
-  },
-  {
-    "dutch": "overheidsinstantie",
-    "english": "government agency",
-    "article": "de"
-  },
-  {
     "dutch": "overhemd",
     "english": "dress shirt",
     "article": "het"
@@ -9722,11 +6648,6 @@
     "article": "de"
   },
   {
-    "dutch": "overname",
-    "english": "acquisition",
-    "article": "de"
-  },
-  {
     "dutch": "overschrijving",
     "english": "bank transfer",
     "article": "de"
@@ -9734,11 +6655,6 @@
   {
     "dutch": "overstroming",
     "english": "flood",
-    "article": "de"
-  },
-  {
-    "dutch": "overstromingsbeheer",
-    "english": "flood management",
     "article": "de"
   },
   {
@@ -9784,11 +6700,6 @@
   {
     "dutch": "pad",
     "english": "toad",
-    "article": "de"
-  },
-  {
-    "dutch": "padintegraalformulering",
-    "english": "path integral formulation",
     "article": "de"
   },
   {
@@ -9852,16 +6763,6 @@
     "article": "de"
   },
   {
-    "dutch": "parachutespringen",
-    "english": "parachuting",
-    "article": "de"
-  },
-  {
-    "dutch": "parametervoorstelling",
-    "english": "parametric representation",
-    "article": "de"
-  },
-  {
     "dutch": "parametrisatie",
     "english": "parametrization",
     "article": "de"
@@ -9892,18 +6793,8 @@
     "article": "het"
   },
   {
-    "dutch": "parlementaire enquête",
-    "english": "parliamentary inquiry",
-    "article": "de"
-  },
-  {
     "dutch": "participatie",
     "english": "participation",
-    "article": "de"
-  },
-  {
-    "dutch": "partiële differentiaalvergelijking",
-    "english": "partial differential equation",
     "article": "de"
   },
   {
@@ -9935,15 +6826,6 @@
     "dutch": "paspoort",
     "english": "passport",
     "article": "het"
-  },
-  {
-    "dutch": "passagiersrechten",
-    "english": "passenger rights",
-    "article": "de"
-  },
-  {
-    "dutch": "passen",
-    "english": "to fit/try on"
   },
   {
     "dutch": "passer",
@@ -10011,26 +6893,6 @@
     "article": "de"
   },
   {
-    "dutch": "pensioen",
-    "english": "pension",
-    "article": "het"
-  },
-  {
-    "dutch": "pensioenfonds",
-    "english": "pension fund",
-    "article": "de"
-  },
-  {
-    "dutch": "pensioenstelsel",
-    "english": "pension system",
-    "article": "het"
-  },
-  {
-    "dutch": "pension",
-    "english": "guesthouse",
-    "article": "het"
-  },
-  {
     "dutch": "peper",
     "english": "pepper",
     "article": "de"
@@ -10043,21 +6905,6 @@
   {
     "dutch": "performance fee",
     "english": "performance fee",
-    "article": "de"
-  },
-  {
-    "dutch": "performancekunst",
-    "english": "performance art",
-    "article": "de"
-  },
-  {
-    "dutch": "performatieve uitspraak",
-    "english": "performative utterance",
-    "article": "de"
-  },
-  {
-    "dutch": "perlocutionaire effect",
-    "english": "perlocutionary effect",
     "article": "de"
   },
   {
@@ -10079,16 +6926,6 @@
     "dutch": "personeel",
     "english": "staff",
     "article": "het"
-  },
-  {
-    "dutch": "persrecht",
-    "english": "press law",
-    "article": "het"
-  },
-  {
-    "dutch": "perturbatietheorie",
-    "english": "perturbation theory",
-    "article": "de"
   },
   {
     "dutch": "perzik",
@@ -10151,10 +6988,6 @@
     "article": "de"
   },
   {
-    "dutch": "pinnen",
-    "english": "to pay by card"
-  },
-  {
     "dutch": "piramide",
     "english": "pyramid",
     "article": "de"
@@ -10194,11 +7027,6 @@
     "article": "de"
   },
   {
-    "dutch": "planning",
-    "english": "schedule",
-    "article": "de"
-  },
-  {
     "dutch": "plant",
     "english": "plant",
     "article": "de"
@@ -10224,11 +7052,6 @@
     "article": "de"
   },
   {
-    "dutch": "plichtsgetrouwheid",
-    "english": "duty-boundness",
-    "article": "de"
-  },
-  {
     "dutch": "ploegendienst",
     "english": "shift work",
     "article": "de"
@@ -10241,11 +7064,6 @@
   {
     "dutch": "poetsen",
     "english": "to clean"
-  },
-  {
-    "dutch": "polaire coördinaten",
-    "english": "polar coordinates",
-    "article": "de"
   },
   {
     "dutch": "polis",
@@ -10263,11 +7081,6 @@
     "article": "de"
   },
   {
-    "dutch": "politiebevoegdheid",
-    "english": "police authority",
-    "article": "de"
-  },
-  {
     "dutch": "politiebureau",
     "english": "police station",
     "article": "het"
@@ -10275,11 +7088,6 @@
   {
     "dutch": "politiek",
     "english": "politics",
-    "article": "de"
-  },
-  {
-    "dutch": "politieke filosofie",
-    "english": "political philosophy",
     "article": "de"
   },
   {
@@ -10313,16 +7121,6 @@
     "article": "de"
   },
   {
-    "dutch": "portefeuillebeheer",
-    "english": "portfolio management",
-    "article": "de"
-  },
-  {
-    "dutch": "portefeuillespreiding",
-    "english": "portfolio diversification",
-    "article": "de"
-  },
-  {
     "dutch": "portemonnee",
     "english": "wallet",
     "article": "de"
@@ -10336,11 +7134,6 @@
     "dutch": "positivisme",
     "english": "positivism",
     "article": "het"
-  },
-  {
-    "dutch": "posterior verdeling",
-    "english": "posterior distribution",
-    "article": "de"
   },
   {
     "dutch": "posthumanisme",
@@ -10363,11 +7156,6 @@
     "article": "de"
   },
   {
-    "dutch": "poststructuralisme",
-    "english": "post-structuralism",
-    "article": "het"
-  },
-  {
     "dutch": "pot",
     "english": "pot",
     "article": "de"
@@ -10376,16 +7164,6 @@
     "dutch": "potlood",
     "english": "pencil",
     "article": "het"
-  },
-  {
-    "dutch": "pragmatische benadering",
-    "english": "pragmatic approach",
-    "article": "de"
-  },
-  {
-    "dutch": "pragmatische waarheidsopvatting",
-    "english": "pragmatic theory of truth",
-    "article": "de"
   },
   {
     "dutch": "pragmatisme",
@@ -10407,21 +7185,6 @@
     "article": "de"
   },
   {
-    "dutch": "precisielandbouw",
-    "english": "precision farming",
-    "article": "de"
-  },
-  {
-    "dutch": "preferente aandeel",
-    "english": "preferred share",
-    "article": "de"
-  },
-  {
-    "dutch": "preferente schuldeiser",
-    "english": "preferred creditor",
-    "article": "de"
-  },
-  {
     "dutch": "prehistorie",
     "english": "prehistory",
     "article": "de"
@@ -10439,11 +7202,6 @@
   {
     "dutch": "president",
     "english": "president",
-    "article": "de"
-  },
-  {
-    "dutch": "prestatiebeoordeling",
-    "english": "performance review",
     "article": "de"
   },
   {
@@ -10469,16 +7227,6 @@
   {
     "dutch": "prijszetting",
     "english": "pricing",
-    "article": "de"
-  },
-  {
-    "dutch": "prijszettingsstrategie",
-    "english": "pricing strategy",
-    "article": "de"
-  },
-  {
-    "dutch": "primaire markt",
-    "english": "primary market",
     "article": "de"
   },
   {
@@ -10511,21 +7259,6 @@
     "article": "het"
   },
   {
-    "dutch": "privaatrecht",
-    "english": "private law",
-    "article": "het"
-  },
-  {
-    "dutch": "privacyrecht",
-    "english": "privacy law",
-    "article": "het"
-  },
-  {
-    "dutch": "privacywetgeving",
-    "english": "privacy legislation",
-    "article": "de"
-  },
-  {
     "dutch": "private key",
     "english": "private key",
     "article": "de"
@@ -10535,49 +7268,9 @@
     "english": "to try"
   },
   {
-    "dutch": "proces",
-    "english": "trial/process",
-    "article": "het"
-  },
-  {
-    "dutch": "proces-verbaal",
-    "english": "official report",
-    "article": "de"
-  },
-  {
     "dutch": "proceskosten",
     "english": "legal costs",
     "article": "de"
-  },
-  {
-    "dutch": "procesoptimalisatie",
-    "english": "process optimization",
-    "article": "de"
-  },
-  {
-    "dutch": "procesrecht",
-    "english": "procedural law",
-    "article": "de"
-  },
-  {
-    "dutch": "processtrategie",
-    "english": "litigation strategy",
-    "article": "de"
-  },
-  {
-    "dutch": "procesvertegenwoordiging",
-    "english": "legal representation",
-    "article": "de"
-  },
-  {
-    "dutch": "procesvoering",
-    "english": "litigation",
-    "article": "de"
-  },
-  {
-    "dutch": "producentenvertrouwen",
-    "english": "producer confidence",
-    "article": "het"
   },
   {
     "dutch": "product",
@@ -10587,11 +7280,6 @@
   {
     "dutch": "productielijn",
     "english": "production line",
-    "article": "de"
-  },
-  {
-    "dutch": "productiviteitsgroei",
-    "english": "productivity growth",
     "article": "de"
   },
   {
@@ -10634,11 +7322,6 @@
     "article": "het"
   },
   {
-    "dutch": "projectie",
-    "english": "projection",
-    "article": "de"
-  },
-  {
     "dutch": "projector",
     "english": "projector",
     "article": "de"
@@ -10654,23 +7337,8 @@
     "article": "de"
   },
   {
-    "dutch": "proof-of-stake",
-    "english": "proof-of-stake",
-    "article": "de"
-  },
-  {
-    "dutch": "proof-of-work",
-    "english": "proof-of-work",
-    "article": "de"
-  },
-  {
     "dutch": "propaganda",
     "english": "propaganda",
-    "article": "de"
-  },
-  {
-    "dutch": "propositionele inhoud",
-    "english": "propositional content",
     "article": "de"
   },
   {
@@ -10709,11 +7377,6 @@
     "article": "de"
   },
   {
-    "dutch": "publiekrecht",
-    "english": "public law",
-    "article": "het"
-  },
-  {
     "dutch": "punt",
     "english": "point",
     "article": "het"
@@ -10749,11 +7412,6 @@
     "article": "de"
   },
   {
-    "dutch": "rampenbestrijding",
-    "english": "disaster management",
-    "article": "de"
-  },
-  {
     "dutch": "rampenfonds",
     "english": "disaster relief fund",
     "article": "de"
@@ -10779,19 +7437,9 @@
     "article": "de"
   },
   {
-    "dutch": "rank van een matrix",
-    "english": "matrix rank",
-    "article": "de"
-  },
-  {
     "dutch": "ransomware",
     "english": "ransomware",
     "article": "de"
-  },
-  {
-    "dutch": "rapport",
-    "english": "report",
-    "article": "het"
   },
   {
     "dutch": "rasp",
@@ -10804,23 +7452,8 @@
     "article": "de"
   },
   {
-    "dutch": "rationalisme",
-    "english": "rationalism",
-    "article": "het"
-  },
-  {
     "dutch": "rationaliteit",
     "english": "rationality",
-    "article": "de"
-  },
-  {
-    "dutch": "rationaliteitsbegrip",
-    "english": "concept of rationality",
-    "article": "de"
-  },
-  {
-    "dutch": "rationaliteitskritiek",
-    "english": "critique of rationality",
     "article": "de"
   },
   {
@@ -10854,22 +7487,8 @@
     "article": "de"
   },
   {
-    "dutch": "recht op privacy",
-    "english": "right to privacy"
-  },
-  {
-    "dutch": "rechtbank",
-    "english": "court",
-    "article": "de"
-  },
-  {
     "dutch": "rechter",
     "english": "judge",
-    "article": "de"
-  },
-  {
-    "dutch": "rechterlijke macht",
-    "english": "judiciary",
     "article": "de"
   },
   {
@@ -10878,18 +7497,8 @@
     "article": "de"
   },
   {
-    "dutch": "rechtsbescherming",
-    "english": "legal protection",
-    "article": "de"
-  },
-  {
     "dutch": "rechtsbijstand",
     "english": "legal aid",
-    "article": "de"
-  },
-  {
-    "dutch": "rechtsfilosofie",
-    "english": "philosophy of law",
     "article": "de"
   },
   {
@@ -10898,18 +7507,8 @@
     "article": "de"
   },
   {
-    "dutch": "rechtsgeldigheid",
-    "english": "legal validity",
-    "article": "de"
-  },
-  {
     "dutch": "rechtsgrond",
     "english": "legal basis",
-    "article": "de"
-  },
-  {
-    "dutch": "rechtsmacht",
-    "english": "jurisdiction (authority)",
     "article": "de"
   },
   {
@@ -10928,21 +7527,6 @@
     "article": "de"
   },
   {
-    "dutch": "rechtszitting",
-    "english": "court hearing",
-    "article": "de"
-  },
-  {
-    "dutch": "rechtvaardigheidsprincipe",
-    "english": "principle of justice",
-    "article": "de"
-  },
-  {
-    "dutch": "rechtvaardigheidstheorie",
-    "english": "theory of justice",
-    "article": "de"
-  },
-  {
     "dutch": "reclame",
     "english": "advertising",
     "article": "de"
@@ -10958,16 +7542,6 @@
     "article": "de"
   },
   {
-    "dutch": "recyclinginstallatie",
-    "english": "recycling facility",
-    "article": "de"
-  },
-  {
-    "dutch": "reddingsoperatie",
-    "english": "salvage operation",
-    "article": "de"
-  },
-  {
     "dutch": "rede",
     "english": "reason",
     "article": "de"
@@ -10980,11 +7554,6 @@
   {
     "dutch": "reeks",
     "english": "series",
-    "article": "de"
-  },
-  {
-    "dutch": "reële analyse",
-    "english": "real analysis",
     "article": "de"
   },
   {
@@ -11005,11 +7574,6 @@
   {
     "dutch": "regel",
     "english": "rule",
-    "article": "de"
-  },
-  {
-    "dutch": "regelgeving",
-    "english": "regulation",
     "article": "de"
   },
   {
@@ -11052,21 +7616,6 @@
     "english": "to register"
   },
   {
-    "dutch": "regressie",
-    "english": "regression",
-    "article": "de"
-  },
-  {
-    "dutch": "regressieanalyse",
-    "english": "regression analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "regressiecoëfficiënt",
-    "english": "regression coefficient",
-    "article": "de"
-  },
-  {
     "dutch": "reis",
     "english": "trip",
     "article": "de"
@@ -11091,16 +7640,6 @@
     "article": "de"
   },
   {
-    "dutch": "relativisme",
-    "english": "relativism",
-    "article": "het"
-  },
-  {
-    "dutch": "relativisme",
-    "english": "relativism",
-    "article": "de"
-  },
-  {
     "dutch": "religie",
     "english": "religion",
     "article": "de"
@@ -11111,19 +7650,9 @@
     "article": "de"
   },
   {
-    "dutch": "renaissancekunst",
-    "english": "renaissance art",
-    "article": "de"
-  },
-  {
     "dutch": "rendement",
     "english": "return",
     "article": "het"
-  },
-  {
-    "dutch": "rendementsoverzicht",
-    "english": "return overview",
-    "article": "de"
   },
   {
     "dutch": "rennen",
@@ -11140,11 +7669,6 @@
     "article": "de"
   },
   {
-    "dutch": "rentegevoeligheid",
-    "english": "interest rate sensitivity",
-    "article": "de"
-  },
-  {
     "dutch": "rentemarge",
     "english": "interest margin",
     "article": "de"
@@ -11153,11 +7677,6 @@
     "dutch": "rentepercentage",
     "english": "interest rate",
     "article": "het"
-  },
-  {
-    "dutch": "reparatiewerkplaats",
-    "english": "repair shop",
-    "article": "de"
   },
   {
     "dutch": "repareren",
@@ -11169,18 +7688,8 @@
     "article": "de"
   },
   {
-    "dutch": "repliek",
-    "english": "reply (in court)",
-    "article": "de"
-  },
-  {
     "dutch": "representatie",
     "english": "representation",
-    "article": "de"
-  },
-  {
-    "dutch": "reproductietechniek",
-    "english": "reproduction technique",
     "article": "de"
   },
   {
@@ -11200,16 +7709,6 @@
   {
     "dutch": "resetten",
     "english": "to reset"
-  },
-  {
-    "dutch": "residuberekening",
-    "english": "residue calculation",
-    "article": "de"
-  },
-  {
-    "dutch": "resolutie",
-    "english": "resolution",
-    "article": "de"
   },
   {
     "dutch": "restaurant",
@@ -11234,16 +7733,6 @@
   {
     "dutch": "riem",
     "english": "belt",
-    "article": "de"
-  },
-  {
-    "dutch": "Riemann-integraal",
-    "english": "Riemann integral",
-    "article": "de"
-  },
-  {
-    "dutch": "riemann-meetkunde",
-    "english": "Riemannian geometry",
     "article": "de"
   },
   {
@@ -11276,38 +7765,13 @@
     "article": "de"
   },
   {
-    "dutch": "ringtheorie",
-    "english": "ring theory",
-    "article": "de"
-  },
-  {
     "dutch": "risico",
     "english": "risk",
     "article": "het"
   },
   {
-    "dutch": "risicobeheersing",
-    "english": "risk management",
-    "article": "de"
-  },
-  {
-    "dutch": "risicobeheerstrategie",
-    "english": "risk management strategy",
-    "article": "de"
-  },
-  {
-    "dutch": "risicobeoordeling",
-    "english": "risk assessment",
-    "article": "de"
-  },
-  {
     "dutch": "risicospreiding",
     "english": "risk diversification",
-    "article": "de"
-  },
-  {
-    "dutch": "risk parity strategie",
-    "english": "risk parity strategy",
     "article": "de"
   },
   {
@@ -11374,18 +7838,8 @@
     "article": "de"
   },
   {
-    "dutch": "rooster",
-    "english": "schedule",
-    "article": "het"
-  },
-  {
     "dutch": "rosé",
     "english": "rosé wine",
-    "article": "de"
-  },
-  {
-    "dutch": "rotatie-operator",
-    "english": "curl operator",
     "article": "de"
   },
   {
@@ -11432,21 +7886,6 @@
     "english": "to exchange"
   },
   {
-    "dutch": "ruimte",
-    "english": "space",
-    "article": "de"
-  },
-  {
-    "dutch": "ruimtelijke ordening",
-    "english": "spatial planning",
-    "article": "de"
-  },
-  {
-    "dutch": "ruimteschip",
-    "english": "spaceship",
-    "article": "het"
-  },
-  {
     "dutch": "rundvlees",
     "english": "beef",
     "article": "het"
@@ -11459,11 +7898,6 @@
     "dutch": "salade",
     "english": "salad",
     "article": "de"
-  },
-  {
-    "dutch": "salaris",
-    "english": "salary",
-    "article": "het"
   },
   {
     "dutch": "saldo",
@@ -11486,28 +7920,13 @@
     "article": "de"
   },
   {
-    "dutch": "sanctie",
-    "english": "sanction",
-    "article": "de"
-  },
-  {
     "dutch": "sanctielijst",
     "english": "sanctions list",
     "article": "de"
   },
   {
-    "dutch": "sanctierecht",
-    "english": "sanctions law",
-    "article": "de"
-  },
-  {
     "dutch": "sandaal",
     "english": "sandal",
-    "article": "de"
-  },
-  {
-    "dutch": "sanitaire voorziening",
-    "english": "sanitation facility",
     "article": "de"
   },
   {
@@ -11574,11 +7993,6 @@
     "article": "de"
   },
   {
-    "dutch": "schadevergoeding",
-    "english": "compensation for damages",
-    "article": "de"
-  },
-  {
     "dutch": "schaduw",
     "english": "shade",
     "article": "de"
@@ -11588,18 +8002,8 @@
     "english": "to estimate"
   },
   {
-    "dutch": "schattingstheorie",
-    "english": "estimation theory",
-    "article": "de"
-  },
-  {
     "dutch": "scheepseigenaar",
     "english": "shipowner",
-    "article": "de"
-  },
-  {
-    "dutch": "scheepsregistratie",
-    "english": "ship registration",
     "article": "de"
   },
   {
@@ -11610,11 +8014,6 @@
   {
     "dutch": "scheepvaart",
     "english": "shipping industry",
-    "article": "de"
-  },
-  {
-    "dutch": "scheiding der machten",
-    "english": "separation of powers",
     "article": "de"
   },
   {
@@ -11633,11 +8032,6 @@
     "article": "de"
   },
   {
-    "dutch": "schema",
-    "english": "scheme",
-    "article": "het"
-  },
-  {
     "dutch": "scheren",
     "english": "to shave"
   },
@@ -11645,11 +8039,6 @@
     "dutch": "schiereiland",
     "english": "peninsula",
     "article": "het"
-  },
-  {
-    "dutch": "schikking",
-    "english": "settlement",
-    "article": "de"
   },
   {
     "dutch": "schilder",
@@ -11668,11 +8057,6 @@
   {
     "dutch": "schilderstijl",
     "english": "painting style",
-    "article": "de"
-  },
-  {
-    "dutch": "schildertechniek",
-    "english": "painting technique",
     "article": "de"
   },
   {
@@ -11721,48 +8105,13 @@
     "article": "de"
   },
   {
-    "dutch": "schoondochter",
-    "english": "daughter-in-law",
-    "article": "de"
-  },
-  {
     "dutch": "schoonfamilie",
     "english": "in-laws",
     "article": "de"
   },
   {
-    "dutch": "schoonheidssalon",
-    "english": "beauty salon",
-    "article": "de"
-  },
-  {
-    "dutch": "schoonmaakmiddel",
-    "english": "cleaning agent",
-    "article": "het"
-  },
-  {
     "dutch": "schoonmaker",
     "english": "cleaner",
-    "article": "de"
-  },
-  {
-    "dutch": "schoonmoeder",
-    "english": "mother-in-law",
-    "article": "de"
-  },
-  {
-    "dutch": "schoonvader",
-    "english": "father-in-law",
-    "article": "de"
-  },
-  {
-    "dutch": "schoonzoon",
-    "english": "son-in-law",
-    "article": "de"
-  },
-  {
-    "dutch": "schoonzus",
-    "english": "sister-in-law",
     "article": "de"
   },
   {
@@ -11798,43 +8147,8 @@
     "article": "de"
   },
   {
-    "dutch": "schrödingervergelijking",
-    "english": "Schrödinger equation",
-    "article": "de"
-  },
-  {
     "dutch": "schroeven",
     "english": "to screw"
-  },
-  {
-    "dutch": "schuld",
-    "english": "debt",
-    "article": "de"
-  },
-  {
-    "dutch": "schuldenlast",
-    "english": "debt burden",
-    "article": "de"
-  },
-  {
-    "dutch": "schuldgraad",
-    "english": "debt ratio",
-    "article": "de"
-  },
-  {
-    "dutch": "schuldherschikking",
-    "english": "debt restructuring",
-    "article": "de"
-  },
-  {
-    "dutch": "schuldpositie",
-    "english": "debt position",
-    "article": "de"
-  },
-  {
-    "dutch": "schuldsanering",
-    "english": "debt restructuring",
-    "article": "de"
   },
   {
     "dutch": "schuur",
@@ -11868,17 +8182,12 @@
   },
   {
     "dutch": "secretaresse",
-    "english": "secretary (female)",
+    "english": "secretary",
     "article": "de"
   },
   {
     "dutch": "secretaris",
-    "english": "secretary (male)",
-    "article": "de"
-  },
-  {
-    "dutch": "secundaire markt",
-    "english": "secondary market",
+    "english": "secretary",
     "article": "de"
   },
   {
@@ -11887,28 +8196,8 @@
     "article": "de"
   },
   {
-    "dutch": "seizoenscomponent",
-    "english": "seasonal component",
-    "article": "de"
-  },
-  {
     "dutch": "selecteren",
     "english": "to select"
-  },
-  {
-    "dutch": "semantische analyse",
-    "english": "semantic analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "semantische theorie",
-    "english": "semantic theory",
-    "article": "de"
-  },
-  {
-    "dutch": "semantische veld",
-    "english": "semantic field",
-    "article": "de"
   },
   {
     "dutch": "seminar",
@@ -11933,11 +8222,6 @@
   {
     "dutch": "server",
     "english": "server",
-    "article": "de"
-  },
-  {
-    "dutch": "servercapaciteit",
-    "english": "server capacity",
     "article": "de"
   },
   {
@@ -11980,33 +8264,13 @@
     "article": "de"
   },
   {
-    "dutch": "sigma-algebra",
-    "english": "sigma algebra",
-    "article": "de"
-  },
-  {
-    "dutch": "significantieniveau",
-    "english": "significance level",
-    "article": "de"
-  },
-  {
     "dutch": "sinaasappel",
     "english": "orange",
     "article": "de"
   },
   {
-    "dutch": "singular value decomposition",
-    "english": "singular value decomposition",
-    "article": "de"
-  },
-  {
     "dutch": "singulariteit",
     "english": "singularity",
-    "article": "de"
-  },
-  {
-    "dutch": "singulariteitsanalyse",
-    "english": "singularity analysis",
     "article": "de"
   },
   {
@@ -12129,11 +8393,6 @@
     "article": "de"
   },
   {
-    "dutch": "smart contract",
-    "english": "smart contract",
-    "article": "de"
-  },
-  {
     "dutch": "smart grid",
     "english": "smart grid",
     "article": "de"
@@ -12142,11 +8401,6 @@
     "dutch": "smartphone",
     "english": "smartphone",
     "article": "de"
-  },
-  {
-    "dutch": "smelten van het ijs",
-    "english": "ice melting",
-    "article": "het"
   },
   {
     "dutch": "smokkel",
@@ -12189,11 +8443,6 @@
     "article": "de"
   },
   {
-    "dutch": "snelheidsbeperking",
-    "english": "speed limit",
-    "article": "de"
-  },
-  {
     "dutch": "snelweg",
     "english": "highway",
     "article": "de"
@@ -12215,26 +8464,6 @@
   {
     "dutch": "snowboarden",
     "english": "to snowboard"
-  },
-  {
-    "dutch": "sociaal zekerheidsrecht",
-    "english": "social security law",
-    "article": "het"
-  },
-  {
-    "dutch": "sociale constructie",
-    "english": "social construction",
-    "article": "de"
-  },
-  {
-    "dutch": "sociale contracttheorie",
-    "english": "social contract theory",
-    "article": "de"
-  },
-  {
-    "dutch": "sociale filosofie",
-    "english": "social philosophy",
-    "article": "de"
   },
   {
     "dutch": "socioloog",
@@ -12269,26 +8498,6 @@
   {
     "dutch": "sollicitatie",
     "english": "job application",
-    "article": "de"
-  },
-  {
-    "dutch": "sollicitatiegesprek",
-    "english": "job interview",
-    "article": "het"
-  },
-  {
-    "dutch": "sollicitatieprocedure",
-    "english": "application process",
-    "article": "de"
-  },
-  {
-    "dutch": "solvabiliteit",
-    "english": "solvency",
-    "article": "de"
-  },
-  {
-    "dutch": "solvabiliteitsratio",
-    "english": "solvency ratio",
     "article": "de"
   },
   {
@@ -12339,16 +8548,6 @@
   {
     "dutch": "specialiteit",
     "english": "specialty",
-    "article": "de"
-  },
-  {
-    "dutch": "spectrale analyse",
-    "english": "spectral analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "spectrale decompositie",
-    "english": "spectral decomposition",
     "article": "de"
   },
   {
@@ -12441,11 +8640,6 @@
     "article": "de"
   },
   {
-    "dutch": "spoorweginfrastructuur",
-    "english": "railway infrastructure",
-    "article": "de"
-  },
-  {
     "dutch": "sport",
     "english": "sport",
     "article": "de"
@@ -12503,18 +8697,8 @@
     "english": "to stand"
   },
   {
-    "dutch": "staatsburgerschap",
-    "english": "citizenship",
-    "article": "de"
-  },
-  {
     "dutch": "staatsgreep",
     "english": "coup d'état",
-    "article": "de"
-  },
-  {
-    "dutch": "staatssecretaris",
-    "english": "state secretary",
     "article": "de"
   },
   {
@@ -12533,11 +8717,6 @@
     "article": "het"
   },
   {
-    "dutch": "stadsontwikkeling",
-    "english": "urban development",
-    "article": "de"
-  },
-  {
     "dutch": "stadsplanning",
     "english": "urban planning",
     "article": "de"
@@ -12545,16 +8724,6 @@
   {
     "dutch": "stadstaat",
     "english": "city-state",
-    "article": "de"
-  },
-  {
-    "dutch": "stadsvergroening",
-    "english": "urban greening",
-    "article": "de"
-  },
-  {
-    "dutch": "stadsvernieuwing",
-    "english": "urban renewal",
     "article": "de"
   },
   {
@@ -12568,18 +8737,8 @@
     "article": "de"
   },
   {
-    "dutch": "staking",
-    "english": "staking",
-    "article": "de"
-  },
-  {
     "dutch": "stam",
     "english": "trunk",
-    "article": "de"
-  },
-  {
-    "dutch": "standaardafwijking",
-    "english": "standard deviation",
     "article": "de"
   },
   {
@@ -12598,58 +8757,8 @@
     "article": "de"
   },
   {
-    "dutch": "statistiek",
-    "english": "statistics",
-    "article": "de"
-  },
-  {
-    "dutch": "statistische inferentie",
-    "english": "statistical inference",
-    "article": "de"
-  },
-  {
-    "dutch": "statistische model",
-    "english": "statistical model",
-    "article": "de"
-  },
-  {
-    "dutch": "statistische power",
-    "english": "statistical power",
-    "article": "de"
-  },
-  {
-    "dutch": "statutenwijziging",
-    "english": "articles of association amendment",
-    "article": "de"
-  },
-  {
-    "dutch": "stedelijke herontwikkeling",
-    "english": "urban redevelopment",
-    "article": "de"
-  },
-  {
-    "dutch": "stedelijke mobiliteit",
-    "english": "urban mobility",
-    "article": "de"
-  },
-  {
-    "dutch": "stedelijke vergroening",
-    "english": "urban greening",
-    "article": "de"
-  },
-  {
     "dutch": "steekproef",
     "english": "sample",
-    "article": "de"
-  },
-  {
-    "dutch": "steekproefgrootte",
-    "english": "sample size",
-    "article": "de"
-  },
-  {
-    "dutch": "steekproefverdeling",
-    "english": "sampling distribution",
     "article": "de"
   },
   {
@@ -12684,16 +8793,6 @@
   {
     "dutch": "ster",
     "english": "star",
-    "article": "de"
-  },
-  {
-    "dutch": "steward",
-    "english": "flight attendant (male)",
-    "article": "de"
-  },
-  {
-    "dutch": "stewardess",
-    "english": "flight attendant (female)",
     "article": "de"
   },
   {
@@ -12734,21 +8833,6 @@
   {
     "dutch": "stijging",
     "english": "increase",
-    "article": "de"
-  },
-  {
-    "dutch": "stijging van de zeespiegel",
-    "english": "sea level rise",
-    "article": "de"
-  },
-  {
-    "dutch": "stochastische integraal",
-    "english": "stochastic integral",
-    "article": "de"
-  },
-  {
-    "dutch": "stochastische proces",
-    "english": "stochastic process",
     "article": "de"
   },
   {
@@ -12820,16 +8904,6 @@
     "article": "de"
   },
   {
-    "dutch": "strafrecht",
-    "english": "criminal law",
-    "article": "de"
-  },
-  {
-    "dutch": "strafrecht",
-    "english": "criminal law",
-    "article": "het"
-  },
-  {
     "dutch": "strafrechter",
     "english": "criminal judge",
     "article": "de"
@@ -12888,26 +8962,6 @@
     "article": "de"
   },
   {
-    "dutch": "structuralisme",
-    "english": "structuralism",
-    "article": "het"
-  },
-  {
-    "dutch": "structuralisme",
-    "english": "structuralism",
-    "article": "de"
-  },
-  {
-    "dutch": "structuralistisch denken",
-    "english": "structuralist thought",
-    "article": "het"
-  },
-  {
-    "dutch": "structurele analyse",
-    "english": "structural analysis",
-    "article": "de"
-  },
-  {
     "dutch": "struik",
     "english": "bush",
     "article": "de"
@@ -12935,21 +8989,6 @@
     "dutch": "studiemateriaal",
     "english": "study material",
     "article": "het"
-  },
-  {
-    "dutch": "studiepunt",
-    "english": "credit",
-    "article": "het"
-  },
-  {
-    "dutch": "subject-object relatie",
-    "english": "subject-object relation",
-    "article": "de"
-  },
-  {
-    "dutch": "subjectieve ervaring",
-    "english": "subjective experience",
-    "article": "de"
   },
   {
     "dutch": "subjectivisme",
@@ -12986,21 +9025,6 @@
     "english": "to surf"
   },
   {
-    "dutch": "surrealistische kunst",
-    "english": "surrealist art",
-    "article": "de"
-  },
-  {
-    "dutch": "surseance van betaling",
-    "english": "suspension of payment",
-    "article": "de"
-  },
-  {
-    "dutch": "swapovereenkomst",
-    "english": "swap agreement",
-    "article": "de"
-  },
-  {
     "dutch": "syllogisme",
     "english": "syllogism",
     "article": "de"
@@ -13008,11 +9032,6 @@
   {
     "dutch": "symboliek",
     "english": "symbolism",
-    "article": "de"
-  },
-  {
-    "dutch": "symplectische meetkunde",
-    "english": "symplectic geometry",
     "article": "de"
   },
   {
@@ -13038,11 +9057,6 @@
   {
     "dutch": "taal",
     "english": "language",
-    "article": "de"
-  },
-  {
-    "dutch": "taalfilosofie",
-    "english": "philosophy of language",
     "article": "de"
   },
   {
@@ -13151,21 +9165,6 @@
     "article": "het"
   },
   {
-    "dutch": "techniekfilosofie",
-    "english": "philosophy of technology",
-    "article": "de"
-  },
-  {
-    "dutch": "technologische innovatie",
-    "english": "technological innovation",
-    "article": "de"
-  },
-  {
-    "dutch": "teelttechniek",
-    "english": "cultivation technique",
-    "article": "de"
-  },
-  {
     "dutch": "teen",
     "english": "toe",
     "article": "de"
@@ -13210,31 +9209,6 @@
     "article": "de"
   },
   {
-    "dutch": "tensor",
-    "english": "tensor",
-    "article": "de"
-  },
-  {
-    "dutch": "tensoranalyse",
-    "english": "tensor analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "termijncontract",
-    "english": "futures contract",
-    "article": "het"
-  },
-  {
-    "dutch": "termijncontract",
-    "english": "futures contract",
-    "article": "de"
-  },
-  {
-    "dutch": "termijnmarkt",
-    "english": "futures market",
-    "article": "de"
-  },
-  {
     "dutch": "terras",
     "english": "terrace",
     "article": "het"
@@ -13242,11 +9216,6 @@
   {
     "dutch": "terugbrengen",
     "english": "to return"
-  },
-  {
-    "dutch": "terugverdientijd",
-    "english": "payback period",
-    "article": "de"
   },
   {
     "dutch": "theater",
@@ -13261,21 +9230,6 @@
   {
     "dutch": "theedoek",
     "english": "tea towel",
-    "article": "de"
-  },
-  {
-    "dutch": "theoretische consistentie",
-    "english": "theoretical consistency",
-    "article": "de"
-  },
-  {
-    "dutch": "theorie",
-    "english": "theory",
-    "article": "de"
-  },
-  {
-    "dutch": "theorie van kennis",
-    "english": "theory of knowledge",
     "article": "de"
   },
   {
@@ -13299,18 +9253,8 @@
     "article": "de"
   },
   {
-    "dutch": "tijdelijk contract",
-    "english": "temporary contract",
-    "article": "de"
-  },
-  {
     "dutch": "tijdklok",
     "english": "timer",
-    "article": "de"
-  },
-  {
-    "dutch": "tijdreeksanalyse",
-    "english": "time series analysis",
     "article": "de"
   },
   {
@@ -13330,11 +9274,6 @@
   {
     "dutch": "timmerman",
     "english": "carpenter",
-    "article": "de"
-  },
-  {
-    "dutch": "toeleveringsketen",
-    "english": "supply chain",
     "article": "de"
   },
   {
@@ -13422,16 +9361,6 @@
     "article": "de"
   },
   {
-    "dutch": "topologie",
-    "english": "topology",
-    "article": "de"
-  },
-  {
-    "dutch": "topologische ruimte",
-    "english": "topological space",
-    "article": "de"
-  },
-  {
     "dutch": "traan",
     "english": "tear",
     "article": "de"
@@ -13471,11 +9400,6 @@
     "article": "de"
   },
   {
-    "dutch": "transcendentaal idealisme",
-    "english": "transcendental idealism",
-    "article": "het"
-  },
-  {
     "dutch": "transport",
     "english": "transport",
     "article": "het"
@@ -13503,11 +9427,6 @@
   {
     "dutch": "tribune",
     "english": "stands",
-    "article": "de"
-  },
-  {
-    "dutch": "triple-A rating",
-    "english": "triple-A rating",
     "article": "de"
   },
   {
@@ -13560,28 +9479,13 @@
     "article": "het"
   },
   {
-    "dutch": "tweede kwantisatie",
-    "english": "second quantization",
-    "article": "de"
-  },
-  {
     "dutch": "tweedehands",
     "english": "second-hand",
     "article": "de"
   },
   {
-    "dutch": "tweefactorauthenticatie",
-    "english": "two-factor authentication",
-    "article": "de"
-  },
-  {
     "dutch": "tweemaal",
     "english": "twice",
-    "article": "de"
-  },
-  {
-    "dutch": "tweestapsverificatie",
-    "english": "two-factor authentication",
     "article": "de"
   },
   {
@@ -13636,11 +9540,6 @@
     "article": "de"
   },
   {
-    "dutch": "uitleveringsverdrag",
-    "english": "extradition treaty",
-    "article": "de"
-  },
-  {
     "dutch": "uitloggen",
     "english": "to log out"
   },
@@ -13651,11 +9550,6 @@
   {
     "dutch": "uitspraak",
     "english": "judgment",
-    "article": "de"
-  },
-  {
-    "dutch": "uitspraak van het hof",
-    "english": "court ruling",
     "article": "de"
   },
   {
@@ -13687,24 +9581,9 @@
     "english": "to uncheck/untick"
   },
   {
-    "dutch": "uitvoerende macht",
-    "english": "executive power",
-    "article": "de"
-  },
-  {
-    "dutch": "uitzettingsbevel",
-    "english": "deportation order",
-    "article": "de"
-  },
-  {
     "dutch": "uniform",
     "english": "uniform",
     "article": "het"
-  },
-  {
-    "dutch": "universele rechten",
-    "english": "universal rights",
-    "article": "de"
   },
   {
     "dutch": "universiteit",
@@ -13736,11 +9615,6 @@
     "article": "de"
   },
   {
-    "dutch": "utiliteitsmaximalisatie",
-    "english": "utility maximization",
-    "article": "de"
-  },
-  {
     "dutch": "utopisch denken",
     "english": "utopian thinking",
     "article": "de"
@@ -13763,11 +9637,6 @@
   {
     "dutch": "vaccinatie",
     "english": "vaccination",
-    "article": "de"
-  },
-  {
-    "dutch": "vaccinatieprogramma",
-    "english": "vaccination program",
     "article": "de"
   },
   {
@@ -13815,11 +9684,6 @@
     "article": "de"
   },
   {
-    "dutch": "valutamarkt",
-    "english": "foreign exchange market",
-    "article": "de"
-  },
-  {
     "dutch": "valutarisico",
     "english": "currency risk",
     "article": "de"
@@ -13843,23 +9707,8 @@
     "article": "de"
   },
   {
-    "dutch": "variabele transformatie",
-    "english": "variable transformation",
-    "article": "de"
-  },
-  {
     "dutch": "variantie",
     "english": "variance",
-    "article": "de"
-  },
-  {
-    "dutch": "variantieanalyse",
-    "english": "analysis of variance",
-    "article": "de"
-  },
-  {
-    "dutch": "variatierekening",
-    "english": "calculus of variations",
     "article": "de"
   },
   {
@@ -13871,11 +9720,6 @@
     "dutch": "varkensvlees",
     "english": "pork",
     "article": "het"
-  },
-  {
-    "dutch": "vast contract",
-    "english": "permanent contract",
-    "article": "de"
   },
   {
     "dutch": "vasteland",
@@ -13892,26 +9736,6 @@
     "english": "to fight"
   },
   {
-    "dutch": "vector",
-    "english": "vector",
-    "article": "de"
-  },
-  {
-    "dutch": "vectoranalyse",
-    "english": "vector analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "vectorruimte",
-    "english": "vector space",
-    "article": "de"
-  },
-  {
-    "dutch": "vectorveld",
-    "english": "vector field",
-    "article": "de"
-  },
-  {
     "dutch": "veerboot",
     "english": "ferry",
     "article": "de"
@@ -13924,21 +9748,6 @@
   {
     "dutch": "vegen",
     "english": "to sweep"
-  },
-  {
-    "dutch": "veiligheidscontrole",
-    "english": "security check",
-    "article": "de"
-  },
-  {
-    "dutch": "veiligheidsmaatregel",
-    "english": "safety measure",
-    "article": "de"
-  },
-  {
-    "dutch": "veiligheidsprotocol",
-    "english": "safety protocol",
-    "article": "de"
   },
   {
     "dutch": "veilinghuis",
@@ -13961,24 +9770,9 @@
     "article": "de"
   },
   {
-    "dutch": "veldtheorie",
-    "english": "field theory",
-    "article": "de"
-  },
-  {
     "dutch": "veldtocht",
     "english": "campaign",
     "article": "de"
-  },
-  {
-    "dutch": "vennootschapsbelasting",
-    "english": "corporate tax",
-    "article": "de"
-  },
-  {
-    "dutch": "vennootschapsrecht",
-    "english": "corporate law",
-    "article": "het"
   },
   {
     "dutch": "venster",
@@ -13991,11 +9785,6 @@
     "article": "de"
   },
   {
-    "dutch": "verantwoordelijkheid",
-    "english": "responsibility",
-    "article": "de"
-  },
-  {
     "dutch": "verband",
     "english": "bandage",
     "article": "het"
@@ -14003,11 +9792,6 @@
   {
     "dutch": "verbinden",
     "english": "to connect"
-  },
-  {
-    "dutch": "verblijfsvergunning",
-    "english": "residence permit",
-    "article": "de"
   },
   {
     "dutch": "verbod",
@@ -14025,11 +9809,6 @@
     "article": "het"
   },
   {
-    "dutch": "verdragsbepaling",
-    "english": "treaty provision",
-    "article": "de"
-  },
-  {
     "dutch": "verdriet",
     "english": "sorrow",
     "article": "het"
@@ -14038,16 +9817,6 @@
     "dutch": "vereffening",
     "english": "liquidation",
     "article": "de"
-  },
-  {
-    "dutch": "Verenigde Naties",
-    "english": "United Nations",
-    "article": "de"
-  },
-  {
-    "dutch": "verenigingrecht",
-    "english": "freedom of association",
-    "article": "het"
   },
   {
     "dutch": "vergadering",
@@ -14076,21 +9845,6 @@
   {
     "dutch": "verjaardag",
     "english": "birthday",
-    "article": "de"
-  },
-  {
-    "dutch": "verjaringstermijn",
-    "english": "statute of limitations",
-    "article": "de"
-  },
-  {
-    "dutch": "verkeersdoorstroming",
-    "english": "traffic flow",
-    "article": "de"
-  },
-  {
-    "dutch": "verkeersveiligheid",
-    "english": "traffic safety",
     "article": "de"
   },
   {
@@ -14128,16 +9882,6 @@
     "article": "de"
   },
   {
-    "dutch": "verlies",
-    "english": "loss",
-    "article": "het"
-  },
-  {
-    "dutch": "verliesfunctie",
-    "english": "loss function",
-    "article": "de"
-  },
-  {
     "dutch": "verliezen",
     "english": "to lose"
   },
@@ -14149,30 +9893,6 @@
   {
     "dutch": "verloofde",
     "english": "fiancé/fiancée",
-    "article": "de"
-  },
-  {
-    "dutch": "vermenigvuldigen",
-    "english": "to multiply"
-  },
-  {
-    "dutch": "vermenigvuldiging",
-    "english": "multiplication",
-    "article": "de"
-  },
-  {
-    "dutch": "vermogen",
-    "english": "capital/assets",
-    "article": "het"
-  },
-  {
-    "dutch": "vermogensbeheerder",
-    "english": "asset manager",
-    "article": "de"
-  },
-  {
-    "dutch": "vermogenspositie",
-    "english": "equity position",
     "article": "de"
   },
   {
@@ -14257,11 +9977,6 @@
     "article": "het"
   },
   {
-    "dutch": "vertrouwensbeginsel",
-    "english": "principle of legitimate expectation",
-    "article": "het"
-  },
-  {
     "dutch": "vervoer",
     "english": "transport",
     "article": "het"
@@ -14272,18 +9987,8 @@
     "article": "het"
   },
   {
-    "dutch": "vervoersovereenkomst",
-    "english": "transport contract",
-    "article": "de"
-  },
-  {
     "dutch": "vervreemding",
     "english": "alienation",
-    "article": "de"
-  },
-  {
-    "dutch": "verwachtingswaarde",
-    "english": "expected value",
     "article": "de"
   },
   {
@@ -14298,21 +10003,6 @@
   {
     "dutch": "verwonding",
     "english": "injury",
-    "article": "de"
-  },
-  {
-    "dutch": "verzekering",
-    "english": "insurance",
-    "article": "de"
-  },
-  {
-    "dutch": "verzekeringspolis",
-    "english": "insurance policy",
-    "article": "de"
-  },
-  {
-    "dutch": "verzekeringspremie",
-    "english": "insurance premium",
     "article": "de"
   },
   {
@@ -14367,11 +10057,6 @@
   {
     "dutch": "vis",
     "english": "fish",
-    "article": "de"
-  },
-  {
-    "dutch": "visuele communicatie",
-    "english": "visual communication",
     "article": "de"
   },
   {
@@ -14439,16 +10124,6 @@
     "article": "de"
   },
   {
-    "dutch": "vluchtelingencrisis",
-    "english": "refugee crisis",
-    "article": "de"
-  },
-  {
-    "dutch": "vluchtelingenstatus",
-    "english": "refugee status",
-    "article": "de"
-  },
-  {
     "dutch": "voedingswaarde",
     "english": "nutritional value",
     "article": "de"
@@ -14466,31 +10141,6 @@
   {
     "dutch": "voedselketen",
     "english": "food chain",
-    "article": "de"
-  },
-  {
-    "dutch": "voedselproductieketen",
-    "english": "food production chain",
-    "article": "de"
-  },
-  {
-    "dutch": "voedselveiligheid",
-    "english": "food safety",
-    "article": "de"
-  },
-  {
-    "dutch": "voedselverspilling",
-    "english": "food waste",
-    "article": "de"
-  },
-  {
-    "dutch": "voedselverwerking",
-    "english": "food processing",
-    "article": "de"
-  },
-  {
-    "dutch": "voedselzekerheid",
-    "english": "food security",
     "article": "de"
   },
   {
@@ -14523,11 +10173,6 @@
     "article": "de"
   },
   {
-    "dutch": "volatiliteit",
-    "english": "volatility",
-    "article": "de"
-  },
-  {
     "dutch": "volkerenbond",
     "english": "League of Nations",
     "article": "de"
@@ -14543,24 +10188,9 @@
     "article": "de"
   },
   {
-    "dutch": "volumetrische integraal",
-    "english": "volume integral",
-    "article": "de"
-  },
-  {
     "dutch": "volwassene",
     "english": "adult",
     "article": "de"
-  },
-  {
-    "dutch": "vonnis",
-    "english": "verdict",
-    "article": "het"
-  },
-  {
-    "dutch": "vonnis in kort geding",
-    "english": "summary judgment",
-    "article": "het"
   },
   {
     "dutch": "voogdij",
@@ -14590,16 +10220,6 @@
   {
     "dutch": "voorjaar",
     "english": "spring",
-    "article": "de"
-  },
-  {
-    "dutch": "voorlopige voorziening",
-    "english": "provisional measure",
-    "article": "de"
-  },
-  {
-    "dutch": "voorraad",
-    "english": "stock/inventory",
     "article": "de"
   },
   {
@@ -14687,11 +10307,6 @@
     "article": "de"
   },
   {
-    "dutch": "vredesonderhandeling",
-    "english": "peace negotiation",
-    "article": "de"
-  },
-  {
     "dutch": "vredesverdrag",
     "english": "peace treaty",
     "article": "de"
@@ -14708,12 +10323,12 @@
   },
   {
     "dutch": "vriend",
-    "english": "friend (male)",
+    "english": "friend",
     "article": "de"
   },
   {
     "dutch": "vriendin",
-    "english": "friend (female)",
+    "english": "friend",
     "article": "de"
   },
   {
@@ -14732,18 +10347,8 @@
     "article": "de"
   },
   {
-    "dutch": "vrijheid van meningsuiting",
-    "english": "freedom of speech",
-    "article": "de"
-  },
-  {
     "dutch": "vrijspraak",
     "english": "acquittal",
-    "article": "de"
-  },
-  {
-    "dutch": "vrijwilligerswerk",
-    "english": "volunteer work",
     "article": "de"
   },
   {
@@ -14757,11 +10362,6 @@
     "article": "de"
   },
   {
-    "dutch": "vrouwenemancipatie",
-    "english": "women's emancipation",
-    "article": "de"
-  },
-  {
     "dutch": "vrucht",
     "english": "fruit",
     "article": "de"
@@ -14772,11 +10372,6 @@
     "article": "de"
   },
   {
-    "dutch": "vulkaanuitbarsting",
-    "english": "volcanic eruption",
-    "article": "de"
-  },
-  {
     "dutch": "vuurtoren",
     "english": "lighthouse",
     "article": "de"
@@ -14784,11 +10379,6 @@
   {
     "dutch": "waarde",
     "english": "value",
-    "article": "de"
-  },
-  {
-    "dutch": "waardehiërarchie",
-    "english": "hierarchy of values",
     "article": "de"
   },
   {
@@ -14812,38 +10402,8 @@
     "article": "de"
   },
   {
-    "dutch": "waarheidscorrespondentie",
-    "english": "correspondence theory of truth",
-    "article": "de"
-  },
-  {
-    "dutch": "waarheidstheorie",
-    "english": "theory of truth",
-    "article": "de"
-  },
-  {
-    "dutch": "waarheidsvoorwaarde",
-    "english": "truth condition",
-    "article": "de"
-  },
-  {
-    "dutch": "waarschijnlijkheid",
-    "english": "probability",
-    "article": "de"
-  },
-  {
-    "dutch": "waarschijnlijkheidsfunctie",
-    "english": "likelihood function",
-    "article": "de"
-  },
-  {
     "dutch": "waarschuwing",
     "english": "warning",
-    "article": "de"
-  },
-  {
-    "dutch": "waarschuwingssysteem",
-    "english": "warning system",
     "article": "de"
   },
   {
@@ -14854,16 +10414,6 @@
     "dutch": "wachtwoord",
     "english": "password",
     "article": "het"
-  },
-  {
-    "dutch": "wachtwoordbeheer",
-    "english": "password management",
-    "article": "het"
-  },
-  {
-    "dutch": "wachtwoordbeheer",
-    "english": "password management",
-    "article": "de"
   },
   {
     "dutch": "wafel",
@@ -15007,18 +10557,8 @@
     "article": "de"
   },
   {
-    "dutch": "waterhuishouding",
-    "english": "water management",
-    "article": "de"
-  },
-  {
     "dutch": "waterkracht",
     "english": "hydropower",
-    "article": "de"
-  },
-  {
-    "dutch": "waterkrachtcentrale",
-    "english": "hydroelectric power plant",
     "article": "de"
   },
   {
@@ -15044,16 +10584,6 @@
   {
     "dutch": "waterzuivering",
     "english": "water purification",
-    "article": "de"
-  },
-  {
-    "dutch": "wavelet-transformatie",
-    "english": "wavelet transform",
-    "article": "de"
-  },
-  {
-    "dutch": "wavelettransformatie",
-    "english": "wavelet transform",
     "article": "de"
   },
   {
@@ -15107,19 +10637,9 @@
     "article": "de"
   },
   {
-    "dutch": "weerbericht",
-    "english": "weather report",
-    "article": "het"
-  },
-  {
     "dutch": "weerstation",
     "english": "weather station",
     "article": "het"
-  },
-  {
-    "dutch": "weersvoorspelling",
-    "english": "weather forecast",
-    "article": "de"
   },
   {
     "dutch": "weg",
@@ -15184,29 +10704,9 @@
     "article": "de"
   },
   {
-    "dutch": "werkgelegenheid",
-    "english": "employment",
-    "article": "de"
-  },
-  {
     "dutch": "werkgever",
     "english": "employer",
     "article": "de"
-  },
-  {
-    "dutch": "werkkapitaal",
-    "english": "working capital",
-    "article": "het"
-  },
-  {
-    "dutch": "werkloosheid",
-    "english": "unemployment",
-    "article": "de"
-  },
-  {
-    "dutch": "werkloosheidsuitkering",
-    "english": "unemployment benefit",
-    "article": "het"
   },
   {
     "dutch": "werknemer",
@@ -15234,16 +10734,6 @@
     "article": "de"
   },
   {
-    "dutch": "wet",
-    "english": "law",
-    "article": "de"
-  },
-  {
-    "dutch": "wetboek",
-    "english": "code of law",
-    "article": "het"
-  },
-  {
     "dutch": "weten",
     "english": "to know"
   },
@@ -15258,21 +10748,6 @@
     "article": "de"
   },
   {
-    "dutch": "wetenschapscommissie",
-    "english": "legal advisory board",
-    "article": "de"
-  },
-  {
-    "dutch": "wetenschapsfilosofie",
-    "english": "philosophy of science",
-    "article": "de"
-  },
-  {
-    "dutch": "wetgevende macht",
-    "english": "legislative power",
-    "article": "de"
-  },
-  {
     "dutch": "wetgever",
     "english": "legislator",
     "article": "de"
@@ -15283,29 +10758,9 @@
     "article": "de"
   },
   {
-    "dutch": "wetgevingsbevoegdheid",
-    "english": "legislative authority",
-    "article": "de"
-  },
-  {
-    "dutch": "wetgevingsproces",
-    "english": "legislative process",
-    "article": "de"
-  },
-  {
     "dutch": "wethouder",
     "english": "alderman",
     "article": "de"
-  },
-  {
-    "dutch": "wetshandhaving",
-    "english": "law enforcement",
-    "article": "de"
-  },
-  {
-    "dutch": "wetsontwerp",
-    "english": "draft law",
-    "article": "het"
   },
   {
     "dutch": "wetsvoorstel",
@@ -15331,16 +10786,6 @@
     "dutch": "wijnglas",
     "english": "wine glass",
     "article": "het"
-  },
-  {
-    "dutch": "wijsgerige analyse",
-    "english": "philosophical analysis",
-    "article": "de"
-  },
-  {
-    "dutch": "wijsgerige antropologie",
-    "english": "philosophical anthropology",
-    "article": "de"
   },
   {
     "dutch": "willen",
@@ -15415,21 +10860,6 @@
     "english": "to win"
   },
   {
-    "dutch": "winst",
-    "english": "profit",
-    "article": "de"
-  },
-  {
-    "dutch": "winst- en verliesrekening",
-    "english": "profit and loss account",
-    "article": "de"
-  },
-  {
-    "dutch": "winst-en-verliesrekening",
-    "english": "profit and loss statement",
-    "article": "de"
-  },
-  {
     "dutch": "winstgevendheid",
     "english": "profitability",
     "article": "de"
@@ -15452,16 +10882,6 @@
   {
     "dutch": "winterjas",
     "english": "winter coat",
-    "article": "de"
-  },
-  {
-    "dutch": "wiskunde",
-    "english": "mathematics",
-    "article": "de"
-  },
-  {
-    "dutch": "wiskundige optimalisatie",
-    "english": "mathematical optimization",
     "article": "de"
   },
   {
@@ -15520,18 +10940,8 @@
     "article": "de"
   },
   {
-    "dutch": "woningbouwproject",
-    "english": "housing project",
-    "article": "de"
-  },
-  {
     "dutch": "woningisolatie",
     "english": "home insulation",
-    "article": "de"
-  },
-  {
-    "dutch": "woningmarkt",
-    "english": "housing market",
     "article": "de"
   },
   {
@@ -15566,11 +10976,6 @@
   {
     "dutch": "wortel",
     "english": "carrot",
-    "article": "de"
-  },
-  {
-    "dutch": "wortelfunctie",
-    "english": "radical function",
     "article": "de"
   },
   {
@@ -15615,12 +11020,12 @@
   },
   {
     "dutch": "zanger",
-    "english": "singer (male)",
+    "english": "singer",
     "article": "de"
   },
   {
     "dutch": "zangeres",
-    "english": "singer (female)",
+    "english": "singer",
     "article": "de"
   },
   {
@@ -15723,18 +11128,8 @@
     "article": "het"
   },
   {
-    "dutch": "ziekenhuiscapaciteit",
-    "english": "hospital capacity",
-    "article": "de"
-  },
-  {
     "dutch": "ziekte",
     "english": "illness",
-    "article": "de"
-  },
-  {
-    "dutch": "ziektekostenverzekering",
-    "english": "health insurance",
     "article": "de"
   },
   {
@@ -15748,7 +11143,7 @@
   },
   {
     "dutch": "zijnde",
-    "english": "being (entity)",
+    "english": "being",
     "article": "het"
   },
   {
@@ -15818,11 +11213,6 @@
     "article": "de"
   },
   {
-    "dutch": "zonnepaneelinstallatie",
-    "english": "solar panel installation",
-    "article": "de"
-  },
-  {
     "dutch": "zonneschijn",
     "english": "sunshine",
     "article": "de"
@@ -15885,11 +11275,6 @@
     "dutch": "zwaard",
     "english": "sword",
     "article": "het"
-  },
-  {
-    "dutch": "zwager",
-    "english": "brother-in-law",
-    "article": "de"
   },
   {
     "dutch": "zwart",

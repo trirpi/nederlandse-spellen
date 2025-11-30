@@ -47,6 +47,9 @@ for (let i = 1; i < lines.length; i++) {
   // Remove quotes if present
   dutch = dutch.replace(/^"|"$/g, '');
   english = english.replace(/^"|"$/g, '');
+  
+  // Remove parenthetical notes from English (e.g., "(math)", "(male)", "(female)")
+  english = english.replace(/\s*\([^)]*\)/g, '').trim();
 
   // Extract article from Dutch word
   // Dutch words typically start with "de ", "het ", or sometimes just the word
