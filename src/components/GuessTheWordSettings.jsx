@@ -1,7 +1,6 @@
-import { useState, useMemo } from 'react'
+import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import wordlist from '../data/wordlist.json'
-import { getBeginnerWordList } from '../utils/wordlist'
+import beginnerWords from '../data/beginner-wordlist.json'
 
 function GuessTheWordSettings() {
   const navigate = useNavigate()
@@ -15,7 +14,6 @@ function GuessTheWordSettings() {
     })
   }
 
-  const beginnerWords = useMemo(() => getBeginnerWordList(wordlist), [])
   const wordCount = beginnerWords.length
 
   return (
