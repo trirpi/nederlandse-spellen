@@ -1,14 +1,16 @@
 import { useState, useEffect, useRef } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import wordlist from '../data/wordlist.json'
+import { getBeginnerWordList } from '../utils/wordlist'
 
 function GuessTheWordGame() {
   const navigate = useNavigate()
   const location = useLocation()
-  const { duration = 60 } = location.state || {}
+  const { duration = 60, useBeginnerWords = true } = location.state || {}
 
   const [words] = useState(() => {
-    return [...wordlist].sort(() => Math.random() - 0.5)
+    const sourceWords = useBeginnerWords ? getBeginnerWordList(wordlist) : wordlist
+    return [...sourceWords].sort(() => Math.random() - 0.5)
   })
   
   const [currentWordIndex, setCurrentWordIndex] = useState(0)
@@ -24,7 +26,7 @@ function GuessTheWordGame() {
     if (gameOver || timeLeft <= 0) {
       setGameOver(true)
       navigate('/guess-the-word/results', {
-        state: { answers, score, gameSettings: { duration } }
+        state: { answers, score, gameSettings: { duration, useBeginnerWords } }
       })
       return
     }
@@ -80,17 +82,21 @@ function GuessTheWordGame() {
     } else {
       // No more words, end game
       setTimeout(() => {
-        setGameOver(true)
-        navigate('/guess-the-word/results', {
-          state: { answers: newAnswers, score: newScore, gameSettings: { duration } }
-        })
+          setGameOver(true)
+          navigate('/guess-the-word/results', {
+            state: {
+              answers: newAnswers,
+              score: newScore,
+              gameSettings: { duration, useBeginnerWords }
+            }
+          })
       }, 1000)
     }
   }
 
   const handleEndGame = () => {
     navigate('/guess-the-word/results', {
-      state: { answers, score, gameSettings: { duration } }
+      state: { answers, score, gameSettings: { duration, useBeginnerWords } }
     })
   }
 
@@ -183,4 +189,3 @@ function GuessTheWordGame() {
 }
 
 export default GuessTheWordGame
-

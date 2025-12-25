@@ -1,0 +1,1167 @@
+[
+  {
+    "dutch": "altijd",
+    "english": "always",
+    "article": "de"
+  },
+  {
+    "dutch": "antwoord",
+    "english": "answer",
+    "article": "het"
+  },
+  {
+    "dutch": "appel",
+    "english": "apple",
+    "article": "de"
+  },
+  {
+    "dutch": "auto",
+    "english": "car",
+    "article": "de"
+  },
+  {
+    "dutch": "avond",
+    "english": "evening",
+    "article": "de"
+  },
+  {
+    "dutch": "avondeten",
+    "english": "dinner",
+    "article": "het"
+  },
+  {
+    "dutch": "baan",
+    "english": "job",
+    "article": "de"
+  },
+  {
+    "dutch": "baas",
+    "english": "boss",
+    "article": "de"
+  },
+  {
+    "dutch": "baby",
+    "english": "baby",
+    "article": "de"
+  },
+  {
+    "dutch": "banaan",
+    "english": "banana",
+    "article": "de"
+  },
+  {
+    "dutch": "bank",
+    "english": "bank",
+    "article": "de"
+  },
+  {
+    "dutch": "bed",
+    "english": "bed",
+    "article": "het"
+  },
+  {
+    "dutch": "been",
+    "english": "leg",
+    "article": "het"
+  },
+  {
+    "dutch": "beker",
+    "english": "cup",
+    "article": "de"
+  },
+  {
+    "dutch": "berg",
+    "english": "mountain",
+    "article": "de"
+  },
+  {
+    "dutch": "bericht",
+    "english": "message",
+    "article": "het"
+  },
+  {
+    "dutch": "bestelling",
+    "english": "order",
+    "article": "de"
+  },
+  {
+    "dutch": "bibliotheek",
+    "english": "library",
+    "article": "de"
+  },
+  {
+    "dutch": "bier",
+    "english": "beer",
+    "article": "het"
+  },
+  {
+    "dutch": "blad",
+    "english": "leaf",
+    "article": "het"
+  },
+  {
+    "dutch": "blauw",
+    "english": "blue",
+    "article": "de"
+  },
+  {
+    "dutch": "bloem",
+    "english": "flower",
+    "article": "de"
+  },
+  {
+    "dutch": "boek",
+    "english": "book",
+    "article": "het"
+  },
+  {
+    "dutch": "boom",
+    "english": "tree",
+    "article": "de"
+  },
+  {
+    "dutch": "boot",
+    "english": "boat",
+    "article": "de"
+  },
+  {
+    "dutch": "bord",
+    "english": "plate",
+    "article": "het"
+  },
+  {
+    "dutch": "bos",
+    "english": "forest",
+    "article": "het"
+  },
+  {
+    "dutch": "boter",
+    "english": "butter",
+    "article": "de"
+  },
+  {
+    "dutch": "brand",
+    "english": "fire",
+    "article": "de"
+  },
+  {
+    "dutch": "brief",
+    "english": "letter",
+    "article": "de"
+  },
+  {
+    "dutch": "broer",
+    "english": "brother",
+    "article": "de"
+  },
+  {
+    "dutch": "brood",
+    "english": "bread",
+    "article": "het"
+  },
+  {
+    "dutch": "brug",
+    "english": "bridge",
+    "article": "de"
+  },
+  {
+    "dutch": "bruin",
+    "english": "brown",
+    "article": "de"
+  },
+  {
+    "dutch": "bureau",
+    "english": "desk",
+    "article": "het"
+  },
+  {
+    "dutch": "bus",
+    "english": "bus",
+    "article": "de"
+  },
+  {
+    "dutch": "café",
+    "english": "cafe",
+    "article": "het"
+  },
+  {
+    "dutch": "cirkel",
+    "english": "circle",
+    "article": "de"
+  },
+  {
+    "dutch": "cloud",
+    "english": "cloud",
+    "article": "de"
+  },
+  {
+    "dutch": "code",
+    "english": "code",
+    "article": "de"
+  },
+  {
+    "dutch": "computer",
+    "english": "computer",
+    "article": "de"
+  },
+  {
+    "dutch": "cultuur",
+    "english": "culture",
+    "article": "de"
+  },
+  {
+    "dutch": "dag",
+    "english": "day",
+    "article": "de"
+  },
+  {
+    "dutch": "deur",
+    "english": "door",
+    "article": "de"
+  },
+  {
+    "dutch": "dienst",
+    "english": "service",
+    "article": "de"
+  },
+  {
+    "dutch": "dierentuin",
+    "english": "zoo",
+    "article": "de"
+  },
+  {
+    "dutch": "diner",
+    "english": "dinner",
+    "article": "het"
+  },
+  {
+    "dutch": "dochter",
+    "english": "daughter",
+    "article": "de"
+  },
+  {
+    "dutch": "doel",
+    "english": "goal",
+    "article": "het"
+  },
+  {
+    "dutch": "dokter",
+    "english": "doctor",
+    "article": "de"
+  },
+  {
+    "dutch": "donker",
+    "english": "dark",
+    "article": "de"
+  },
+  {
+    "dutch": "dorp",
+    "english": "village",
+    "article": "het"
+  },
+  {
+    "dutch": "drank",
+    "english": "drink",
+    "article": "de"
+  },
+  {
+    "dutch": "drankje",
+    "english": "drink",
+    "article": "het"
+  },
+  {
+    "dutch": "drinken",
+    "english": "drink",
+    "article": "het"
+  },
+  {
+    "dutch": "droom",
+    "english": "dream",
+    "article": "de"
+  },
+  {
+    "dutch": "eend",
+    "english": "duck",
+    "article": "de"
+  },
+  {
+    "dutch": "ei",
+    "english": "egg",
+    "article": "het"
+  },
+  {
+    "dutch": "eiland",
+    "english": "island",
+    "article": "het"
+  },
+  {
+    "dutch": "energie",
+    "english": "energy",
+    "article": "de"
+  },
+  {
+    "dutch": "eten",
+    "english": "food",
+    "article": "het"
+  },
+  {
+    "dutch": "familie",
+    "english": "family",
+    "article": "de"
+  },
+  {
+    "dutch": "fiets",
+    "english": "bicycle",
+    "article": "de"
+  },
+  {
+    "dutch": "film",
+    "english": "movie",
+    "article": "de"
+  },
+  {
+    "dutch": "foto",
+    "english": "photo",
+    "article": "de"
+  },
+  {
+    "dutch": "fruit",
+    "english": "fruit",
+    "article": "het"
+  },
+  {
+    "dutch": "geel",
+    "english": "yellow",
+    "article": "de"
+  },
+  {
+    "dutch": "geheim",
+    "english": "secret",
+    "article": "het"
+  },
+  {
+    "dutch": "geschiedenis",
+    "english": "history",
+    "article": "de"
+  },
+  {
+    "dutch": "getal",
+    "english": "number",
+    "article": "het"
+  },
+  {
+    "dutch": "gisteren",
+    "english": "yesterday",
+    "article": "de"
+  },
+  {
+    "dutch": "glas",
+    "english": "glass",
+    "article": "het"
+  },
+  {
+    "dutch": "goud",
+    "english": "gold",
+    "article": "de"
+  },
+  {
+    "dutch": "gras",
+    "english": "grass",
+    "article": "het"
+  },
+  {
+    "dutch": "groen",
+    "english": "green",
+    "article": "de"
+  },
+  {
+    "dutch": "groep",
+    "english": "group",
+    "article": "de"
+  },
+  {
+    "dutch": "grootmoeder",
+    "english": "grandmother",
+    "article": "de"
+  },
+  {
+    "dutch": "grootvader",
+    "english": "grandfather",
+    "article": "de"
+  },
+  {
+    "dutch": "haar",
+    "english": "hair",
+    "article": "het"
+  },
+  {
+    "dutch": "hand",
+    "english": "hand",
+    "article": "de"
+  },
+  {
+    "dutch": "hart",
+    "english": "heart",
+    "article": "het"
+  },
+  {
+    "dutch": "heet",
+    "english": "hot",
+    "article": "de"
+  },
+  {
+    "dutch": "heuvel",
+    "english": "hill",
+    "article": "de"
+  },
+  {
+    "dutch": "hoed",
+    "english": "hat",
+    "article": "de"
+  },
+  {
+    "dutch": "hogeschool",
+    "english": "college",
+    "article": "de"
+  },
+  {
+    "dutch": "hond",
+    "english": "dog",
+    "article": "de"
+  },
+  {
+    "dutch": "hoofd",
+    "english": "head",
+    "article": "het"
+  },
+  {
+    "dutch": "horloge",
+    "english": "watch",
+    "article": "het"
+  },
+  {
+    "dutch": "hotel",
+    "english": "hotel",
+    "article": "het"
+  },
+  {
+    "dutch": "huis",
+    "english": "house",
+    "article": "het"
+  },
+  {
+    "dutch": "ingenieur",
+    "english": "engineer",
+    "article": "de"
+  },
+  {
+    "dutch": "jaar",
+    "english": "year",
+    "article": "het"
+  },
+  {
+    "dutch": "jas",
+    "english": "coat",
+    "article": "de"
+  },
+  {
+    "dutch": "jurk",
+    "english": "dress",
+    "article": "de"
+  },
+  {
+    "dutch": "kaart",
+    "english": "map",
+    "article": "de"
+  },
+  {
+    "dutch": "kaartje",
+    "english": "ticket",
+    "article": "het"
+  },
+  {
+    "dutch": "kaas",
+    "english": "cheese",
+    "article": "de"
+  },
+  {
+    "dutch": "kamer",
+    "english": "room",
+    "article": "de"
+  },
+  {
+    "dutch": "kantoor",
+    "english": "office",
+    "article": "het"
+  },
+  {
+    "dutch": "kat",
+    "english": "cat",
+    "article": "de"
+  },
+  {
+    "dutch": "kerk",
+    "english": "church",
+    "article": "de"
+  },
+  {
+    "dutch": "keuken",
+    "english": "kitchen",
+    "article": "de"
+  },
+  {
+    "dutch": "kip",
+    "english": "chicken",
+    "article": "de"
+  },
+  {
+    "dutch": "klant",
+    "english": "customer",
+    "article": "de"
+  },
+  {
+    "dutch": "koe",
+    "english": "cow",
+    "article": "de"
+  },
+  {
+    "dutch": "koffie",
+    "english": "coffee",
+    "article": "de"
+  },
+  {
+    "dutch": "kok",
+    "english": "cook",
+    "article": "de"
+  },
+  {
+    "dutch": "koningin",
+    "english": "queen",
+    "article": "de"
+  },
+  {
+    "dutch": "kou",
+    "english": "cold",
+    "article": "de"
+  },
+  {
+    "dutch": "koud",
+    "english": "cold",
+    "article": "de"
+  },
+  {
+    "dutch": "laat",
+    "english": "late",
+    "article": "de"
+  },
+  {
+    "dutch": "lente",
+    "english": "spring",
+    "article": "de"
+  },
+  {
+    "dutch": "leraar",
+    "english": "teacher",
+    "article": "de"
+  },
+  {
+    "dutch": "lerares",
+    "english": "teacher",
+    "article": "de"
+  },
+  {
+    "dutch": "licht",
+    "english": "light",
+    "article": "de"
+  },
+  {
+    "dutch": "lied",
+    "english": "song",
+    "article": "het"
+  },
+  {
+    "dutch": "liefde",
+    "english": "love",
+    "article": "de"
+  },
+  {
+    "dutch": "lift",
+    "english": "elevator",
+    "article": "de"
+  },
+  {
+    "dutch": "lijn",
+    "english": "line",
+    "article": "de"
+  },
+  {
+    "dutch": "lunch",
+    "english": "lunch",
+    "article": "de"
+  },
+  {
+    "dutch": "maaltijd",
+    "english": "meal",
+    "article": "de"
+  },
+  {
+    "dutch": "maan",
+    "english": "moon",
+    "article": "de"
+  },
+  {
+    "dutch": "maand",
+    "english": "month",
+    "article": "de"
+  },
+  {
+    "dutch": "meer",
+    "english": "lake",
+    "article": "het"
+  },
+  {
+    "dutch": "melk",
+    "english": "milk",
+    "article": "de"
+  },
+  {
+    "dutch": "minuut",
+    "english": "minute",
+    "article": "de"
+  },
+  {
+    "dutch": "moeder",
+    "english": "mother",
+    "article": "de"
+  },
+  {
+    "dutch": "morgen",
+    "english": "tomorrow",
+    "article": "de"
+  },
+  {
+    "dutch": "muur",
+    "english": "wall",
+    "article": "de"
+  },
+  {
+    "dutch": "muziek",
+    "english": "music",
+    "article": "de"
+  },
+  {
+    "dutch": "nacht",
+    "english": "night",
+    "article": "de"
+  },
+  {
+    "dutch": "nek",
+    "english": "neck",
+    "article": "de"
+  },
+  {
+    "dutch": "neus",
+    "english": "nose",
+    "article": "de"
+  },
+  {
+    "dutch": "nieuw",
+    "english": "new",
+    "article": "de"
+  },
+  {
+    "dutch": "nooit",
+    "english": "never",
+    "article": "de"
+  },
+  {
+    "dutch": "ochtend",
+    "english": "morning",
+    "article": "de"
+  },
+  {
+    "dutch": "olie",
+    "english": "oil",
+    "article": "de"
+  },
+  {
+    "dutch": "ontbijt",
+    "english": "breakfast",
+    "article": "het"
+  },
+  {
+    "dutch": "oog",
+    "english": "eye",
+    "article": "het"
+  },
+  {
+    "dutch": "oom",
+    "english": "uncle",
+    "article": "de"
+  },
+  {
+    "dutch": "oor",
+    "english": "ear",
+    "article": "het"
+  },
+  {
+    "dutch": "oranje",
+    "english": "orange",
+    "article": "de"
+  },
+  {
+    "dutch": "order",
+    "english": "order",
+    "article": "de"
+  },
+  {
+    "dutch": "paard",
+    "english": "horse",
+    "article": "het"
+  },
+  {
+    "dutch": "pad",
+    "english": "path",
+    "article": "het"
+  },
+  {
+    "dutch": "park",
+    "english": "park",
+    "article": "het"
+  },
+  {
+    "dutch": "partij",
+    "english": "party",
+    "article": "de"
+  },
+  {
+    "dutch": "pen",
+    "english": "pen",
+    "article": "de"
+  },
+  {
+    "dutch": "peper",
+    "english": "pepper",
+    "article": "de"
+  },
+  {
+    "dutch": "plant",
+    "english": "plant",
+    "article": "de"
+  },
+  {
+    "dutch": "plein",
+    "english": "square",
+    "article": "het"
+  },
+  {
+    "dutch": "prijs",
+    "english": "price",
+    "article": "de"
+  },
+  {
+    "dutch": "raam",
+    "english": "window",
+    "article": "het"
+  },
+  {
+    "dutch": "regen",
+    "english": "rain",
+    "article": "de"
+  },
+  {
+    "dutch": "rivier",
+    "english": "river",
+    "article": "de"
+  },
+  {
+    "dutch": "rood",
+    "english": "red",
+    "article": "de"
+  },
+  {
+    "dutch": "room",
+    "english": "cream",
+    "article": "de"
+  },
+  {
+    "dutch": "roze",
+    "english": "pink",
+    "article": "de"
+  },
+  {
+    "dutch": "sap",
+    "english": "juice",
+    "article": "het"
+  },
+  {
+    "dutch": "schaap",
+    "english": "sheep",
+    "article": "het"
+  },
+  {
+    "dutch": "schip",
+    "english": "ship",
+    "article": "het"
+  },
+  {
+    "dutch": "schoen",
+    "english": "shoe",
+    "article": "de"
+  },
+  {
+    "dutch": "school",
+    "english": "school",
+    "article": "de"
+  },
+  {
+    "dutch": "schrijver",
+    "english": "writer",
+    "article": "de"
+  },
+  {
+    "dutch": "shirt",
+    "english": "shirt",
+    "article": "het"
+  },
+  {
+    "dutch": "sinaasappel",
+    "english": "orange",
+    "article": "de"
+  },
+  {
+    "dutch": "slaap",
+    "english": "sleep",
+    "article": "de"
+  },
+  {
+    "dutch": "sneeuw",
+    "english": "snow",
+    "article": "de"
+  },
+  {
+    "dutch": "soep",
+    "english": "soup",
+    "article": "de"
+  },
+  {
+    "dutch": "spiegel",
+    "english": "mirror",
+    "article": "de"
+  },
+  {
+    "dutch": "sport",
+    "english": "sport",
+    "article": "de"
+  },
+  {
+    "dutch": "stad",
+    "english": "city",
+    "article": "de"
+  },
+  {
+    "dutch": "station",
+    "english": "station",
+    "article": "het"
+  },
+  {
+    "dutch": "steen",
+    "english": "stone",
+    "article": "de"
+  },
+  {
+    "dutch": "stem",
+    "english": "voice",
+    "article": "de"
+  },
+  {
+    "dutch": "ster",
+    "english": "star",
+    "article": "de"
+  },
+  {
+    "dutch": "straat",
+    "english": "street",
+    "article": "de"
+  },
+  {
+    "dutch": "strand",
+    "english": "beach",
+    "article": "het"
+  },
+  {
+    "dutch": "student",
+    "english": "student",
+    "article": "de"
+  },
+  {
+    "dutch": "suiker",
+    "english": "sugar",
+    "article": "de"
+  },
+  {
+    "dutch": "taal",
+    "english": "language",
+    "article": "de"
+  },
+  {
+    "dutch": "tabel",
+    "english": "table",
+    "article": "de"
+  },
+  {
+    "dutch": "tafel",
+    "english": "table",
+    "article": "de"
+  },
+  {
+    "dutch": "team",
+    "english": "team",
+    "article": "het"
+  },
+  {
+    "dutch": "thee",
+    "english": "tea",
+    "article": "de"
+  },
+  {
+    "dutch": "tijd",
+    "english": "time",
+    "article": "de"
+  },
+  {
+    "dutch": "trap",
+    "english": "stairs",
+    "article": "de"
+  },
+  {
+    "dutch": "trein",
+    "english": "train",
+    "article": "de"
+  },
+  {
+    "dutch": "tuin",
+    "english": "garden",
+    "article": "de"
+  },
+  {
+    "dutch": "uur",
+    "english": "hour",
+    "article": "het"
+  },
+  {
+    "dutch": "vader",
+    "english": "father",
+    "article": "de"
+  },
+  {
+    "dutch": "vakantie",
+    "english": "holiday",
+    "article": "de"
+  },
+  {
+    "dutch": "vandaag",
+    "english": "today",
+    "article": "de"
+  },
+  {
+    "dutch": "veld",
+    "english": "field",
+    "article": "het"
+  },
+  {
+    "dutch": "venster",
+    "english": "window",
+    "article": "het"
+  },
+  {
+    "dutch": "verkoudheid",
+    "english": "cold",
+    "article": "de"
+  },
+  {
+    "dutch": "vierkant",
+    "english": "square",
+    "article": "het"
+  },
+  {
+    "dutch": "vinger",
+    "english": "finger",
+    "article": "de"
+  },
+  {
+    "dutch": "vis",
+    "english": "fish",
+    "article": "de"
+  },
+  {
+    "dutch": "vlees",
+    "english": "meat",
+    "article": "het"
+  },
+  {
+    "dutch": "vloer",
+    "english": "floor",
+    "article": "de"
+  },
+  {
+    "dutch": "voedsel",
+    "english": "food",
+    "article": "het"
+  },
+  {
+    "dutch": "vogel",
+    "english": "bird",
+    "article": "de"
+  },
+  {
+    "dutch": "voorjaar",
+    "english": "spring",
+    "article": "de"
+  },
+  {
+    "dutch": "vraag",
+    "english": "question",
+    "article": "de"
+  },
+  {
+    "dutch": "vrachtwagen",
+    "english": "truck",
+    "article": "de"
+  },
+  {
+    "dutch": "vrede",
+    "english": "peace",
+    "article": "de"
+  },
+  {
+    "dutch": "vriend",
+    "english": "friend",
+    "article": "de"
+  },
+  {
+    "dutch": "vriendin",
+    "english": "friend",
+    "article": "de"
+  },
+  {
+    "dutch": "vroeg",
+    "english": "early",
+    "article": "de"
+  },
+  {
+    "dutch": "vrouw",
+    "english": "woman",
+    "article": "de"
+  },
+  {
+    "dutch": "vrucht",
+    "english": "fruit",
+    "article": "de"
+  },
+  {
+    "dutch": "warm",
+    "english": "warm",
+    "article": "de"
+  },
+  {
+    "dutch": "water",
+    "english": "water",
+    "article": "het"
+  },
+  {
+    "dutch": "week",
+    "english": "week",
+    "article": "de"
+  },
+  {
+    "dutch": "weer",
+    "english": "weather",
+    "article": "het"
+  },
+  {
+    "dutch": "weg",
+    "english": "road",
+    "article": "de"
+  },
+  {
+    "dutch": "werk",
+    "english": "work",
+    "article": "het"
+  },
+  {
+    "dutch": "wijn",
+    "english": "wine",
+    "article": "de"
+  },
+  {
+    "dutch": "wind",
+    "english": "wind",
+    "article": "de"
+  },
+  {
+    "dutch": "winkel",
+    "english": "shop",
+    "article": "de"
+  },
+  {
+    "dutch": "winter",
+    "english": "winter",
+    "article": "de"
+  },
+  {
+    "dutch": "wit",
+    "english": "white",
+    "article": "de"
+  },
+  {
+    "dutch": "wolk",
+    "english": "cloud",
+    "article": "de"
+  },
+  {
+    "dutch": "woord",
+    "english": "word",
+    "article": "het"
+  },
+  {
+    "dutch": "zand",
+    "english": "sand",
+    "article": "het"
+  },
+  {
+    "dutch": "zee",
+    "english": "sea",
+    "article": "de"
+  },
+  {
+    "dutch": "ziekenhuis",
+    "english": "hospital",
+    "article": "het"
+  },
+  {
+    "dutch": "zomer",
+    "english": "summer",
+    "article": "de"
+  },
+  {
+    "dutch": "zon",
+    "english": "sun",
+    "article": "de"
+  },
+  {
+    "dutch": "zout",
+    "english": "salt",
+    "article": "het"
+  },
+  {
+    "dutch": "zus",
+    "english": "sister",
+    "article": "de"
+  },
+  {
+    "dutch": "zwart",
+    "english": "black",
+    "article": "de"
+  }
+]
