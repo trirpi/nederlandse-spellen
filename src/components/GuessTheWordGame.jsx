@@ -6,10 +6,10 @@ import { getBeginnerWordList } from '../utils/wordlist'
 function GuessTheWordGame() {
   const navigate = useNavigate()
   const location = useLocation()
-  const { duration = 60, useBeginnerWords = true } = location.state || {}
+  const { duration = 60 } = location.state || {}
 
   const [words] = useState(() => {
-    const sourceWords = useBeginnerWords ? getBeginnerWordList(wordlist) : wordlist
+    const sourceWords = getBeginnerWordList(wordlist)
     return [...sourceWords].sort(() => Math.random() - 0.5)
   })
   
@@ -26,7 +26,7 @@ function GuessTheWordGame() {
     if (gameOver || timeLeft <= 0) {
       setGameOver(true)
       navigate('/guess-the-word/results', {
-        state: { answers, score, gameSettings: { duration, useBeginnerWords } }
+        state: { answers, score, gameSettings: { duration } }
       })
       return
     }
@@ -82,21 +82,21 @@ function GuessTheWordGame() {
     } else {
       // No more words, end game
       setTimeout(() => {
-          setGameOver(true)
-          navigate('/guess-the-word/results', {
-            state: {
-              answers: newAnswers,
-              score: newScore,
-              gameSettings: { duration, useBeginnerWords }
-            }
-          })
+        setGameOver(true)
+        navigate('/guess-the-word/results', {
+          state: {
+            answers: newAnswers,
+            score: newScore,
+            gameSettings: { duration }
+          }
+        })
       }, 1000)
     }
   }
 
   const handleEndGame = () => {
     navigate('/guess-the-word/results', {
-      state: { answers, score, gameSettings: { duration, useBeginnerWords } }
+      state: { answers, score, gameSettings: { duration } }
     })
   }
 

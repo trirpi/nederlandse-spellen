@@ -6,19 +6,17 @@ import { getBeginnerWordList } from '../utils/wordlist'
 function GuessTheWordSettings() {
   const navigate = useNavigate()
   const [duration, setDuration] = useState(60)
-  const [useBeginnerWords, setUseBeginnerWords] = useState(true)
 
   const handleStartGame = () => {
     navigate('/guess-the-word/game', {
       state: {
-        duration: duration,
-        useBeginnerWords
+        duration: duration
       }
     })
   }
 
   const beginnerWords = useMemo(() => getBeginnerWordList(wordlist), [])
-  const wordCount = useBeginnerWords ? beginnerWords.length : wordlist.length
+  const wordCount = beginnerWords.length
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -54,28 +52,15 @@ function GuessTheWordSettings() {
             <div className="flex items-center justify-between bg-gray-100 rounded-lg p-4">
               <div>
                 <p className="font-semibold text-gray-800">
-                  {useBeginnerWords ? 'Beginner-friendly selection' : 'Full word list'}
+                  Beginner-friendly selection
                 </p>
                 <p className="text-sm text-gray-600">
-                  {useBeginnerWords
-                    ? 'Curated everyday words with simple, single translations.'
-                    : 'All available words, including longer and multi-translation entries.'}
+                  Curated everyday words with simple, single translations.
                 </p>
                 <p className="text-xs text-gray-500 mt-1">
-                  {useBeginnerWords
-                    ? `${beginnerWords.length} words`
-                    : `${wordlist.length} words`}
+                  {`${beginnerWords.length} words`}
                 </p>
               </div>
-              <label className="inline-flex items-center cursor-pointer">
-                <input
-                  type="checkbox"
-                  className="sr-only peer"
-                  checked={useBeginnerWords}
-                  onChange={(e) => setUseBeginnerWords(e.target.checked)}
-                />
-                <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-orange-200 rounded-full peer peer-checked:after:translate-x-full peer-checked:bg-orange-500 after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border after:border-gray-300 after:rounded-full after:h-5 after:w-5 after:transition-all relative"></div>
-              </label>
             </div>
           </div>
 
