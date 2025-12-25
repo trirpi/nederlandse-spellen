@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
-import wordlist from '../data/wordlist.json'
+import beginnerWords from '../data/beginner-wordlist.json'
 
 function GuessTheWordGame() {
   const navigate = useNavigate()
@@ -8,7 +8,7 @@ function GuessTheWordGame() {
   const { duration = 60 } = location.state || {}
 
   const [words] = useState(() => {
-    return [...wordlist].sort(() => Math.random() - 0.5)
+    return [...beginnerWords].sort(() => Math.random() - 0.5)
   })
   
   const [currentWordIndex, setCurrentWordIndex] = useState(0)
@@ -82,7 +82,11 @@ function GuessTheWordGame() {
       setTimeout(() => {
         setGameOver(true)
         navigate('/guess-the-word/results', {
-          state: { answers: newAnswers, score: newScore, gameSettings: { duration } }
+          state: {
+            answers: newAnswers,
+            score: newScore,
+            gameSettings: { duration }
+          }
         })
       }, 1000)
     }
@@ -183,4 +187,3 @@ function GuessTheWordGame() {
 }
 
 export default GuessTheWordGame
-

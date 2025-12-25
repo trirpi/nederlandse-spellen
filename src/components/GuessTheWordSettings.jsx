@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import wordlist from '../data/wordlist.json'
+import beginnerWords from '../data/beginner-wordlist.json'
 
 function GuessTheWordSettings() {
   const navigate = useNavigate()
@@ -14,7 +14,7 @@ function GuessTheWordSettings() {
     })
   }
 
-  const wordCount = wordlist.length
+  const wordCount = beginnerWords.length
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -41,6 +41,26 @@ function GuessTheWordSettings() {
         {/* Game Settings Card */}
         <div className="bg-white rounded-lg shadow-md p-8 mb-4">
           <h2 className="text-2xl font-bold mb-6">Game Settings</h2>
+
+          {/* Word List Difficulty */} 
+          <div className="mb-8">
+            <label className="block text-gray-700 font-medium mb-3">
+              Word list
+            </label>
+            <div className="flex items-center justify-between bg-gray-100 rounded-lg p-4">
+              <div>
+                <p className="font-semibold text-gray-800">
+                  Beginner-friendly selection
+                </p>
+                <p className="text-sm text-gray-600">
+                  Curated everyday words with simple, single translations.
+                </p>
+                <p className="text-xs text-gray-500 mt-1">
+                  {`${beginnerWords.length} words`}
+                </p>
+              </div>
+            </div>
+          </div>
 
           {/* Duration Slider */}
           <div className="mb-8">
@@ -78,4 +98,3 @@ function GuessTheWordSettings() {
 }
 
 export default GuessTheWordSettings
-

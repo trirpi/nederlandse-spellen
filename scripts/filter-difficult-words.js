@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Read the wordlist
-const wordlistPath = path.join(__dirname, '../src/data/wordlist.json');
+const wordlistPath = path.join(__dirname, '../src/data/beginner-wordlist.json');
 const words = JSON.parse(fs.readFileSync(wordlistPath, 'utf-8'));
 
 console.log(`Starting with ${words.length} words`);
